@@ -13,24 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Storheter och enheter.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "11d6d3b44d4d5922",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "eac6a4643a21513c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e1f2ff221ce289a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466c7be83870e0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storheter och enheter.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "a08175f5b7e578fe",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Storheter och enheter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Storheter och enheter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Storheter och enheter.md"
               }
             }
           }
@@ -162,6 +174,9 @@
   },
   "active": "066114eb2f25b431",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Kemi.md",
+    "Storheter och enheter.md",
+    "Elektrolyter.md",
+    "create a link.md"
   ]
 }
