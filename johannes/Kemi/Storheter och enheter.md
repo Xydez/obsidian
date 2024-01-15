@@ -1,3 +1,4 @@
+#kemi
 ## Enheter
 | Enhet | Var. | Storhet[^1] | Förklaring |
 | ---- | :--: | ---- | ---- |

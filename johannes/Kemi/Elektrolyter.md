@@ -1,3 +1,5 @@
+#kemi 
+
 **Etymologi**: Från klassisk grekiska, *electro-* (elektricitet) + *lytos* (lösgöra, frigöra).
 
 Elektrolyter är molekyler som har separerats från varandra när de löses upp i vatten, t.ex. $\ce{HCl->H+Cl-}$

@@ -1,3 +1,5 @@
+#kemi 
+
 > En *syra* är ett ämne som *ger* en proton ($\ce{H+}$, vätejon). En *bas* är ett ämne som tar emot en proton.
 
 Detta sker nästan alltid i en vattenlösning, då $\ce{H2O}$ blir till $\ce{H3O+}$ och $\ce{OH-}$ för syror respektive baser.
