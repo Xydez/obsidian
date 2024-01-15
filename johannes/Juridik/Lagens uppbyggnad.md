@@ -1,5 +1,6 @@
 #grunder #begrepp
 
+## Författningar
 Juridisk analys bedrivs genom *rättskällor*. De rättskällor som i första hand undersöks är *[[Ord och begrepp#^forfattning|författningar]]*. En författning kungjord i [[Ord och begrepp#^sfs|SFS]] identifieras med dess författningsnr. `ÅÅÅÅ:N+`.
 
 **Rättsligt bindande**
