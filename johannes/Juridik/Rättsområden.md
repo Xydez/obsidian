@@ -1,0 +1,12 @@
+#juridik 
+- **Civilrätt** - Reglerar interaktioner mellan personer (inkl. jur. per.?)
+- **Offentlig rätt** - Reglerar interaktioner mellan personer och staten
+	- Statsrätt/konstitutionell rätt
+	- Förvaltningsrätt
+	- Skatterätt
+	- Straffrätt
+	- Processrätt
+- **Internationell rätt** - Reglerar internationella saker?
+	- Folkrätt
+	- EU-rätt
+	- Internationell privaträtt
