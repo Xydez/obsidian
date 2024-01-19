@@ -1,3 +1,4 @@
+#juridik 
 ## Rättsområden
 - **Avtalsrätt** - När ett avtal är giltligt.
 	- Lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område

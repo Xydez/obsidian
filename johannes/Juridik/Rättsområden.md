@@ -8,13 +8,13 @@ Det finns två huvudsakliga rättsområden, civilrätt och offentlig rätt.
 	- **Familjerätt** - Berör frågor rörande familjen såsom giftermål, samboskap och förhållandet mellan barn och föräldrar.
 	- **Successionsrätt** - Arv och testamente. Om den avlidne var gift blir dock även äktenskapsbalken tillämplig.
 - **Offentlig rätt** - Reglerar interaktioner mellan personer och staten
-	- Statsrätt/konstitutionell rätt
-	- Förvaltningsrätt
-	- Skatterätt
+	- **Statsrätt/konstitutionell rätt**
+	- **Förvaltningsrätt** - Reglerar interaktioner mellan individen och myndigheter eller myndigheter sinsemellan.
+	- **Skatterätt**
 	- [[Straffrätt]]
-	- **Processrätt** - Reglerar förfarandet vid domstolar. Förekommer huvudsakligen till uttryck i RB.
+	- **[[Rättegångsprocess|Processrätt]]** - Reglerar förfarandet vid domstolar. Förekommer huvudsakligen till uttryck i RB.
 
 Vid sidan om detta finns även ett tredje rättsområde, internationell rätt, med flera underområden.
 - Folkrätt
-- EU-rätt
+- [[EU-rätt]]
 - Internationell privaträtt

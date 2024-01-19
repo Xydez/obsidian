@@ -13,6 +13,9 @@
 - **Rekvisit** - Förutsättningarna för att en lag skall kunna tillämpas. I formen "Om \<rekvisit\> så \<rättsföljd\>".
 - **Rättsfaktum** - Konkret uppfyllelse av ett rekvisit. I en process åberopas rättsfaktum för att styrka att en rättsregel är uppfylld. Se [[Lagtextstruktur]].
 - **Dignitet** - Digniteten av en rättskälla är hur högt den är värderad.
+- **Fullgörelsetalan** - \[Civilrätt\] Talan där käranden begär en prestation av svaranden.
+- **Fastställelsetalan** - \[Civilrätt\] Talan där käranden begär att domstolen fastställer något, exv. var en tomtgräns faller eller vem som har rätt till något.
+- **Konstituerande regler** - Regler som styr organiseringen av myndigheter
 ## Förkortningar
 * "a." - Angiven
 * "prop." - Proposition

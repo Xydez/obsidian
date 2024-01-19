@@ -1,3 +1,4 @@
+#juridik 
 ### Lagtolkningsmodeller
 Detta diskuteras mer utförligt i *Juridiken och dess arbetssätt - en introduktion*[^1].
 
