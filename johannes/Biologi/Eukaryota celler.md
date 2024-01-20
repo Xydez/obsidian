@@ -6,9 +6,9 @@ Eukaryota celler är celler med en cellkärna.
 
 ![[Djurcell.png]]
 
-*Cellkärnan* innehåller kromosomerna och avgränsas av *kärnmembranet*.
+*Cellkärnan* innehåller kromosomerna och avgränsas av *kärnmembranet*. Den yttre delen av kärnmembranet är förbundet med det [[Endoplasmatiska nätverket|endoplasmatiska nätverket]]. Vid utsidan av det endoplasmatiska nätverkets ena system, *rough endoplasmic reticulum* (RER), sitter [[Ribosomer|ribosomer]], vars syfte(?) är att producera protein.
 
-Området runt cellen kallas *cytoplasman*.
+Området runt cellen kallas *cytoplasman*. I cytoplasman finns bl.a. [[Lysosomer|lysosomer]], vars syfte är att sönderdela stora molekyler till mindre, och därför innehåller många enzymer för att katalysera dessa reaktioner.
 
 De strukturer som befinner sig i cytoplasman kallas *organeller*[^2].
 

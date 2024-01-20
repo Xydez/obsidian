@@ -1,10 +1,11 @@
 #biologi #cellbiologi
 
-Alla celler lever och klarar sig endast i vatten. En cell består av diverse [[Kemi/Organisk Kemi|organiska molekyler]].
+1. [[Cellens byggstenar]]
+2. De två typerna av celler[^1]
+	1. **[[Eukaryota celler]]** - Utgör djur, växter och svampar
+	2. **[[Prokaryota celler]]** - Utgör arkéer och bakterier
 
-Det finns två typer av celler:[^1]
-- **[[Eukaryota celler]]** - Utgör djur, växter och svampar
-- **[[Prokaryota celler]]** - Utgör arkéer och bakterier
+Alla celler lever och klarar sig endast i vatten. En cell består av diverse [[Organisk Kemi|organiska molekyler]].
 
 Notera att virus inte är celler.
 
