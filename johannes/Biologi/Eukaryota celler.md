@@ -1,4 +1,4 @@
-#biologi #cellbiologi 
+#biologi #biologi/cellbiologi 
 
 Eukaryota celler är celler med en cellkärna.
 

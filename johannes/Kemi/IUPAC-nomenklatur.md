@@ -1,4 +1,4 @@
-#kemi #organisk-kemi
+#kemi #kemi/organisk-kemi
 
 ## Funktionella grupper
 ### Alkan

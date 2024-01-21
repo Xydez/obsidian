@@ -1,4 +1,4 @@
-#kemi #organisk-kemi 
+#kemi #kemi/organisk-kemi 
 ## Hur estrar bildas
 En ester bildas genom en reaktion mellan en [[Alkohol|alkohol]] och en [[Organiska syror|syra]]. Den vanligaste sortens estrar är *karboxylsyreestrar*, som uppstår när en alkohol reagerar med en karboxylsyra.
 ### Exempel

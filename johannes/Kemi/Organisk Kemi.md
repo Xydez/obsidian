@@ -1,4 +1,4 @@
-#kemi #organisk-kemi 
+#kemi #kemi/organisk-kemi 
 
 Organisk kemi är i grund och botten kolets kemi. Anledningen till att just kol är grundatomen för allt levande är för att den har fyra valenselektroner och därför klarar av att skapa enorma molekyler med väldigt många bindningar.
 

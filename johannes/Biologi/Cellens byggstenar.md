@@ -1,4 +1,4 @@
-#biologi #cellbiologi 
+#biologi #biologi/cellbiologi 
 
 Celler uppbyggs av [[Organisk Kemi|organiska molekyler]]. Dessa molekyler kan i vissa fall bli så stora att de innehåller miljontals atomer, varpå de kallas *makromolekyler*. Men alla dessa molekyler delar i grund och botten några enkla beståndsdelar.
 ### Protein

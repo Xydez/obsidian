@@ -1,4 +1,4 @@
-#biologi #cellbiologi
+#biologi #biologi/cellbiologi
 
 1. [[Cellens byggstenar]]
 2. De två typerna av celler[^1]

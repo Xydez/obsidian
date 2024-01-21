@@ -1,4 +1,4 @@
-#kemi #organisk-kemi 
+#kemi #kemi/organisk-kemi 
 En aren är ett ämne med en eller flera fenylgrupper (bensenringar). Ändelsen -yl kommer från att det är en radikal.[^1]
 
 **Fenyl** ^383cc4

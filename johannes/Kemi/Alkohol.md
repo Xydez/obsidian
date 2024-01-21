@@ -1,4 +1,4 @@
-
+#kemi 
 En alkohol är ett ämne med en eller flera OH-grupper.
 
 Om en alkohol har en OH-grupp kallas den envärd, om den har två kallas den tvåvärd, osv. Jämför t.ex. etanol, glykol och glycerol.
