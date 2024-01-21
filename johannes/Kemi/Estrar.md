@@ -1,10 +1,6 @@
 #kemi #organisk-kemi 
 ## Hur estrar bildas
-En ester bildas genom en reaktion mellan en [[Alkohol|alkohol]] och en [[Organiska syror|karboxylsyra]].
-
-> [!todo] Undersök
-> Är en *alkohol* en organisk molekyl med en $\ce{OH}$-grupp?
-> Är en *karboxylsyra* en organisk molekyl med en $\ce{COOH}$-grupp?
+En ester bildas genom en reaktion mellan en [[Alkohol|alkohol]] och en [[Organiska syror|syra]]. Den vanligaste sortens estrar är *karboxylsyreestrar*, som uppstår när en alkohol reagerar med en karboxylsyra.
 ### Exempel
 Etanol reagerar med butansyra "smörsyra".
 

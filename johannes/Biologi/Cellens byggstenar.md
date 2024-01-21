@@ -20,7 +20,7 @@ Det finns två sorters nukleinsyror - DNA och RNA. Varje DNA-sträng går att sk
 > Läs s167 och s171-172 i *Biologi 1*.
 
 ### Lipider
-Lipider är många olika ämnen vars gemensamma egenskap är att de är lösliga i [[Organiska lösningsmedel|organiska lösningsmedel]].
+[[Lipider]] är många olika ämnen vars gemensamma egenskap är att de är lösliga i [[Organiska lösningsmedel|organiska lösningsmedel]].
 
 [^1]: Notera att vissa protein innehåller även andra molekyler, t.ex. hemgruppen i hemoglobin.
 [^2]: Dessa andra atomer ger molekylen egenskaper, t.ex. vattenlöslighet.
