@@ -1,7 +1,9 @@
-#juridik 
+#juridik
+
+## Rättegångsprocessen
 Rättegångsprocessen regleras huvudsakligen i RB.
 
-Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan till dess att domstolen meddelar sin dom, och alltså inte endast huvudförhandlingen.
+Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan[^5] till dess att domstolen meddelar sin dom, och alltså inte endast huvudförhandlingen.
 
 1. Det inkommer till domstolen en *stämningsansökan* med ett *anspråk* innehållandes 1) en eller flera *yrkanden*, samt 2) en eller flera *grunder* och 3) *bevis*[^4] för att styrka anspråket.
 	- I tvistemål kallas yrkande part för *kärande* och den stämda parten för *svarande*.
@@ -18,8 +20,8 @@ Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan
 5. Rätten drar sig tillbaka för överläggning.
 6. Domstolen meddelar sin dom (om talan ogillas eller bifalls).
 
-
 [^1]: Dock endast i den mån domstolen anser svarandens medgivande vara juridiskt förnuftigt.
 [^2]: Här brukar domstolen agera mellanhand och kalla in var och en och sakligt presentera motstående parts ståndpunkt.
 [^3]: Här kan de även vitsorda yrkanden. Exempelvis vitsorda ett belopp som skäligt men bestrida betalningsskyldighet. Ofta görs detta för att bespara resurser.
 [^4]: I Sverige tillämpas *fri bevisföring*, alltså att alla bevis får åberopas oavsett lämplighet eller felaktig tillkommelse; detta jämfört med den stereotypiska amerikanska domstolen där det alltemellanåt hörs "objection" från andra sidan salen. 
+[^5]: Notera att det tekniskt sett är domstolen som utfärdar stämningen.
