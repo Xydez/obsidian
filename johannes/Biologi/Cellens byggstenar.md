@@ -1,6 +1,9 @@
-#biologi #biologi/cellbiologi 
+#biologi #biologi/cellbiologi #revidering-krävs
 
-Celler uppbyggs av [[Organisk Kemi|organiska molekyler]]. Dessa molekyler kan i vissa fall bli så stora att de innehåller miljontals atomer, varpå de kallas *makromolekyler*. Men alla dessa molekyler delar i grund och botten några enkla beståndsdelar, kallade *biomolekyler*.
+> [!todo] Undersök mer
+> Läs s167 och s171-172 i *Biologi 1*.
+
+Celler uppbyggs av [[Organisk kemi|organiska molekyler]]. Dessa molekyler kan i vissa fall bli så stora att de innehåller miljontals atomer, varpå de kallas *makromolekyler*. Men alla dessa molekyler delar i grund och botten några enkla beståndsdelar, kallade *biomolekyler*.
 
 Det finns fyra sorters biomolekyler: kolhydrater, proteiner, lipider och nukleinsyror.
 ### Kolhydrater
@@ -18,9 +21,6 @@ Ett **protein** består av olika permutationer av 20 grundläggande [[Aminosyror
 [[Lipider]] är många olika ämnen vars gemensamma egenskap är att de är lösliga i [[Organiska lösningsmedel|organiska lösningsmedel]].
 ### Nukleinsyror
 Det finns två sorters nukleinsyror - DNA och RNA. Varje DNA-sträng går att skriva om till en komplementär RNA-sträng, som innehåller information om vilka aminosyror som skall användas för att bygga upp vissa protein.
-
-> [!todo] Undersök mer
-> Läs s167 och s171-172 i *Biologi 1*.
 
 [^1]: Notera att vissa protein innehåller även andra molekyler, t.ex. hemgruppen i hemoglobin.
 [^2]: Dessa andra atomer ger molekylen egenskaper, t.ex. vattenlöslighet.

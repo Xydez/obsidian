@@ -1,4 +1,7 @@
-#juridik #juridik/personrätt #ofullständig
+#juridik #juridik/personrätt #revidering-krävs
+
+> [!todo] Fråga
+> Vilken sorts fullmakt är detta? Förvaltarskap?
 
 En framtidsfullmakt är att teckna en fullmakt som aktiverar under förutbestämda kriterier och har vissa instruktioner.
 
@@ -10,6 +13,3 @@ Formkrav
 Fullmaktstagaren har redovisningsskyldighet (till vem går att skriva i fullmakten), samt att på begäran lämna en redovisning över uppdraget till släktingar eller överförmyndaren.
 
 Detta framgår i Lag (2017:310) om framtidsfullmakter.
-
-> [!todo] Fråga
-> Vilken sorts fullmakt är detta? Förvaltarskap?

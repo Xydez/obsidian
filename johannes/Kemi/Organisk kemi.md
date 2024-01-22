@@ -1,9 +1,9 @@
 #kemi #kemi/organisk-kemi 
 
-Organisk kemi är i grund och botten kolets kemi. Anledningen till att just kol är grundatomen för allt levande är för att den har fyra valenselektroner och därför klarar av att skapa enorma molekyler med väldigt många bindningar.
-
 > [!todo] Undersök
-> Vad är ett "kolväte" exakt och varför är det relevant?
+> Se klart Magnus Ehingers [videolektioner](https://www.youtube.com/playlist?list=PLELzwOckEbihFIsPoqP3fO45HgwxIMDbY) på organisk kemi.
+
+Organisk kemi är i grund och botten kolets kemi. Anledningen till att just kol är grundatomen för allt levande är för att den har fyra valenselektroner och därför klarar av att skapa enorma molekyler med väldigt många bindningar.
 ## Översikt
 Organisk kemi har flera områden.
 1. [[IUPAC-nomenklatur]]
@@ -25,8 +25,5 @@ Namnet grundar sig i att ett omättat kolväte kan tillföras exempelvis väteat
 Mättnad är särskilt viktigt när man talar om mättade och omättade [[Fett|fetter]].
 
 *Fortsättning...*
-
-> [!todo] Undersök
-> Se klart Magnus Ehingers [videolektioner](https://www.youtube.com/playlist?list=PLELzwOckEbihFIsPoqP3fO45HgwxIMDbY) på organisk kemi.
 
 [^1]: Denna reaktion kallas för [hydrogenering](https://sv.wikipedia.org/wiki/Hydrogenering) eller hydrering

@@ -38,6 +38,7 @@
 **Beskrivning:** En [[Aldehyd|aldehyd]] bildas vid oxidation av [[Alkohol#Struktur|primära alkoholer]], då OH-gruppen och den föregående kolens väte reagerar med syre för att bilda vatten, varpå molekylen får en CHO-grupp.
 **Suffix:** -al
 **Exempel:** 1-propanol blir propanal.
+
 > [!todo] Utforska övriga funktionella grupper
 > - [[Keton|Ketoner]], som bildas vid oxidation av sekundära alkoholer, likt aldehyder, och får suffixet "-on", t.ex. propanon (aceton).
 > - [[Amin|Aminer]], som kännetecknas av en aminogrupp $\ce{NH2}$.
