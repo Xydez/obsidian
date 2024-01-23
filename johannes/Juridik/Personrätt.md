@@ -13,7 +13,7 @@
 **Rättshandling** - Förmåga att t.ex. ingå avtal eller annars ombesörja sina rättsliga angelägenheter
 ## Innehållsförteckning
 1. [[#Omyndiga personer]]
-2. Fullmakter
+2. Personrättsliga [[Fullmakt|fullmakter]]
 	1. [[God man]]
 	2. [[Förvaltarskap]]
 	3. [[Anhörigbehörighet]]

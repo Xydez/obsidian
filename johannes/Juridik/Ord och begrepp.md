@@ -14,6 +14,7 @@
 - **Konstituerande regler** - Regler som styr organiseringen av myndigheter
 - **Bevisbörda** - Vem det är som måste bevisa någonting
 - **Beviskrav** - Vad som krävs för att bevisbördan skall vara uppfylld
+- **Ratihabera** - Att godkänna en rättshandling i efterhand.
 ### [[Personrätt]]
 - **Rättssubjekt** - En fysisk eller juridisk person med *rättskapacitet*.
 - **Rättskapacitet** - Förmågan att ha juridiska rättigheter och skyldigheter, jfr. *rättshandlingsförmåga*.
