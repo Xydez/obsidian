@@ -1,4 +1,5 @@
-#kemi #biologi 
+#biologi #kemi #kemi/organisk-kemi 
+
 Ett fett är en ester bildad med alkoholen glycerol och tre organiska fettsyror.
 
 **Glycerol** (alkohol)

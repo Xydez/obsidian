@@ -3,10 +3,10 @@
 Detta diskuteras mer utförligt i *Juridiken och dess arbetssätt - en introduktion*[^1].
 
 1. **Objektiv lagtolkning** - Bokstavlig tolkning av lagtexten. Mest använd inom straffrätten p.g.a. [[Rättsprinciper#^fe46ae|legalitetsprincipen]].
-2. **Subjektiv lagtolkning** - Förenklat innebär denna metod att förarbetena konsulteras.
+2. **Subjektiv lagtolkning** - Detta innebär att ta reda på hur lagstiftaren menar att *lagtexten* skall tolkas. Denna metod innebär i praktiken oftast att förarbetena konsulteras.
 3. **Teleologisk lagtolkning** - Detta innebär att konsultera ändamålet av lagen.
 	1. *I klara fall* - När det finns en rättsregel som är klart tillämplig
-		1. Tillämpa lagen
+		1. **Tillämpa lagen**
 		2. **Reduktionsslut** - I sällsynta fall kan domstolen besluta att inte tillämpa en lag trots att den är tillämplig, vilket kallas *reduktionsslut*; detta eftersom tillämpningen inte är enig med lagens syfte.
 	2. *I osäkra fall* - När det finns en närliggande rättsregel som kanske är tillämplig
 		1. **Extensiv tolkning** - När domstolen väljer att utvidga tolkningen av en närliggande lagregel till att även gälla för en liknande situation.

@@ -23,6 +23,11 @@
 ### Etrar
 **Beskrivning:** En [[Eter|eter]] är ett samlingsnamn på två föreningar som binds av en syreatom. De kan bl.a. bildas vid [[Kondensation|kondensation]] av två alkoholer, som binds ihop av en syreatom.
 **Suffix:** -eter
+### Fosfat
+
+^909d8c
+
+**Beskrivning**: En fosfat är ett salt eller en ester av fosforsyra. Det används bl.a. i [[ATP]] och [[Nukleinsyror#DNA|DNA]].
 ### Tioler
 **Beskrivning**: En [[Tiol|tiol]] är ett kolväte med en eller flera SH-grupper.
 **Suffix**: -tiol

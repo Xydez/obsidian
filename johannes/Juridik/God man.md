@@ -1,5 +1,5 @@
 #juridik #juridik/personrätt
-## God man
+
 God man skall utses på grund av
 - Sjukdom eller annat försvagat hälsotillstånd
 - Psykisk störning

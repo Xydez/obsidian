@@ -1,7 +1,4 @@
-#juridik #juridik/förmögenhetsrätt/avtalsrätt #ofärdig
-
-> [!todo] Kolla klart videon
-> Kolla klart [video 2](https://hv.instructure.com/courses/8038/pages/inspelat-material-2?module_item_id=337762).
+#juridik #juridik/förmögenhetsrätt/avtalsrätt
 
 Att besitta fullmakt innebär att den *fullmäktige* må agera som en mellanhand mellan *huvudmannen* och *tredje man*.
 
@@ -37,3 +34,9 @@ Se äv. 10 § 1 st. AvtL
 Fullmakt som grundar sig på ett anställningsförhållande mellan huvudmannen och den fullmäktige.
 
 Vad som utgör behörigheten fastställs i ställingsfullmakter (utöver anställningsavtalet?) av sedvänja.
+## Återkallelse
+För uppdragsfullmakter gäller endast att huvudmannen meddelar fullmäktigen att fullmakten inte längre är giltig.
+
+För skriftliga fullmakter behöver huvudmannen dessutom återkalla eller förstöra fullmakten. Fullmäktigen är då tvungen att återge fullmakten.
+
+För ställningsfullmakter återkallas fullmakten då den anställde skiljs från befattningen.
