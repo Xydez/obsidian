@@ -1,4 +1,5 @@
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
+
 Avtalets ogiltighet regleras huvudsakligen i AvtL 3 kap.
 
 Ett avtal är i grund ogiltigt om [[Personrätt|personen]] är
@@ -27,7 +28,7 @@ Ett avtal kan ogiltigförklaras enligt följande grunder:
 	- I dessa fall finns rekvisitet att tredje man känt till eller borde ha känt till ogiltighetsgrunden.
 3. **Svek**. När någon lurat någon att ingå ett avtal på falska grunder. *AvtL 3 kap. 30 §*.
 	- Detta innebär i regel att motparten medvetet har tillhandahållit falsk information, men kan i vissa fall även röra förtigande av väsentliga uppgifter.
-4. **Ocker**. När avtal har bildats genom utnyttjande av annans trångmål, oförstånd, lättsinne eller beroendeställning i syfte att förse sig med en förmån på bekostnad av motparten. *AvtL 3 kap. 31 §*.
+4. **Ocker**. När avtal har bildats genom utnyttjande av annans trångmål, oförstånd, lättsinne eller beroendeställning i syfte att förse sig med en förmån på bekostnad av motparten. *AvtL 3 kap. 31 §*. ^ocker
 	- För att denna lag skall bli aktuell krävs ett *mycket stort missförhållande* mellan parternas prestationer. Det krävs också att ena parten känner till den andras missförhållande, och därmed agerar i *ond tro*.
 5. **Förklaringsmisstag**. När avtalet innehåller misstag som motparten vet eller bör veta. *AvtL 3 kap. 31 § 1 st.*
 6. **Strid mot tro och heder**. Också kallat den "lilla generalklausulen". När det annars strider mot tro och heder för parten att åberopa avtalet. Det krävs även att parten agerar i ond tro. *AvtL 3 kap. 33 §*. Jämför [[Avtalsrätt#^pactum-turpe|pactum turpe]].

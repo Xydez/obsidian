@@ -20,6 +20,12 @@
 - **Rättskapacitet** - Förmågan att ha juridiska rättigheter och skyldigheter, jfr. *rättshandlingsförmåga*.
 - **Rättshandlingsförmåga** - Förmågan av *rättssubjekt* att själv ombesörja sina rättsliga angelägenheter, exv. ingå avtal. Fysiska personer får rättshandlingsförmåga vid 18 års ålder.
 - **Rättshandling** - Handling till vilket en eller flera rättsföljder är knutna.
+### [[Avtalsrätt]]
+- **[[Anbud och accept-modellen#Anbud|Anbud]]** - Erbjudande till en person om att ingå avtal
+- **[[Anbud och accept-modellen#Accept|Accept]]** - Svar på ett anbud
+- **Oren accept** - Accept som ändrar anbudet; räknas som ett nytt anbud
+- **[[Anbud och accept-modellen#Utbud|Utbud]]** - Anbud till obestämd krets
+- **[[Ogiltiga avtal#^ocker|Ocker]]** - Avtal som utnyttjar person i trångmål el. dylikt
 ## Förkortningar
 * "a." - Angiven
 * "prop." - Proposition
