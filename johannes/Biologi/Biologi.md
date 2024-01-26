@@ -1,6 +1,6 @@
 #biologi
 
-1. [[Cellbiologi]]
+1. [[Cell|Cellbiologi]]
 2. [[Växter och svampar]]
 3. [[Humanfysiologi]]
 

@@ -1,4 +1,5 @@
 #biologi #biologi/cellbiologi
+
 Ett enzym är ett globulärt [[Protein|protein]] som katalyserar[^1] en viss sorts reaktion.
 
 Enzymer är i regel bundna till en bestämd plats i cellen för att just där katalysera en viss reaktion i produktionsledet.[^2]
@@ -14,5 +15,5 @@ I cellen brukar ofta produkten till ett enzym vara substratet till en annan och 
 Eftersom ett enzym bara kan katalysera en reaktion är det avgörande för en cell vilka enzymer den är utrustad med.
 
 [^1]: Att påskynda eller saktar ner en reaktion.
-[^2]: Exempelvis är fotosyntesens enzymer samlade i [[Kloroplast|kloroplasterna]].
+[^2]: Exempelvis är [[Fotosyntes|fotosyntesens]] enzymer samlade i [[Kloroplast|kloroplasterna]].
 [^3]: Enzymer fungerar liksom alla katalytiska molekyler genom att sänka en reaktions aktiveringsenergi ($E_\text{a}$).
