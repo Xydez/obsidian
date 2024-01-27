@@ -1,7 +1,4 @@
-#anteckning #biologi
-
-## Cellens metabolism
-Cellens *metabolism* benämner de reaktioner som bryter ner eller bygger upp molekyler i celler.
+[[Cellbiologi|Cellens]] *metabolism* benämner de reaktioner som bryter ner eller bygger upp molekyler i celler.
 
 - De reaktioner som bryter ner molekyler till mindre beståndsdelar kallas *katabola reaktioner*, och är oftast exoterma.
 - De reaktioner som bygger upp större molekyler kallas *anabola reaktioner* och är oftast endoterma. Uppbyggandet av molekyler kallas även för syntes. Exempel är [[Proteinsyntes|proteinsyntes]] eller [[Fotosyntes|fotosyntes]].
