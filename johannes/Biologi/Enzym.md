@@ -7,7 +7,7 @@ Enzymer är i regel bundna till en bestämd plats i cellen för att just där ka
 Ritningen till enzymer och andra [[Protein|proteiner]] finns i form av [[Nukleinsyror|DNA:t]] i [[Cellkärna|cellkärnan]].
 ## Enzymers funktion
 Enzymer har en plats på sin yta (kallat dess *aktiva centrum*) där de molekyler som går in i reaktionen (kallat *substratet*) passar. När substratet binder till det aktiva centrumet hamnar de i en sådant läge att en kemisk reaktion underlättas (katalyseras).[^3] När reaktionen är klar kan de bildade produkterna lämna enzymet varpå det återtar sin ursprungliga form.
-## Enzymer i cellens ämnesomsättning
+## Metaboliska vägar
 I cellen brukar ofta produkten till ett enzym vara substratet till en annan och på så sätt bilda långa *metaboliska vägar*. Ibland kan resultatet från ett enzym gå till flera andra reaktioner, och ibland kan resultatet av flera reaktioner vara substrat till ett enzym. På detta sätt förgrenas och fogas de metaboliska vägarna i cellens produktionsled (dess *ämnesomsättning*).
 
 ![[Cellens ämnesomsättning.png]]
