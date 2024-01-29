@@ -5,36 +5,18 @@
 > - Vad är *konsensualavtal*?
 
 ## Översikt
-Grunden för avtalsrätten är Lag (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område.
+Avtalsrätten faller inom området [[Förmögenhetsrätt|förmögenhetsrätt]].
 
-Många områden täcks dock inte av lagen, och då används i juridiken istället allmänna principer, vilka grundas i samhällsnormer.
+Det finns två huvudsakliga områden inom avtalsrätt.
+1. [[Allmän avtalsrätt]] som grundas i Lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område.
+2. [[Speciell avtalsrätt]] som i vissa sorters avtal överskrider den allmänna avtalsrätten
 
-### Innehållsförteckning
-1. [[Anbud och accept-modellen]]
-2. [[Ogiltiga avtal]]
-3. [[Fullmakt]]
-## Allmänt om avtal
-Grundregeln för avtal i Sverige är "avtalsfrihet", det vill säga att det skall gå att avtala om saker. Notera därför att stora delar av avtalsrätten är dispositiv, och alltså går att avtala bort.
+### Avtal kring egendom
+Det finns egentligen fyra gånger två avtalstyper - *Köp*, *byte*, *hyra* och *gåva* av *fast* respektive *lös egendom*.
+- **Fast egendom** regleras på samtliga vis i jordabalken (huvuds. 4:e kap)
+- **Lös egendom**
+	- **Köp/Byte** regleras av [[Köprätt|köplagen]] och [[Konsumentköprätt|konsumentköplagen]]
+	- **Hyra** går genom [[Analogi|analogi]][^1] också in i köplagen
+	- **Gåva** regleras i [[Gåvolagen|gåvolagen]]
 
-**Avtalsformer:**
-1. Realavtal - Muntliga avtal
-2. Formalavtal - Avtal med formkrav
-	- T.ex. köp av fast egendom
-3. Konkludenta avtal - Underförstådda avtal
-	- Kan utvecklas genom *kutym* och *sedvänja*.
-
-**Allmänna principer:**
-1. "Pacta sunt servanda" - Avtal skall hållas.
-2. "Pactum turpe" - Olagliga eller omoraliska avtal förtjänar inte rättsordningens skydd. ^pactum-turpe
-3. "Löftesprincipen" - Ett anbud är *ensidigt bindande* från det att motparten tagit del av det tills att *acceptfristen* gått ut eller anbudet avslagits.
-## Avtalsbrott
-Att man inte fullföljer sin del av avtalet.
-
-**Lojalitetsplikten**
-Att man skall tillvarata varandras intressen i bästa möjliga mån även utanför det som står i avtalet.
-## Köprätt
-De köprättsliga lagarna behandlar köp av lös egendom.[^1]
-- **Köprättsligt kontrollansvar** - Innebär att motparten blir skadeståndsskyldig endast i den mån avtalsbrottet ligger inom motpartens kontroll.
-
-[^1]: Köp av fast egendom ingår inte i köprätten
-[^2]: Här menas när anbudet/accepten anländer till mottagaren
+[^1]: Se *Juridiken och dess arbetssätt - en introduktion* avsnitt 7.2.

@@ -1,3 +1,5 @@
+#biologi #biologi/cellbiologi 
+
 [[Cellbiologi|Cellens]] *metabolism* benämner de reaktioner som bryter ner eller bygger upp molekyler i celler.
 
 - De reaktioner som bryter ner molekyler till mindre beståndsdelar kallas *katabola reaktioner*, och är oftast exoterma.

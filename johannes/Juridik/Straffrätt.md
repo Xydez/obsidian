@@ -1,5 +1,8 @@
-#juridik 
+#juridik #juridik/straffrätt
 
+Straffrätt är ett [[Rättsområden|rättsområde]] som faller inom offentlig rätt.
+
+## Allmänna bestämmelser
 - För att dömas för ett brott måste gärningsmannen objektivt och subjektivt (se [[Rättsprinciper#^4e335f|täckningsprincipen]]) brutit mot en befintlig (se [[Rättsprinciper#^fe46ae|legalitetsprincipen]]) lag.
 
 ## Rättegång

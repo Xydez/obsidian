@@ -15,17 +15,62 @@
 - **Bevisbörda** - Vem det är som måste bevisa någonting
 - **Beviskrav** - Vad som krävs för att bevisbördan skall vara uppfylld
 - **Ratihabera** - Att godkänna en rättshandling i efterhand.
+- **Presumtion** - Att något antas och bevisbördan faller på motparten
 ### [[Personrätt]]
 - **Rättssubjekt** - En fysisk eller juridisk person med *rättskapacitet*.
 - **Rättskapacitet** - Förmågan att ha juridiska rättigheter och skyldigheter, jfr. *rättshandlingsförmåga*.
 - **Rättshandlingsförmåga** - Förmågan av *rättssubjekt* att själv ombesörja sina rättsliga angelägenheter, exv. ingå avtal. Fysiska personer får rättshandlingsförmåga vid 18 års ålder.
 - **Rättshandling** - Handling till vilket en eller flera rättsföljder är knutna.
-### [[Avtalsrätt]]
+### Förmögenhetsrätt
+- **Äganderätt** - Rätt till ägande av något, jfr. *besittning*
+- **Nyttjanderätt** - Rätten att bruka något i annans ägande
+- **Servitutsrätt** - Rätten för en fastighet att bruka en annan fastighet, i vilket fall fastigheterna benämns härskande respektive tjänande fastighet
+	- Exempelvis kan en väg vara i servitut till en närliggande bostad
+- **Säkerhetsrätt** - Samlingsnamn för panträtt och retentionsrätt
+- **Panträtt** - Rätten att sälja en pantsatt tillgång för att betala av en skuld
+	- **Handpanträtt** - Då den pantsatta tillgången överlämnas till borgenären
+	- **Underpanträtt**, **Hypotekarisk panträtt** - Då gäldenären själv besitter tillgången
+- **Retentionsrätt** - Rätten att förfoga över gäldenärens tillgång för att erfordra en skuld men i regel inte sälja den[^2]
+- **Andelsrätt** - Rätten till en andel i en organisation, exempelvis aktiebolag eller bostadsrättsförening
+- **[[Samäganderätt|Samäganderätt]]** - Rätten till en andel i egendom. *Lag (1904:48 s. 1) om samäganderätt* (dispositiv).
+- **[[Immaterialrätt|Immaterialrätt]]** - Rätt för upphovsman att utnyttja sitt verk
+- **Nödrätt** - Rätten att i nödsituation ingripa i äganderätten, t.ex. vid eldsvåda eller drunkning.
+- **[[Sakrätt|Sakrätt]]** - Skydd mot tredje man om denne ställer konkurrerande anspråk på rättigheten till något
+- **Besittning** - Att med eller utan rätt faktiskt inneha någonting
+	- Presumtionen är att den som besitter något även har äganderätten till detta
+	- En besittare i god tro har i regel rätt till den avkastning egendomen ger
+	- **Medelbar besittning** - Att ha indirekt tillgång till (något), jfr. omedelbar 'att ha direkt tillgång till (något)'
+- **Lösöre** - Lös egendom som inte är pengar, värdepapper, rättigheter eller byggnad på ofri grund.
+- **Laga fång** - Juridiskt erkända sätt att förvärva äganderätt
+	- **Derivativa fång** - När förvärvarens äganderätt härstammar från en tidigare ägare.
+		- **Singularsuccession** - Köp, byte och gåva
+		- **Universalsuccession** - *Giftorätt*, arv eller *testamenterande*, övergång av egendom i samband med likvidation eller fusion av bolag
+		- **Tvångsöverlåtelser** - Tvångsinlösen, m.m. \[ %% Varför räknas detta som derivativt och inte exstinktivt fång? %% \]
+	- **Exstinktiva fång** - När förvärvarens äganderätt övergår utan ägarens medverkande, i vilket fall det kallas att den tidigare äganderätten *exstingveras*.
+		- Kan ske vid så kallat *godtrosförvärv* (*Lag (1986:796) om godtrosförvärv av lösöre* 2 §), under förutsättningen att lösöre överlåtits och förvärvaren varit i god tro. Notera dock att *vindikation* här kan vara tillämpligt.
+	- **Originära fång** - Förvärvande av herrelös egendom, kallat *ockupation*.
+		- Om egendomen törs ha en ägare kan det räknas som *hittegods*, i vilket fall polismyndigheten måste underrättas (*Lag (1938:121) om hittegods*).
+		- Om egendomen är från tiden före 1850 eller påträffas vid en fornlämning gäller regler om *fornfynd* (Kulturmiljölag (1988:950).
+		- Andra regler kring *sjöfynd* eller fynd som hittats på kollektiv transport kan också vara tillämplig.
+		- I fråga om *nybildningar* tillfaller egendomen i regel ägaren av råvarorna. Jfr. dock *specifikation*.
+- **Vindikation** - När en ägare återkräver egendom från en godtroende förvärvare utan ersättning på grund av bl.a. stöld eller rån.
+- **Specifikation** - När en råvara på grund av dess förädling ökat väsentligen och skaparen varit i god tro kan denne göra ett *äganderättsförvärv*; råmaterialets ägare har förvisso rätt till ersättning.
+- **Upplåtelse** - När en person av ägaren förvärvar begränsad rätt (t.ex. nyttjanderätt)
+- **Överlåtelse** - När en person av ägaren förvärvar full äganderätt
+#### [[Avtalsrätt]]
 - **[[Anbud och accept-modellen#Anbud|Anbud]]** - Erbjudande till en person om att ingå avtal
 - **[[Anbud och accept-modellen#Accept|Accept]]** - Svar på ett anbud
 - **Oren accept** - Accept som ändrar anbudet; räknas som ett nytt anbud
 - **[[Anbud och accept-modellen#Utbud|Utbud]]** - Anbud till obestämd krets
 - **[[Ogiltiga avtal#^ocker|Ocker]]** - Avtal som utnyttjar person i trångmål el. dylikt
+### Straffrätt
+- **Självtäkt**, **Egenmäktigt förfarande** - Att ingripa i besittningsförhållanden genom att återta sin egendom
+### Övrigt
+- **Trolleriformelsjuridik** - \<skämtsamt\> Juridiskt system där vissa saker eller ordföljder måste yttras för att vara juridiskt bindande
+- **\[Lösker man\]**, **\[Löskekarl\]** [^1] - En man som inte är bofast, dvs. en lösdrivare, mots. *markägare*.
+
+[^1]: Numera obsolet
+[^2]: Om inte annat medföljer i avtalet
 ## Förkortningar
 * "a." - Angiven
 * "prop." - Proposition

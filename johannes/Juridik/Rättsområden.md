@@ -2,7 +2,7 @@
 
 Det finns två huvudsakliga rättsområden, civilrätt och offentlig rätt.
 
-- **Civilrätt** - Reglerar interaktioner mellan personer (inkl. jur. per.)
+- **Civilrätt** - Reglerar interaktioner personer sinsemellan
 	- **[[Personrätt]]** - Regler kring rättssubjekt och när de får bl.a. rättslig handlingsförmåga
 	- **[[Förmögenhetsrätt]]** - Regler kring egendom "förmögenhet" och utnyttjande av den.
 	- **Familjerätt** - Berör frågor rörande familjen såsom giftermål, samboskap och förhållandet mellan barn och föräldrar.

@@ -1,4 +1,7 @@
-#juridik 
+#juridik #revidering-krävs 
+
+> [!todo] Revidering
+> Denna anteckning kopplas inte till någon annan, kan vi lägga in detta på något sätt?
 
 Det finns tre olika sorters lagar som tillämpas i olika situationer:
 - **Indispositiva (tvingande) lagar** - Lagar som inte går att avtala bort, t.ex. konsumentköplagen.

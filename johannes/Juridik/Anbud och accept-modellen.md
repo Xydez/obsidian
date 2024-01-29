@@ -24,3 +24,4 @@ Ifall ett anbud riktas till en obestämd krets personer räknas det inte som anb
 Notera att utbud vidrörs indirekt av 1 kap. 9 § AvtL.
 
 [^1]: Notera dock att det kan finnas speciell konsumentlagstiftning gentemot näringsidkare.
+[^2]: Här menas när anbudet/accepten anländer till mottagaren
