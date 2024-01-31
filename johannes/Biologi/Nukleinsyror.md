@@ -5,6 +5,8 @@ Det finns två sorters nukleinsyror - [[Nukleinsyror#DNA|DNA]] och [[Nukleinsyro
 DNA innehåller flera *gener*, där varje gen beskriver ett [[Protein|protein]]. Varje gen innehåller i sin tur flera [[Nukleinsyror#Kodon|kodon]], där varje kodon beskriver en [[Aminosyra|aminosyra]] i proteinet (förutom tre stoppkodon).
 ## DNA
 DNA är en dubbelhelix av två nukleotidkedjor som fogats sedan genom att de två komplementära kvävebaserna binder till varandra.
+
+[[Cellbiologi|Cellens]] DNA uppdelas i flera [[Kromosom|kromosomer]].
 ## RNA
 RNA är till skillnad från DNA i regel endast en [[Nukleinsyror#Nukleotider|nukleotidkedja]] (även om den kan ha sektioner som är komplementärt bundna).
 

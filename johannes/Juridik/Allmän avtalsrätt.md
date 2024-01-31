@@ -8,7 +8,7 @@ Många områden täcks dock inte av lagen, och då används i juridiken iställe
 2. [[Ogiltiga avtal]]
 3. [[Fullmakt]]
 ## Allmänt om avtal
-Grundregeln för avtal i Sverige är "avtalsfrihet", det vill säga att det skall gå att avtala om saker. Notera därför att stora delar av avtalsrätten är dispositiv, och alltså går att avtala bort.
+Grundregeln för avtal i Sverige är "avtalsfrihet", det vill säga att det skall gå att avtala om saker. Notera därför att stora delar av avtalsrätten är [[När en lag tillämpas|dispositiv]], och alltså går att avtala bort.
 
 **Avtalsformer:**
 1. Realavtal - Muntliga avtal

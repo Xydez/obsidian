@@ -3,7 +3,7 @@
 ## Rättegångsprocessen
 Rättegångsprocessen regleras huvudsakligen i RB.
 
-Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan[^5] till dess att domstolen meddelar sin dom, och alltså inte endast huvudförhandlingen.
+Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan[^5] till dess att [[Domstolar|domstolen]] meddelar sin dom, och alltså inte endast huvudförhandlingen.
 
 1. Det inkommer till domstolen en *stämningsansökan* med ett *anspråk* innehållandes 1) en eller flera *yrkanden*, samt 2) en eller flera *grunder* och 3) *bevis*[^4] för att styrka anspråket.
 	- I tvistemål kallas yrkande part för *kärande* och den stämda parten för *svarande*.

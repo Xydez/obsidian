@@ -15,7 +15,7 @@ Hos vissa bakterier tränger utskott av proteintrådar genom cellväggen som kan
 
 Inuti cellväggen finns likt [[Eukaryot cell|eukaryota celler]] ett cellmembran som innesluter cytoplasman.
 
-I cytoplasman finns bl.a. enzymer, ribosomer och en bakteriekromosom. Det finns också plasmider som är korta ringslutna DNA-molekyler med endast ett fåtal fördelaktiga gener. Bakterier kan byta ut plasmider med varandra och få nya kombinationer av egenskaper.
+I cytoplasman finns bl.a. enzymer, ribosomer och en [[Kromosom|bakteriekromosom]]. Det finns också plasmider som är korta ringslutna DNA-molekyler med endast ett fåtal fördelaktiga gener. Bakterier kan byta ut plasmider med varandra och få nya kombinationer av egenskaper.
 
 **Förökning**
 Bakterier förökar sig könlöst genom delning med stor hastighet, och har även förmågan att bilda kolonier.

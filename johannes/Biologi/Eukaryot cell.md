@@ -4,7 +4,7 @@ Eukaryota[^1] [[Cellbiologi|celler]] är grunden för alla djur. De är celler m
 
 Det finns huvudsakligen två typer av eukaryota celler: djurceller och växtceller.
 
-*[[Cellkärna|Cellkärnan]]* innehåller kromosomerna och avgränsas av *kärnmembranet*. Den yttre delen av kärnmembranet är förbundet med det [[Endoplasmatiska nätverket (ER)|endoplasmatiska nätverket]]. Det endoplasmatiska nätverket kan liknas med en fabrik som producerar alla protein cellen behöver. Vid utsidan av det endoplasmatiska nätverkets ena system, *rough endoplasmic reticulum* (RER), sitter [[Ribosomer|ribosomer]] som producerar protein.[^3]
+*[[Cellkärna|Cellkärnan]]* innehåller [[Kromosom|kromosomerna]] och avgränsas av *kärnmembranet*. Den yttre delen av kärnmembranet är förbundet med det [[Endoplasmatiska nätverket (ER)|endoplasmatiska nätverket]]. Det endoplasmatiska nätverket kan liknas med en fabrik som producerar alla protein cellen behöver. Vid utsidan av det endoplasmatiska nätverkets ena system, *rough endoplasmic reticulum* (RER), sitter [[Ribosomer|ribosomer]] som producerar protein.[^3]
 
 Området runt cellen kallas *cytoplasman*. De strukturer som befinner sig i cytoplasman kallas *[[Organell|organeller]]*[^2]. Organellerna konstitueras av
 - [[Mitokondrie|Mitokondrier]], vars syfte är att producera [[ATP]] till resten av cellen
