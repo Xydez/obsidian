@@ -19,7 +19,7 @@ Om viruset innehåller **[[Nukleinsyror#DNA|DNA]]** replikeras de på samma sät
 
 Om viruset innehåller **[[Nukleinsyror#RNA|RNA]]** finns det två sätt:
 1. Virusets RNA transkriberas till mRNA som sedan både translateras till proteiner och används som mall för nytt virus-RNA. Dessa virus kallas *RNA-virus*.
-2. Virusets RNA kopieras till DNA med *omvänd transkription* genom enzymet *omvänt transkriptas*. Dessa virus kallas *retrovirus*.
+2. Virusets RNA kopieras till DNA med *omvänd transkription* genom enzymet [[Transkription#Omvänd transkription|omvänt transkriptas]]. Dessa virus kallas *retrovirus*.
 
 Virus som bär på eller transkriberar DNA kan ibland införlivas med cellens DNA och därmed replikeras med cellen under cellcykeln. Dessa virus kallas *provirus*.
 ## Viruset tar sig ut

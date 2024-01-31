@@ -1,9 +1,6 @@
 #kemi #kemi/organisk-kemi 
 ## Alkaner, alkener och alkyner
 ### Alkaner
-
-^edf186
-
 Den enklaste typen av kolväte är alkanerna, som är kolväten där det bara är enkelbindningar mellan kolatomerna. Den enklaste alkanen är i sin tur metan, som bara har en kolatom i kedjan. Därefter kommer metan (bilden nedan) och sedan propan. Resterande kolväten börjar med ett prefix, t.ex. prefixet "n-", som i n-butan (se *strukturisometri*). Från och med den femte alkanen nämns alla dessutom efter IUPAC-nomenklatur.
 
 ```tikz
@@ -22,9 +19,6 @@ Denna kolväteserie kallas den *homologa alkanserien*.
 > C1CCCCC1
 > ```
 ### Alkener och alkyner
-
-^0b3b94
-
 Medan alkanserien är kolväten med endast enkelbindningar är *alkenserien* kolväten med en eller flera dubbelbindningar. *Alkynserien* är likaså kolväten med en eller flera trippelbindningar.
 
 ```smiles

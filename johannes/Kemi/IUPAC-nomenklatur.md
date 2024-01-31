@@ -2,13 +2,13 @@
 
 ## Funktionella grupper
 ### Alkan
-**Beskrivning:** En alkan är ett kolväte ur [[Alkaner, alkener och alkyner#^edf186|alkanserien]], som definieras av att endast innehålla enkelbindningar.
+**Beskrivning:** En alkan är ett kolväte ur [[Alkaner, alkener och alkyner#Alkaner|alkanserien]], som definieras av att endast innehålla enkelbindningar.
 **Suffix:** -an
 ### Alken
-**Beskrivning:** En alken är ett kolväte ur [[Alkaner, alkener och alkyner#^0b3b94|alkenserien]], som definieras av en eller flera dubbelbindningar.
+**Beskrivning:** En alken är ett kolväte ur [[Alkaner, alkener och alkyner#Alkener och alkyner|alkenserien]], som definieras av en eller flera dubbelbindningar.
 **Suffix:** -en
 ### Alkyn
-**Beskrivning:** En alkyn är ett kolväte ur [[Alkaner, alkener och alkyner#^0b3b94|alkynserien]], som definieras av en eller flera trippelbindningar.
+**Beskrivning:** En alkyn är ett kolväte ur [[Alkaner, alkener och alkyner#Alkener och alkyner|alkynserien]], som definieras av en eller flera trippelbindningar.
 **Suffix:** -yn
 ### Aren
 **Beskrivning**: En aren är ett kolväte med en eller flera [[Arener|fenylgrupper]], d.v.s. bensenringar.

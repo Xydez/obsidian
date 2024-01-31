@@ -12,26 +12,27 @@ DNA-tråden får plats eftersom den är packad i flera nivåer:
 
 Genom att ändra kromosomens *packningsgrad* (hur tätt packad den är) vid olika ställen går det att sätta på eller stänga av olika gener. Anledningen till detta är att [[Nukleinsyror#RNA|mRNA]] endast går att skapa när DNA:t är löst packat. Detta är också hur olika celler får sina olika egenskaper.
 ## Uttryck
+Inom genomet finns sträckor som inte kodar för protein, vilka kallas *introner*. De sträckor som kodas för protein kallas istället för *exoner*.
+
 Det steg när DNA:t omvandlas till RNA kallas [[Transkription|transkription]]. Under transkriptionen bildas först en form av RNA som innehåller både introner och exoner. För att bilda färdigt mRNA klipps intronerna bort genom en process som kallas *splitsning*.
 
 Det steg när RNA översätts till protein kallas [[Translation|translation]] och sker i [[Ribosomer|ribosomerna]].
 
 Varje *gen* kodar för strukturen av ett visst [[Protein|protein]], där varje [[Aminosyra|aminosyra]] i proteinet i sin tur kodas av ett [[Nukleinsyror#Kodon|kodon]] (*triplett*, sekvens av tre kvävebaser). Kodon kan också koda för tre stoppkoder som avbryter translationen.
-
-Inom genomet finns sträckor som inte kodar för protein, vilka kallas *introner*. De sträckor som kodas för protein kallas istället för *exoner*.
 ### Prokaryot genreglering
-Prokaryota cellers genom innehåller bland annat *operon*, vars syfte är att styra gener.
-
-Ett operon är en grupp av relaterade gener som gemensamt prefixeras av en *promotor* (styrsekvens). Vid transkriptionen fäster RNA-polymeras till promotorn och bildar en enda lång mRNA-molekyl.
+Prokaryota cellers genom innehåller bland annat *operon*, vars syfte är att styra gener. Ett operon är en grupp av relaterade gener som gemensamt prefixeras av en *promotor* (styrsekvens). Vid transkriptionen fäster [[Polymeras|RNA-polymeras]] till promotorn och bildar en enda lång mRNA-molekyl.
 
 De gener som beskriver protein som används i cellen kallas *strukturgener*, medan de gener som beskriver protein som reglerar genernas funktioner istället kallas *regulatorgener*.
 
 Regulatorgener kan bilda protein som sedan antingen binder till styrsekvensen, vilket stoppar transkription, eller ett visst ämne. Exempelvis finns det i kolibakterien gener som bildar enzymer för spjälkning av mjölksocker. Om regulatorproteinet binder till mjölksocker kan det inte blockera genen, vilket gör att den transkriberas och spjälkningsproteiner bildas. Detta kallas *positiv genreglering*. Det finns även *negativ genreglering*, som är att proteinet endast hämmar genen efter att det har bundit till ett visst ämne.
 ### Eukaryot genreglering
-
-> [!todo] Läs boken
-> Sida 175
-
+Det finns flera olika sätt vid vilket eukaryota celler reglerar generna.
+- Gener kan permanent stängas av genom att molekylen har blivit *metylerad* (försedd med [[IUPAC-nomenklatur#Alkan|metylgrupper]] $\ce{CH4}$).
+- Gener kan vara avstängda för olika celler genom att DNA:t är hårt packat (det finns dock reglerande proteiner som kan linda upp kromosomen)
+- \[Balansen mellan reglerande proteiner måste vara rätt\] ??
+- Splitsningen - Samma sträcka kan splitsas på olika sätt och därmed ge upphov till olika proteiner
+- Translationshastigheten kan ändras
+- Cellen kan markera protein för nedbrytning genom att binda dem till proteinet ubiquitin.
 
 [^1]: Hos eukaryoter är dessa i regel histoner (i spermierna protaminer)
 
