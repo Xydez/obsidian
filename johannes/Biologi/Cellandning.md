@@ -4,18 +4,13 @@
 1. [[#Översikt]]
 2. [[#Reglering]]
 3. [[#Anaerob cellandning]]
-
----
-
-![[Cellandning.png]]
-
 ## Översikt
 Cellandningen en process i vilket [[Eukaryot cell|eukaryota celler]] oxiderar [[Fett|fettsyror]] eller [[Kolhydrat|kolhydrater]] till koldioxid och vatten, och i processen utvinner energi i form av [[ATP]].
 
 Cellandningen består av tre på varandra följande processer:
 1. [[Glykolys]] (endast för glukos[^1])
 2. [[Citronsyracykeln]]
-3. [[Andningskedjan]]
+3. [[Elektrontransportkedja]]
 ## Reglering
 Cellandningens hastighet styrs direkt av tillgången på de [[Enzym|enzymer]] som används i processen. Tillgången på enzymer bromsas i sin tur av tillgången på den ATP som cellandningen producerar. Detta eftersom ATP i sin tur binder till ett av enzymerna i glykolysen och därmed förhindrar dess produktion från att fortgå. Detta kallas *reglering genom återkoppling*.
 ## Anaerob cellandning
@@ -29,3 +24,7 @@ $$\ce{C6H12O6 \text{(glukos)}-> 2CH3CHOHCOOH \text{(mjölksyra)}}$$
 $$\ce{C6H12O6 \text{(glukos)} -> 2C2H5OH \text{(etanol)} + 2CO2 \text{(koldioxid)}}$$
 
 [^1]: Andra energirika föreningar har separata processer som i slutändan ändå blir till pyruvat.
+
+---
+
+![[Cellandning.png]]
