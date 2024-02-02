@@ -8,6 +8,6 @@ Förmögenhetsrätten är ett stort [[Rättsområden|rättsområde]] som faller 
 	- Aktiebolagslagen (2005:551)
 	- Lagen om handelsbolag
 	- Lagen om ekonomiska föreningar
-- **[[Sakrätt]]** - Rör rätts- och avtalsförhållanden som berör tredje man till skydd för tredje mans intressen. Berör också utmätning och konkurs.
+- **[[Sakrätt|Sakrätt]]** - Rör rätts- och avtalsförhållanden som berör tredje man till skydd för tredje mans intressen. Berör också utmätning och konkurs.
 - **[[Arbetsrätt]]** - Berör förhållandet mellan arbetstagare och arbetsgivare.
 - **[[Immaterialrätt]]** - Upphovsrätt, patent, varumärkesskydd, m.m.

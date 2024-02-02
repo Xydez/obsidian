@@ -1,14 +1,15 @@
-Växten har tre stycken grundorgan:
+#biologi #biologi/botanik 
+
+Växten har tre grundorgan:
 1. [[Rot|Roten]]
-2. Stammen
-3. [[Blad|Bladet]] - Där sker [[Fotosyntes|fotosyntesen]].
+2. [[Stam|Stammen]]
+3. [[Blad|Bladet]]
 
 Växter består av tre olika sorters vävnad:
 1. Ytterhud (*epidermis*)
 2. Grundvävnad (*kortex*)
-3. Ledningsvävnad
-
-**Vatten i växten**
+3. Ledningsvävnad (i [[Ledningssträng|ledningssträngen]])
+### Vatten i växten
 Landväxter hålls uppe av de vattenfyllda cellernas tryck mot [[Cellvägg|cellväggen]] (saftspänning, *turgor*).
 
 Vattnet i växten transporteras runt genom [[Osmos|vattenpotential]].
@@ -17,4 +18,4 @@ Roten i växten tar upp vätska från marken eftersom dess cytoplasmor och vakuo
 
 Blad har i sin tur lägre vattenpotential än roten, vilket gör att vätskan flödar upp till dem från roten genom stammen. Anledningen till detta är att bladcellerna 1) innehåller nyproducerad sockerlösning och 2) konstant förlorar vatten till luften genom [[Transpiration|transpiration]].
 
-Luften har i sin tur lägre vattenpotential än bladet, vilket gör att vattnet hastigt lämnar bladet när [[Klyvöppningar|klyvöppningarna]] är öppna.
+Luften har i sin tur lägre vattenpotential än bladet, vilket gör att vattnet hastigt lämnar bladet när [[Blad|klyvöppningarna]] är öppna.

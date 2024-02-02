@@ -46,14 +46,14 @@
 		- **Singularsuccession** - Köp, byte och gåva
 		- **Universalsuccession** - *Giftorätt*, arv eller *testamenterande*, övergång av egendom i samband med likvidation eller fusion av bolag
 		- **Tvångsöverlåtelser** - Tvångsinlösen, m.m. \[ %% Varför räknas detta som derivativt och inte exstinktivt fång? %% \]
-	- **Exstinktiva fång** - När förvärvarens äganderätt övergår utan ägarens medverkande, i vilket fall det kallas att den tidigare äganderätten *exstingveras*.
+	- **Exstinktiva fång** - När förvärvarens äganderätt övergår utan ägarens medverkande, i vilket fall det kallas att den tidigare äganderätten *exstingveras*. ^exstinktiva-fang
 		- Kan ske vid så kallat *godtrosförvärv* (*Lag (1986:796) om godtrosförvärv av lösöre* 2 §), under förutsättningen att lösöre överlåtits och förvärvaren varit i god tro. Notera dock att *vindikation* här kan vara tillämpligt.
 	- **Originära fång** - Förvärvande av herrelös egendom, kallat *ockupation*.
 		- Om egendomen törs ha en ägare kan det räknas som *hittegods*, i vilket fall polismyndigheten måste underrättas (*Lag (1938:121) om hittegods*).
 		- Om egendomen är från tiden före 1850 eller påträffas vid en fornlämning gäller regler om *fornfynd* (Kulturmiljölag (1988:950).
 		- Andra regler kring *sjöfynd* eller fynd som hittats på kollektiv transport kan också vara tillämplig.
 		- I fråga om *nybildningar* tillfaller egendomen i regel ägaren av råvarorna. Jfr. dock *specifikation*.
-- **Vindikation** - När en ägare återkräver egendom från en godtroende förvärvare utan ersättning på grund av bl.a. stöld eller rån.
+- **Vindikation** - När en ägare återkräver egendom från en godtroende förvärvare utan ersättning på grund av bl.a. stöld eller rån. ^vindikation
 - **Specifikation** - När en råvara på grund av dess förädling ökat väsentligen och skaparen varit i god tro kan denne göra ett *äganderättsförvärv*; råmaterialets ägare har förvisso rätt till ersättning.
 - **Upplåtelse** - När en person av ägaren förvärvar begränsad rätt (t.ex. nyttjanderätt)
 - **Överlåtelse** - När en person av ägaren förvärvar full äganderätt

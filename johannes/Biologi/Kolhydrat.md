@@ -8,6 +8,11 @@ Kolhydrater är ett samlingsnamn för alla mono- och polysackarider.
 OCC1OC(O)C(C(C1O)O)O
 ```
 
-Kedjor av monosackarider kallas i sin tur *polysackarider*. Dessa kedjor kan vara en enda lång kedja, som stärkelse, eller förgrena sig i flera, som cellulosa.
+Kedjor av monosackarider kallas i sin tur *polysackarider*. Dessa kedjor kan vara en enda lång kedja, som [[#Stärkelse|stärkelse]], eller förgrena sig i flera, som cellulosa.
+
+## Stärkelse
+Stärkelse är det ämne som [[Växt|växter]] använder för att lagra energi, och även den vanligaste kolhydraten i föda. Den består av molekylkedjor av glukos, och har den allmänna molekylformeln $\ce{(C6H10O5)_n}$
+
+Stärkelsens molekylkedja kan antingen vara rak (amylos) eller grenad (amylopektin). Den bryts ner av enzymet amylas.
 
 [^1]: Dessa andra atomer ger molekylen egenskaper, t.ex. vattenlöslighet.

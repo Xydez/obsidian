@@ -10,6 +10,8 @@ KTjL är tillämplig i följande fall:
 KTjL är dock inte tillämplig i följande fall:
 - Tillverkning av lösa saker
 - Installation, montering eller annat arbete som utförs i *fullgörande* (inklusive avhjälpande) av köp av lös sak
+
+Lagen är inte direkt tillämplig på arbete på t.ex. människor eller levande djur - ett analogislut till KTjL görs i regel i detta fall.
 ### Pris
 Ifall pris inte framgår av avtalet skall pris sättas med hänsyn till tjänstens art, omfattning och utförande; gängse pris eller prisberäkningssätt för motsvarande tjänster; samt omständigheterna i övrigt. Om det däremot finns en ungefärlig prisuppgift får den inte överskridas med 15%. (36 § KTjL)
 ### Tilläggsarbete

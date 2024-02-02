@@ -7,6 +7,8 @@
 	2. [[Konsumenttjänstlagen|Konsumenttjänstlagen]]
 	3. [[Distansavtalslagen|Distansavtalslagen]]
 	4. [[Lag om konsumentskydd vid automatisk avtalsförlängning|Lagen om konsumentskydd vid automatisk avtalsförlängning]]
+3. Övriga avtal
+	1. [[Avtal inom distribution|Avtal inom distribution]]
 
 Den speciella avtalsrätten faller inom [[Avtalsrätt|avtalsrätt]] och har i regel företräde över den [[Allmän avtalsrätt|allmänna avtalsrätten]] ifall lagstiftning här finns.
 
