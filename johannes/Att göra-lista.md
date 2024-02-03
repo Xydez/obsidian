@@ -1,0 +1,2 @@
+- Gör klart [[2024-02-03|instuderingsfrågorna]] för cellbiologi.
+- Ta anteckningar till kapitlet om växter, i synnerhet sida 89-95, i Biologi 2-boken.

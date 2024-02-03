@@ -2,9 +2,10 @@
 
 Ett kromosom är en struktur i cellen som innehåller en lång sträng av [[Nukleinsyror#DNA|DNA]]. [[Prokaryot cell|Prokaryoter]] har typiskt sett sitt genom i ett kromosom medan [[Eukaryot cell|eukaryoter]] har det uppdelat på flera.
 
+Samlingsnamnet för den massa som kromosomer bildas kallas *arvsmassa* eller i äldre benämning *kromatin*.
 ## Struktur
 DNA-tråden får plats eftersom den är packad i flera nivåer:
-- I första nivån är tråden lindad runt proteinspolar,[^1] likt ett pärlband.
+- I första nivån är tråden lindad runt proteinspolar[^1] (vilket bildar en *nukleosomstruktur*) likt ett pärlband.
 - I andra nivån är pärlbandet lindat i en spiral.
 - I tredje nivån bildar spiralen öglor och går fram och tillbaka.
 - I fjärde nivån bildar den strängen en svängande kurva.

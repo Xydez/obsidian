@@ -1,8 +1,8 @@
 #biologi #biologi/cellbiologi
 
-Ett enzym är ett globulärt [[Protein|protein]] som katalyserar[^1] en viss sorts reaktion.
+Ett enzym är ett globulärt [[Protein|protein]] som [[Katalys|katalyserar]][^1] en viss sorts reaktion. De är i regel bundna till en bestämd plats i cellen för att just där katalysera en viss reaktion i produktionsledet.[^2]
 
-Enzymer är i regel bundna till en bestämd plats i cellen för att just där katalysera en viss reaktion i produktionsledet.[^2]
+Enzymer får i regel suffixet -as, medan resten av namnet inte sällan beskriver substratet. Exempelvis är laktas ett enzym som klyver laktos.
 
 Ritningen till enzymer och andra [[Protein|proteiner]] finns i form av [[Nukleinsyror|DNA:t]] i [[Cellkärna|cellkärnan]].
 ## Enzymers funktion

@@ -7,10 +7,14 @@
 ## Översikt
 Cellandningen en process i vilket [[Eukaryot cell|eukaryota celler]] oxiderar [[Fett|fettsyror]] eller [[Kolhydrat|kolhydrater]] till koldioxid och vatten, och i processen utvinner energi i form av [[ATP]].
 
-Cellandningen består av tre på varandra följande processer:
+Cellandningen består av fyra på varandra följande processer:
 1. [[Glykolys]] (endast för glukos[^1])
-2. [[Citronsyracykeln]]
-3. [[Elektrontransportkedja]]
+2. [[Länkreaktionen]]
+3. [[Citronsyracykeln]]
+4. [[Andningskedjan|Andningskedjan]]
+
+> [!todo] Fortsätt
+> Se Magnus Ehingers [genomgång](https://ehinger.nu/undervisning/kurser/biologi-2/lektioner/cell-och-molekylarbiologi/cellandningen-biologi-2.html).
 ## Reglering
 Cellandningens hastighet styrs direkt av tillgången på de [[Enzym|enzymer]] som används i processen. Tillgången på enzymer bromsas i sin tur av tillgången på den ATP som cellandningen producerar. Detta eftersom ATP i sin tur binder till ett av enzymerna i glykolysen och därmed förhindrar dess produktion från att fortgå. Detta kallas *reglering genom återkoppling*.
 ## Anaerob cellandning

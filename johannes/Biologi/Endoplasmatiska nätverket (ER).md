@@ -4,12 +4,14 @@ Det endoplasmatiska nätverket (*endoplasmic reticulum*, ER) är egentligen en l
 ## RER
 Den första typen av ER är RER (*rough endoplasmic reticulum*) som har en kornig struktur eftersom [[Ribosomer|ribosomer]] är bundna till dess yta. Ribosomerna tillverkar i sin tur proteiner som transporteras in i RER och sedan till andra platser.
 
-Ofta paketeras proteinerna och förädlas ytterligare via [[Golgiapparaten|Golgiapparaten]].
+Ofta paketeras proteinerna och förädlas ytterligare via [[Golgiapparat|Golgiapparat]].
 ## SER
-Den andra typen av ER är SER (*smooth endoplasmic reticulum*) som till skillnad från RER är slätt.
+Den andra typen av ER är SER (*smooth endoplasmic reticulum*) som till skillnad från RER är slätt. SER innehåller många enzymer för att omsätta ämnen i cellen, och kallas därför ofta cellens kemiska fabrik.
 
 SER har två uppgifter:
 1. Tillverka [[Kolesterol|kolesterol]] och [[Fosfolipid|fosfolipider]], vilket gör att det fungerar som cellens membranfabrik.
 2. Avgifta cellen från skadliga ämnen som är fettlösliga, och därmed kan förstöra cellmembranet, genom att göra dem vattenlösliga så att de kan lämna kroppen genom [[Blodomlopp|blodet]] med urinen.[^1]
+
+SER tillverkar dessutom [[Peroxisom|peroxisomer]] för att bryta ner fetter och dessutom bryta ner skadligt väteperoxid, därav namnet.
 
 [^1]: Detta är synnerligen vanligt i levern för att avgifta blodet

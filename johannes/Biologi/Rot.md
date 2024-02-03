@@ -8,7 +8,7 @@ Det andra lagret är grundvävnaden (kortex), vars jobb är att lagra energi och
 
 Det tredje och innersta lagret är rotens [[Ledningssträng|ledningssträngar]] som transporterar vattenlösta ämnen genom växten. Ledningssträngarna är omslutna av ett cellager som kallas *endodermis*, vars syfte är att filtrera skadliga ämnen. Endodermis membran har [[Kanal- och transportproteiner|transportproteiner]] som endast släpper igenom de ämnen växten behöver. Det pumpar bland annat in [[Närsalter|närsaltsjoner]] som bidrar till ledningssträngarnas låga vattenpotential, vilket skapar ett *rottryck* som suger in vatten.
 
-I spetsen av roten finns rotmössan som utsätts för slitage när roten växer och skyddar insidan. Därefter finns en *tillväxtzon* som kan delas upp i två zoner. Den yttersta zonen är *delningszonen* där celler konstant delar sig för att skapa ny vävnad. Den inre zonen är sträckningszonen där de nybildade cellerna ökar i volym och sträcks ut.
+I spetsen av roten finns rotmössan som utsätts för slitage när roten växer och skyddar insidan. Därefter finns [[Växters tillväxt|tillväxtzonen]]. 
 
 ![[Rot.png]]
 

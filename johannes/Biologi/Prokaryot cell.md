@@ -9,13 +9,15 @@ Det finns två domäner av prokaryota celler: arkéer och bakterier.
 > Vad skiljer bakterier och virus?
 > bakterie (av grekiska *bakterion* 'liten stav')
 
-Ytterst har bakterien en cellvägg bestående av en kvävehaltig polysackarid.
+Ytterst har bakterien en cellvägg bestående av en kvävehaltig polysackarid. Hos vissa bakterier tränger utskott av proteintrådar (pili) genom cellväggen som kan fästa vid andra celler.[^1]
 
-Hos vissa bakterier tränger utskott av proteintrådar genom cellväggen som kan fästa vid andra celler.[^1]
+Vissa celler är också omringade av en *kapsel* som maskerar bakterien för immunförsvaret (och därmed skyddar mot fagocytos).
 
-Inuti cellväggen finns likt [[Eukaryot cell|eukaryota celler]] ett cellmembran som innesluter cytoplasman.
+Vissa celler kan tillfälligt omvandlas till *endosporer*, vilket är en bakterie som gått in i försvarsläge i extrema miljöer.
 
-I cytoplasman finns bl.a. enzymer, ribosomer och en [[Kromosom|bakteriekromosom]]. Det finns också plasmider som är korta ringslutna DNA-molekyler med endast ett fåtal fördelaktiga gener. Bakterier kan byta ut plasmider med varandra och få nya kombinationer av egenskaper.
+Inuti cellväggen finns likt [[Eukaryot cell|eukaryota celler]] ett cellmembran
+
+Cellmembranet innesluter i sin tur cytoplasman. I cytoplasman finns bl.a. [[Enzym|enzymer]], [[Ribosomer|ribosomer]] och en [[Kromosom|bakteriekromosom]]. Det kan också finnas plasmider som är korta ringslutna DNA-molekyler med endast ett fåtal fördelaktiga gener. Bakterier kan byta ut plasmider med varandra och få nya kombinationer av egenskaper.
 
 **Förökning**
 Bakterier förökar sig könlöst genom delning med stor hastighet, och har även förmågan att bilda kolonier.

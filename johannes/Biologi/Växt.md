@@ -9,13 +9,9 @@ Växter består av tre olika sorters vävnad:
 1. Ytterhud (*epidermis*)
 2. Grundvävnad (*kortex*)
 3. Ledningsvävnad (i [[Ledningssträng|ledningssträngen]])
-### Vatten i växten
-Landväxter hålls uppe av de vattenfyllda cellernas tryck mot [[Cellvägg|cellväggen]] (saftspänning, *turgor*).
 
-Vattnet i växten transporteras runt genom [[Osmos|vattenpotential]].
+Ämnen transporteras runt i växten genom *plasmodesmata* i växtcellen.
 
-Roten i växten tar upp vätska från marken eftersom dess cytoplasmor och vakuoler innehåller en lösning som ger den lägre vattenpotential än marken.
-
-Blad har i sin tur lägre vattenpotential än roten, vilket gör att vätskan flödar upp till dem från roten genom stammen. Anledningen till detta är att bladcellerna 1) innehåller nyproducerad sockerlösning och 2) konstant förlorar vatten till luften genom [[Transpiration|transpiration]].
-
-Luften har i sin tur lägre vattenpotential än bladet, vilket gör att vattnet hastigt lämnar bladet när [[Blad|klyvöppningarna]] är öppna.
+Viktiga processer:
+-  [[Vattentransport i växten|Vattentransport]]
+- [[Växthormon]]
