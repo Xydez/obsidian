@@ -5,7 +5,7 @@
 2. [[#Reglering]]
 3. [[#Anaerob cellandning]]
 ## Översikt
-Cellandningen en process i vilket [[Eukaryot cell|eukaryota celler]] oxiderar [[Fett|fettsyror]] eller [[Kolhydrat|kolhydrater]] till koldioxid och vatten, och i processen utvinner energi i form av [[ATP]].
+Cellandningen en process i vilket [[Eukaryot cell|eukaryota celler]] oxiderar [[Fett|fettsyror]] eller [[Kolhydrat|kolhydrater]] till koldioxid och vatten, och i processen utvinner energi i form av [[Adenosintrifosfat|ATP]].
 
 Cellandningen består av fyra på varandra följande processer:
 1. [[Glykolys]] (endast för glukos[^1])
@@ -20,7 +20,7 @@ Cellandningens hastighet styrs direkt av tillgången på de [[Enzym|enzymer]] so
 ## Anaerob cellandning
 I de fall då syre inte finns tillgängligt är det *i vissa celler* ändå möjligt att till viss del producera ATP. I dessa fall sker endast första steget, [[Glykolys|glykolysen]], vars slutprodukter, pyruvat och reducerade [[Vätebärare|vätebärare]], istället bildar antingen etanol eller mjölksyra. \[Då detta utförs med jästsvampar\] brukar processen kallas [[#Jäsning|jäsning]].
 
-Denna process producerar dock bara upp till 1/19 av vad aerob cellandning gör, och är dessutom endast möjlig i vissa celler (exempelvis [[Muskelcell|muskelceller]], som bara kan göra det under kortare perioder).
+Denna process producerar dock bara upp till 1/19 av vad aerob cellandning gör, och är dessutom endast möjlig i vissa celler (exempelvis [[Muskelvävnad|muskelceller]], som bara kan göra det under kortare perioder).
 ### Jäsning
 **Mjölksyrajäsning**
 $$\ce{C6H12O6 \text{(glukos)}-> 2CH3CHOHCOOH \text{(mjölksyra)}}$$

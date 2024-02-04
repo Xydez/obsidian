@@ -1,3 +1,7 @@
+---
+aliases:
+  - Djurcell
+---
 #biologi #biologi/cellbiologi
 
 Eukaryota[^1] [[Cellbiologi|celler]] är grunden för alla djur. De är celler med en [[Cellkärna|cellkärna]], till skillnad från [[Prokaryot cell|prokaryota celler]] som inte har det.
@@ -7,7 +11,7 @@ Det finns huvudsakligen två typer av eukaryota celler: djurceller och växtcell
 [[Cellkärna|Cellkärnan]] innehåller [[Kromosom|kromosomerna]] och avgränsas av *kärnmembranet*. Den yttre delen av kärnmembranet är förbundet med det [[Endoplasmatiska nätverket (ER)|endoplasmatiska nätverket]]. Det endoplasmatiska nätverket kan liknas med en fabrik som producerar alla protein cellen behöver. Vid utsidan av det endoplasmatiska nätverkets ena system, *rough endoplasmic reticulum* (RER), sitter [[Ribosomer|ribosomer]] som producerar protein.[^3]
 
 Området runt cellen kallas *cytoplasman*. Den vätska som finns i cytoplasman kallas cytosol, medan de strukturer som befinner sig i cytoplasman kallas *[[Organell|organeller]]*[^2]. Organellerna konstitueras av
-- [[Mitokondrie|Mitokondrier]], vars syfte är att producera [[ATP]] till resten av cellen
+- [[Mitokondrie|Mitokondrier]], vars syfte är att producera [[Adenosintrifosfat|ATP]] till resten av cellen
 - [[Golgiapparat|Golgiapparat]], som bl.a. förser membranblåsor med adresslappar innan de åker ut i cellen.
 - [[Centrosom|Centrosomer]], som organiserar [[Kromosom|kromosomerna]] vid [[Celldelning|celldelningen]].
 - (djurceller) [[Lysosom|Lysosomer]], vars syfte är att sönderdela stora molekyler till mindre, och därför innehåller många [[Enzym|enzymer]] för att katalysera dessa reaktioner. Jämför vakuoler i växtceller. Se även [[Peroxisom|peroxisomer]].

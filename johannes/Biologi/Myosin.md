@@ -1,6 +1,6 @@
 #biologi #biologi/cellbiologi 
 
-Tillsammans med aktintrådarna finns ett protein som heter [[Myosin|myosin]]. Myosin är ett *motorprotein*, vilket innebär att det har förmågan att "vandra" över en yta. Myosin har som små fötter och gör detta genom att "pendla" över ytan (en process som förbrukar [[ATP]]).
+Tillsammans med aktintrådarna finns ett protein som heter [[Myosin|myosin]]. Myosin är ett *motorprotein*, vilket innebär att det har förmågan att "vandra" över en yta. Myosin har som små fötter och gör detta genom att "pendla" över ytan (en process som förbrukar [[Adenosintrifosfat|ATP]]).
 
 Myosinmolekyler kan bl.a. vara bundna vid [[Endocytos och exocytos|membranblåsor]] och därmed "bära" dem längs aktintrådarna, och på så vis transportera resurser.
 

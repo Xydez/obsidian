@@ -1,3 +1,7 @@
+---
+aliases:
+  - DNA och RNA
+---
 #biologi #biologi/genetik
 
 Det finns två sorters nukleinsyror - [[Nukleinsyror#DNA|DNA]] och [[Nukleinsyror#RNA|RNA]]. Varje DNA-sträng går att skriva om till en komplementär RNA-sträng.

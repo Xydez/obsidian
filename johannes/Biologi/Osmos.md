@@ -1,3 +1,8 @@
+---
+aliases:
+  - Diffusion
+  - Vattenpotential
+---
 #biologi #biologi/cellbiologi 
 
 Osmos är ett fysikaliskt fenomen som uppstår vid diffusion av vatten igenom ett membran.

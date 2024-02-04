@@ -14,4 +14,4 @@ Cellskelettet består av tre sorters trådar:
 - **[[Mikrotubuli]]**, som är styva långa raka ihåliga tuber av globulära proteiner.
 - **[[Intermediära trådar]]**, som består av fiberproteiner.
 
-[^1]: Detta sker i exempelvis [[Muskelcell|muskelceller]] eller flageller
+[^1]: Detta sker i exempelvis [[Muskelvävnad|muskelceller]] eller flageller

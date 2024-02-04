@@ -1,3 +1,9 @@
+---
+aliases:
+  - RFLP
+---
+
+
 #biologi #biologi/genetik 
 
 RFLP ([Restriction Fragment Length Polymorphism](https://en.wikipedia.org/wiki/Restriction_fragment_length_polymorphism)) är en [[Gentekniska metoder#Identifiering|genteknisk metod]] för att upptäcka om en mutation har skett.

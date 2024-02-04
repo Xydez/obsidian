@@ -14,7 +14,7 @@ Fotosyntesen drivs i kloroplasten av bladfärgämnena klorofyll (grönt) och kar
 Fotosyntesen består av två processer: de *ljusinfångande reaktionerna* (ljusreaktionen) och de *koldioxidbindande reaktionerna* (mörkerreaktionen).
 
 ## Ljusreaktionerna
-I de ljusinfångande reaktionerna används solljus för att framställa energibärarna [[ATP|ATP]] och [[Vätebärare|NADPH]] enligt följande bruttoreaktion:
+I de ljusinfångande reaktionerna används solljus för att framställa energibärarna [[Adenosintrifosfat|ATP]] och [[Vätebärare|NADPH]] enligt följande bruttoreaktion:
 
 $$\ce{2NADP+ + 3ADP + 3P_i + 2H2O + \text{ljusenergi}-> 2NADPH + 3ATP + O2}$$
 

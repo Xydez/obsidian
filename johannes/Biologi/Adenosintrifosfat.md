@@ -1,3 +1,7 @@
+---
+aliases:
+  - ATP
+---
 #biologi #biologi/cellbiologi 
 
 Adenosintrifosfat (ATP) är en liten och energirik molekyl som används som energitransportör i cellen.
