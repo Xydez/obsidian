@@ -1,3 +1,8 @@
+---
+aliases:
+  - Konsumentköplagen
+  - KKöpL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
 Konsumentköprätten faller inom [[Speciell avtalsrätt|speciell avtalsrätt]] och regleras av Konsumentköplagen (2022:260) (KKöpL).

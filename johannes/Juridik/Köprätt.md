@@ -1,3 +1,8 @@
+---
+aliases:
+  - Köplagen
+  - KöpL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
 Köprätten faller inom [[Speciell avtalsrätt|speciell avtalsrätt]] och regleras av Köplagen (1990:931) (KöpL).

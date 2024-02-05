@@ -1,3 +1,7 @@
+---
+aliases:
+  - Virologi
+---
 #biologi #biologi/virologi
 
 Virus[^1] är biologiska enheter[^2] utan ämnesomsättning som därmed är parasitiskt beroende av andra celler för att reproducera.

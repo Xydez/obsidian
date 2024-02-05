@@ -1,3 +1,7 @@
+---
+aliases:
+  - KTjL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
 Konsumenttjänstlagen (2022:260) (KTjL) faller inom [[Speciell avtalsrätt|speciell avtalsrätt]] och avser köp mellan konsument och näringsidkare där en tjänst utgör övervägande del av köpet. Någon motsvarande lag som inte rör köp mellan konsument och näringsidkare finns inte, utan då används de allmänna bestämmelser som finns i [[Allmän avtalsrätt|avtalslagen]].

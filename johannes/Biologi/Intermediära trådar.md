@@ -1,3 +1,7 @@
+---
+aliases:
+  - Intermediärfilament
+---
 #biologi #biologi/cellbiologi 
 
 *Intermediära trådar*[^1] är en sorts tråd i [[Cellskelett|cellskelettet]] som består av buntar av olika proteinfibrer, vilket gör att de tål att sträckas i mycket högre grad än [[Aktintrådar|aktintrådar]] och [[Mikrotubuli|mikrotubuli]]. Deras huvudsakliga syfte är att bilda kopplingar *mellan* celler.

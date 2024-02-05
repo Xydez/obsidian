@@ -1,3 +1,7 @@
+---
+aliases:
+  - KKrL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
 Lån är i äldre benämning strikt något där samma vara måste återlämnas, till skillnad från *försträckning* som innebär ett lån där inte nödvändigtvis samma objekt som utlånades måste lämnas tillbaka.

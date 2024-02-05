@@ -1,3 +1,7 @@
+---
+aliases:
+  - AvtL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
 Grunden för den allmänna avtalsrätten är Lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område.

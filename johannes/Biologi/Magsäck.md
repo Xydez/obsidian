@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ventrikel
+---
 #biologi #biologi/fysiologi 
 
 Magsäcken är ett steg i [[Matspjälkning|matspjälkningen]] efter munhålan och före [[Tunntarm|tolvfingertarmen/tunntarmen]].

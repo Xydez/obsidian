@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cytologi
+---
 #biologi #biologi/cellbiologi 
 
 Cellen är grunden till allt levande och har många olika [[Cellens byggstenar|byggstenar]]. Alla celler lever och klarar sig endast i vatten.[^2] De reaktioner som pågår i cellen benämns cellens [[Cellmetabolism|metabolism]].

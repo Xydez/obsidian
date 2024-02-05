@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tarmsystemet
+  - Mag- och tarmkanalen
 ---
 #biologi #biologi/fysiologi 
 
