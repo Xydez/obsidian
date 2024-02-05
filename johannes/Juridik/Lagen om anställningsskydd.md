@@ -4,6 +4,8 @@ aliases:
 ---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/arbetsrätt 
 
+Lagen (1982:80) om anställningsskydd är jämte [[Lagen om medbestämmande i arbetslivet|MBL]] en grundsten i [[Arbetsrätt|arbetsrätten]].
+
 LAS tillämpas endast i den mån det rör sig om ett anställningsavtal, och inte exempelvis ett uppdragsavtal.
 
 LAS går att överskrida genom kollektivavtal. Kollektivavtal gäller även anställda som inte är medlemmar i avtalsslutande arbetstagarorganisation förutsatt att arbetet anses densamma.

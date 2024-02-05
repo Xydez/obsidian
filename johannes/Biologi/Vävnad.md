@@ -1,10 +1,10 @@
-#biologi #biologi/fysiologi
+#biologi #biologi/anatomi
 
 I [[Människokroppen|kroppen]] finns hundratals olika [[Eukaryot cell|celler]], som tillsammans bildar vävnad. Vävnader används i sin tur för att bilda [[Organ|organ]].
 
 Människokroppen innehåller hundratals celler som går att dela in i fyra sorters vävnader:
 - [[Epitelvävnad]] - Täcker i hud och slemhinnor. Skyddar mot mikroorganismer.
-- [[Stödjevävnad]] - Finns mellan andra vävnader och organ. Fungerar som stöd.
+- [[Stödjevävnad]] - Finns mellan andra vävnader och organ. Fungerar som stöd, t.ex. mellan organ.
 	- Bindväv, brosk, [[Skelett|ben]] (som blir hårt genom att lagra kalciumsalter), fettvävnad
 	- Utgörs till stor del av det böjliga och hållfasta proteinet [[Kollagen|kollagen]]
 - [[Muskelvävnad]]

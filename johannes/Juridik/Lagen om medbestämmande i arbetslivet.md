@@ -12,8 +12,6 @@ Föreningsrätten[^1] grundas i *decemberkompromissen* (1906) då ett avtal som 
 [^1]: Rätten att tillhöra såväl som inte tillhöra arbetstagar- respektive arbetsgivarorganisationer.
 [^2]: Notera dock att föreningsrätten endast omfattar parter i ett anställningsförhållande. En arbetsgivare kan alltså fortfarande välja att inte anställa en medlem i ett visst fackförbund.
 
-Lagen beskriver i 23-31 §§ hur kollektivavtal ser ut.
-
 Lagen innehåller regler om:
 - Förenings- och förhandlingsrätt
 	- Förhandlingsrätt & grundläggande regler 10-17 §§
@@ -22,21 +20,29 @@ Lagen innehåller regler om:
 	- Tvisteförhandling och rättegång 64-68 §§
 - Kollektivavtal
 	- Formkrav skriftligt 23 §
-	- Arbetstagarens bundenhet till avtalet beror endast på om arbetstagaren är med i den fackliga organisationen när avtalet sluts
-		- Detta gäller även om arbetstagaren lämnar den fackliga organisationen eller byter arbete till en ny arbetsgivare inom samma kollektivavtalsområde (i vilket fall den nya arbetsgivaren måste tillämpa den anställdes gamla kollektivavtal)
-	- Arbetsgivaren har rätt att (ibland måste också?) tillämpa ett kollektivavtal även på icke-medlemmar (??)
+	- Hur kollektivavtal ser ut 23-31 §§
+	- Avtalet gäller även om tjänsten överförs till en annan organisation
+	- Har en "normerande effekt", vilket konkret innebär att kollektivavtal gäller även för icke-medlemmar
 - Fredsplikt och medling
 
 Förhandlingar ska röra åtminstone en person som är medlem i arbetstagarorganisationen och är en nuvarande eller tidigare anställd hos arbetsgivaren.
 
 **Allmän förhandlingsrätt**
-Den allmänna förhandlingsrätten förutsätter inte ett kollektivavtal. Det finns två typer av förhandlingar: avtalsförhandlingar (förhandla fram avtal) och tvisteförhandlingar (tvist om något). (10 § MBL)
+Den allmänna förhandlingsrätten förutsätter inte ett kollektivavtal. Det finns två typer av förhandlingar:
+- avtalsförhandlingar (förhandla fram avtal) och
+- tvisteförhandlingar (tvist om något - yrkande på att motparten har brutit regler).
+(10 § MBL)
 
 **Samverkansförhandlingar**
 Samverkansförhandlingar rör anställdas inflytande på arbetsgivarens beslut (11-14 §§ MBL)
 
-> [!todo] Frågor
-> Mellan vilka parter sluts ett kollektivavtal? arbetsgivare och arbetstagare eller arbetstagarorganisation?
+Notera dock att den fackförening som skall förhandlas med beror på naturen av ärendet.
+- Ifall det är ett individuellt ärende ska arbetsgivaren förhandla med individens fackförbund.
+- Om det är ett kollektivt ärende ska arbetsgivaren förhandla med det fackförbund arbetsgivaren slutit kollektivavtalet med.
+
+> [!todo] Fråga
+> Mellan vilka parter sluts ett kollektivavtal?
+> **Svar**: Arbetsgivare och arbetstagarorganisation.
 
 **Kollektivavtals upphörande**
 Kollektivavtal kan sägas upp, med krav på skriftlighet, (30 §) och innehåller i regel en uppsägningstid.
@@ -59,3 +65,10 @@ Inför en stridsåtgärd föreligger krav på ett par veckors varsel (45 §) til
 
 [^3]: Arbetsinställelse av arbetstagare kallas strejk, av arbetsgivare lockout.
 [^4]: T.ex. nyanställningsblockad eller övertidsblockad
+## Nivåer
+| Nivå | Arbetsgivarsida | Arbetstagarsida |
+| ---- | ---- | ---- |
+| Huvudavtalsnivå (finns ett) | Svenskt Näringsliv | LO/PTK[^5] |
+| Riksavtalsnivå (per bransch) | *Arbetsgivarorganisation* | *Arbetstagarorganisation* |
+| Lokal nivå (per arbetsplats) | *Arbetsgivare* | *Arbetstagarorganisation* (fackklubb) |
+[^5]: Personaltjänstemannakartellen 

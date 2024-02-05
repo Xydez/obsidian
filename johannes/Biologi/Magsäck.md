@@ -4,7 +4,7 @@ aliases:
 ---
 #biologi #biologi/fysiologi 
 
-Magsäcken är ett steg i [[Matspjälkning|matspjälkningen]] efter munhålan och före [[Tunntarm|tolvfingertarmen/tunntarmen]].
+Magsäcken är ett steg i [[Matspjälkningssystemet|matspjälkningen]] efter munhålan och före [[Tunntarm|tolvfingertarmen/tunntarmen]].
 
 Ingången till magsäcken är den *övre magmunnen*, vilket är en ringmuskel som bara öppnas när mat sväljs eller vid kräkning. Den nedre magmunnen pytsar i slutet ut maten till tolvfingertarmen.
 

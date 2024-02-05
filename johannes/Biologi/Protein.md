@@ -7,3 +7,9 @@ Vissa sekvenser av aminosyror får proteiner att krulla ihop sig till en boll, v
 Många av cellens byggstenar är protein, t.ex. [[Enzym|enzymer]].
 
 [^1]: Notera att vissa protein innehåller även andra molekyler än aminosyror, t.ex. hemgruppen i hemoglobin.
+
+---
+
+## Proteiners olika funktion i kroppen
+
+![[Proteiners olika funktioner i kroppen.png]]

@@ -1,12 +1,12 @@
 #biologi #biologi/fysiologi 
 
-Tunntarmen är ett steg i [[Matspjälkning|matspjälkningen]] efter [[Magsäck|magsäcken]] och före [[Tjocktarm|tjocktarmen]].
+Tunntarmen är ett steg i [[Matspjälkningssystemet|matspjälkningen]] efter [[Magsäck|magsäcken]] och före [[Tjocktarm|tjocktarmen]].
 
 Tunntarmen är cirka sex meter lång och ansvarar för majoriteten av nedbrytningen. De första 2-3 decimeterna benämns [[#Tolvfingertarmen|tolvfingertarmen]] och utsöndrar vätskor medan [[#Huvuddelen av tunntarmen|resten av tunntarmen]] utvinner näring.
 ## Tolvfingertarmen
 I tolvfingertarmen utsöndras *galla* och *bukspott*.
 
-Galla bildas i levern som sedan samlas i gallblåsan, för att sedan tryckas ut via gallgången in i tolvfingertarmen.
+Galla bildas i [[Lever|levern]] som sedan samlas i gallblåsan, för att sedan tryckas ut via gallgången in i tolvfingertarmen.
 
 Gallan innehåller *bilirubin*, som är en restprodukt från döda blodkroppar och ger avföring dess bruna färg, samt gallsalter, som likt tvättmedel finfördelar fetter. Gallsalter syntetiseras i levern från [[Kolesterol|kolesterol]], som tillverkas av kroppens egna celler och tillförs med födan. Kolesterol kan bilda gallstenar som fastnar i gallgångarna - ett problem som associeras med intagning av fet mat.
 
@@ -32,4 +32,4 @@ Villi tar genom [[Kanal- och transportproteiner|aktiv transport]] upp socker och
 
 Fetterna töms i blodomloppet och klipps senare i småbitar för att direkt användas i [[Citronsyracykeln|citronsyracykeln]].
 
-Sockerarterna transporteras via portvenen till levern där det omvandlas till glykogen. Även proteinerna och andra näringsämnen transporteras via portvenen ut i resten av kroppen.
+Sockerarterna transporteras via portvenen till [[Lever|levern]] där det omvandlas till [[Glykogen|glykogen]]. Även proteinerna och andra näringsämnen transporteras via portvenen ut i resten av kroppen.

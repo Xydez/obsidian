@@ -2,10 +2,12 @@
 aliases:
   - Tarmsystemet
   - Mag- och tarmkanalen
+  - Matsmältning
+  - Digestion
 ---
 #biologi #biologi/fysiologi 
 
-Matspjälkning är det system djur använder sig av för att utvinna näringsämnen ur föda.
+Matspjälkning är inom [[Humanfysiologi|fysiologi]] det system djur använder sig av för att utvinna näringsämnen ur föda.
 
 Matspjälkning fungerar genom [[Hydrolys|hydrolys]] med hjälp av enzymer. Hydrolys innebär att molekyler med hjälp av vatten bryts ner till mindre molekyler. Exempelvis bryts proteiner ner till aminosyror.
 
@@ -26,3 +28,18 @@ Matsmältningen i magsäcken tar 2-6 timmar. Maten bearbetas i resten av systeme
 Hos resten av djurriket finns metoder för att smälta mer svårsmält mat, jämför:
 - **Koprofager** - Djur som äter sin egen avföring för att ta upp mer näring
 - **Idisslare** - Djur som, efter att ha smält maten en runda, för upp den till munnen, tuggar den igen, och sedan kör en andra runda
+## Omsättning
+Om mängden näring överstiger behovet lagras energin som glykogen i musklerna och levern. Om dessa depåer är fulla lagras överskottet som fett.
+
+Kroppen kan syntetisera kolhydrater ur proteiner.
+
+Kostfibrer gör att föda passerar snabbare genom tarmkanalen, vilket innebär att skadliga ämnen inte hinner påverka tarmen i samma utsträckning.
+
+### Essentiella ämnen
+**Aminosyror**
+Av de 20 aminosyrorna som bygger proteiner kan kroppen producera 12 (11 för barn), medan resterande behöver tillföras genom föda (se [[#Kwashiorkor|kwashiorkor]]).
+## Sjukdomar
+### Kwashiorkor
+I brist på essentiella aminosyror frigörs proteiner från muskulaturen i ett tillstånd som kallas kwashiorkor. Tillståndet leder till att levern inte kan bilda blodproteiner, vilket gör att blodet får en lägre koncentration av lösta ämnen än den omgivande vävnaden, vilket får som följd att vatten diffunderar ut i vävnaderna och orsakar svullnad (kallat *ödem*).
+
+Kwashiorkor är vanligt i länder med brist på mat och drabbar särskilt barn som har extra stort behov av proteiner.
