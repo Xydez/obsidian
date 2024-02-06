@@ -72,3 +72,13 @@ Inför en stridsåtgärd föreligger krav på ett par veckors varsel (45 §) til
 | Riksavtalsnivå (per bransch) | *Arbetsgivarorganisation* | *Arbetstagarorganisation* |
 | Lokal nivå (per arbetsplats) | *Arbetsgivare* | *Arbetstagarorganisation* (fackklubb) |
 [^5]: Personaltjänstemannakartellen 
+
+> [!note]
+> Kollektivavtal har en genom praxis etablerad **normerande verkan**, vilket rent tekniskt sett innebär att de individuella anställningsavtalen anses medföra kollektivavtalet, om inte annat uttryckligen avtalats. Detta innebär att även de arbetstagare på en arbetsplats som inte är medlemmar i facket täcks av kollektivavtalet.
+>
+> Efter det att arbetsgivare och arbetstagare blir bundna av avtalet kan de inte träffa mot avtalet stridande överenskommelser.
+>
+> 26-27 §§ MBL
+
+> [!note] Anmärkning
+> Enskilda arbetstagare kan inte vidta stridsåtgärder, utan endast fackföreningar.

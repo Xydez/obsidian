@@ -20,7 +20,7 @@ Bedömningen huruvida ett anställningsavtal mellan arbetsgivare och arbetstagar
 - Ingår personen i huvudmannens organisation?
 - Vem bär risken för den arbetande partens åtaganden?
 - Kan den arbetande personen i ekonomiskt eller socialt hänseende jämställas med en arbetstagare?
-Ett anställningsavtal har inget formkrav utan kan exempelvis ingås konkludent.
+Ett anställningsavtal har inget formkrav utan kan exempelvis ingås konkludent. Det föreligger dock fortfarande krav på skriftlig anställningsavtal gentemot arbetsgivaren.
 
 Undantag från LAS görs emellertid helt för arbetstagare som:
 - är anställda för arbete i arbetsgivarens hushåll
@@ -53,10 +53,6 @@ Här finns en dold princip kallad **29/29-principen** som innebär ett ytterliga
 
 Om arbetstagaren inte godkänner tjänsten kan det ses som arbetsvägran, vilket kan ge grund för uppsägning.
 
-Uppsägning från arbetstagaren behöver inte ange skäl. Även arbetstagaren får med omedelbar verkan frånträda sin anställning om arbetsgivaren i väsentlig mån har åsidosatt sina åligganden mot arbetstagaren.[^2] (4 § 3 st. LAS)
-
-[^2]: Till exempel om arbetsgivaren oskäligen skulle underlåta att erlägga lön.
-
 **Personliga skäl**
 Exempel på sakliga personliga skäl som genom prövning i arbetsdomstolen blivit rättspraxis:
 - Misskötsamhet
@@ -66,6 +62,7 @@ Exempel på sakliga personliga skäl som genom prövning i arbetsdomstolen blivi
 - Brottslighet
 	- All brottslighet är skäl, men i synnerhet brottslighet som utnyttjar en förtroendeställning, t.ex. kassapersonal som begår stöld
 - Illojalitet (bedriva konkurrerande verksamhet, låtas bli mutad, utnyttja företagshemligheter)
+	- För att illojalitet skall föreligga måste arbetstagaren veta att denne är illojal
 - Missbruk
 	- Onykterhet i tjänst - betraktas som misskötsamhet
 	- Alkoholism som sjukdom - lindrigare sett, arbetsgivaren har dock rehabiliteringsansvar
@@ -85,6 +82,9 @@ Uppsägningstiden framgår i 11 § LAS. Den lagstadgade uppsägningstiden gälle
 | 8-10 år | 5 månader |
 | 10+ år | 6 månader |
 
+> [!todo] Uppsägning av den anställde
+> Om den anställde säger upp sig, gäller ovan?
+
 **Turordningen**
 Vid omplacering används 7 § LAS.
 
@@ -96,4 +96,19 @@ Vid uppsägning är regeln tillämpas regeln "sist in, först ut" (vid lika anst
 **Avsked**
 Arbetsgivaren får med omedelbar verkan *avskeda* arbetstagaren om denne i väsentlig mån har åsidosatt sina åligganden mot arbetsgivaren. (18 § LAS).
 
+**Omedelbart frånträde**
+Uppsägning från arbetstagaren behöver inte ange skäl. Även arbetstagaren får med omedelbar verkan frånträda sin anställning om arbetsgivaren i väsentlig mån har åsidosatt sina åligganden mot arbetstagaren.[^2] (4 § 3 st. LAS)
 
+[^2]: Till exempel om arbetsgivaren oskäligen skulle underlåta att erlägga lön.
+
+**Anställda som fyllt 69 år**
+32 a - 33 a §§ har rätt att kvarstå i anställning tills 69
+därefter behövs inte sakliga skäl för uppsägning
+uppsägningstid max 1 månad
+
+**Utköpningsrätt**
+39 §
+om en arbetsgivare vägrar ta tillbaka en anställd vars anställning är giltig (genom en dom),
+kan de köpa bort personen
+
+**Kräva skriftligt bevis på anställning** annars skadestånd??
