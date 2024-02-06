@@ -1,6 +1,6 @@
 #biologi #biologi/fysiologi 
 
-Ändtarmen och anus är det sista steget i [[Matspjälkningssystemet|matspjälkningen]] och kommer efter [[Tjocktarm|tjocktarmen]].
+Ändtarmen och anus är de sista stegen i [[Matspjälkningssystemet|matspjälkningen]], och kommer efter [[Tjocktarm|tjocktarmen]].
 
 Ändtarmen är en tillfällig lagringsplats för avföringen, som packas hårdare och hårdare tills streckreceptorer i tarmen tänjs ut, varpå signaler skickas till hjärnan.
 

@@ -2,10 +2,10 @@
 
 Levern är en del av [[Människokroppen|kroppen]].
 
-Efter [[Matspjälkningssystemet|matspjälkningen ]]gäller att den näring som absorberas i blodet från [[Tunntarm|tunntarmen]] åker genom portvenen till levern, där energi sedan metaboliseras.
+Efter [[Matspjälkningssystemet|matspjälkningen]] gäller att den näring som absorberas i blodet från [[Tunntarm|tunntarmen]] åker genom portvenen till levern, där energi sedan metaboliseras.
 
 **Matspjälkning**
-- tillverka och utsöndrar galla som finfördelar fetter
+- tillverka och utsöndrar [[Galla|galla]] som finfördelar fetter
 **Syntes**
 - syntetisera plasmaproteiner till blodplasman, som bland annat hjälper blodet att koagulera
 **Energimetabolism**
@@ -20,9 +20,13 @@ Efter [[Matspjälkningssystemet|matspjälkningen ]]gäller att den näring som a
 		- leverns normala funktioner avtar dock under detta, varför stor konsumtion av alkohol kan leda till kraftigt nedsatt leverfunktion
 **Övrigt**
 - bryta ner gamla blodkroppar så att järn frisläpps
-- omvandla bilirubin till ett mer vattenlösligt ämne och utsöndra det genom gallan till tarmkanalen (se [[#Gulsot|gulsot]])
+- omvandla bilirubin till ett mer vattenlösligt ämne och utsöndra det genom gallan till tarmkanalen (se [[#Sjukdomar#Gulsot|gulsot]])
 - reglerar [[Kolesterol|kolesterolhalten]] i kroppen
 
+### Galla
+[[Galla|Galla]] tillverkas av levern och utsöndras sedan i [[Tunntarm|tunntarmen]]. Det innehåller bland annat gallsalter, som likt tvättmedel finfördelar fetter.
 ## Sjukdomar
 ### Gulsot
 Om levern inte renar blodet, t.ex. för att den har blivit skadad, ökar mängden bilirubin i blodet, vilket leder till tillståndet *gulsot*.
+### Gallsten
+Gallsalterna i gallan innehåller [[Kolesterol|kolesterol]] vilket kan bilda gallstenar som fastnar i gallgångarna - ett problem som associeras med intagning av fet mat.

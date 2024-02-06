@@ -1,3 +1,7 @@
+---
+aliases:
+  - Tolvfingertarmen
+---
 #biologi #biologi/fysiologi 
 
 Tunntarmen är ett steg i [[Matspjälkningssystemet|matspjälkningen]] efter [[Magsäck|magsäcken]] och före [[Tjocktarm|tjocktarmen]].
@@ -6,14 +10,9 @@ Tunntarmen är cirka sex meter lång och ansvarar för majoriteten av nedbrytnin
 ## Tolvfingertarmen
 I tolvfingertarmen utsöndras *galla* och *bukspott*.
 
-Galla bildas i [[Lever|levern]] som sedan samlas i gallblåsan, för att sedan tryckas ut via gallgången in i tolvfingertarmen.
+[[Galla|Galla]] bildas i [[Lever|levern]] som sedan samlas i gallblåsan, för att sedan tryckas ut via gallgången in i tolvfingertarmen. Det separerar huvudsakligen fetter.
 
-Gallan innehåller *bilirubin*, som är en restprodukt från döda blodkroppar och ger avföring dess bruna färg, samt gallsalter, som likt tvättmedel finfördelar fetter. Gallsalter syntetiseras i levern från [[Kolesterol|kolesterol]], som tillverkas av kroppens egna celler och tillförs med födan. Kolesterol kan bilda gallstenar som fastnar i gallgångarna - ett problem som associeras med intagning av fet mat.
-
-Bukspott (pankreassaft) bildas i bukspottskörteln (pankreas) och utsöndras i tolvfingertarmen. Bukspott är basiskt och neutraliserar därmed magsyran. Det innehåller även flera enzymer såsom:
-- Amylas, som bryter ner polysackarider
-- Lipas, som bryter ner fetter till glycerol och fettsyror
-- Andra proteinnedbrytande enzymer
+[[Bukspottskörtel#Bukspott|Bukspott]] bildas i [[Bukspottskörtel|bukspottskörteln]] och utsöndras sedan i tolvfingertarmen. Det innehåller många nedbrytande enzymer.
 ## Huvuddelen av tunntarmen
 Tunntarmen utsöndrar även genom tarmväggen *tarmsaft* som innehåller ytterligare enzymer, såsom:
 - Maltas, laktas m.fl. som bryter ner disackarider till monosackarider
