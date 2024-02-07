@@ -10,7 +10,7 @@ Den andra typen av ER är SER (*smooth endoplasmic reticulum*) som till skillnad
 
 SER har två uppgifter:
 1. Tillverka [[Kolesterol|kolesterol]] och [[Fosfolipid|fosfolipider]], vilket gör att det fungerar som cellens membranfabrik.
-2. Avgifta cellen från skadliga ämnen som är fettlösliga, och därmed kan förstöra cellmembranet, genom att göra dem vattenlösliga så att de kan lämna kroppen genom [[Blodomlopp|blodet]] med urinen.[^1]
+2. Avgifta cellen från skadliga ämnen som är fettlösliga, och därmed kan förstöra cellmembranet, genom att göra dem vattenlösliga så att de kan lämna kroppen genom [[Kardiovaskulära systemet|blodet]] med urinen.[^1]
 
 SER tillverkar dessutom [[Peroxisom|peroxisomer]] för att bryta ner fetter och dessutom bryta ner skadligt väteperoxid, därav namnet.
 

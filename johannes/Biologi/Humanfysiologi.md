@@ -8,3 +8,5 @@ Fysiologi (egentligen humanfysiologi) är läran om [[Människokroppen|människo
 
 System i människokroppen:
 - [[Matspjälkningssystemet]]
+- [[Respirationssystemet]]
+- [[Kardiovaskulära systemet]]

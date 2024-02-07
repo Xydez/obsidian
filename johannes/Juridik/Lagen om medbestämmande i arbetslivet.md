@@ -54,7 +54,7 @@ Kollektivavtal kan, vid grovt avtalsbrott med väsentlig betydelse, av domstol h
 
 Arbetsgivare och arbetstagare som är bundna av kollektivavtal får inte vidta eller delta i stridsåtgärd.
 
-Med stridsåtgärder menas:
+Med stridsåtgärder menas
 - arbetsinställelse[^3] (*lockout* eller *strejk*),
 - blockad[^4],
 - bojkott eller

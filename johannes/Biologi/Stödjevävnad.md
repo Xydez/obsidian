@@ -12,7 +12,7 @@ Det finns huvudsakligen fyra sorters stödjevävnad i kroppen:
 		- \[regular\] - ...
 - \[cartilage\]
 - [[Skelett|Skelett]]
-- [[Blodomlopp|Blod]]
+- [[Kardiovaskulära systemet|Blod]]
 
 > [!todo]
 > Fortsätt med Professor Daves [video](https://youtu.be/ec0PT0UQ_zo?t=335).

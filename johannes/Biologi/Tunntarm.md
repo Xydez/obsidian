@@ -29,6 +29,6 @@ Villi tar genom [[Kanal- och transportproteiner|aktiv transport]] upp socker och
 
 Även majoriteten av den vätska som utsöndrats tas sedan upp i tunntarmen genom [[Osmos|diffusion]].
 
-Fetterna töms i blodomloppet och klipps senare i småbitar för att direkt användas i [[Citronsyracykeln|citronsyracykeln]].
+Fetterna töms i [[Kardiovaskulära systemet|blodomloppet]] och klipps senare i småbitar för att direkt användas i [[Citronsyracykeln|citronsyracykeln]].
 
 Sockerarterna transporteras via portvenen till [[Lever|levern]] där det omvandlas till [[Glykogen|glykogen]]. Även proteinerna och andra näringsämnen transporteras via portvenen ut i resten av kroppen.

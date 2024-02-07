@@ -7,7 +7,7 @@ aliases:
 ---
 #biologi #biologi/fysiologi 
 
-Matspjälkning är inom [[Humanfysiologi|fysiologi]] det system djur använder sig av för att utvinna näringsämnen ur föda.
+Matspjälkningssystemet är inom [[Humanfysiologi|fysiologi]] det system djur använder sig av för att utvinna näringsämnen ur föda.
 
 Matspjälkning fungerar genom [[Hydrolys|hydrolys]] med hjälp av enzymer. Hydrolys innebär att molekyler med hjälp av vatten bryts ner till mindre molekyler. Exempelvis bryts proteiner ner till aminosyror.
 
@@ -15,7 +15,7 @@ Djur har i regel en matspjälkningskanal med en mun i ena änden och anus i den 
 
 **Hos människor:**
 1. Maten bryts ner till delar i **munhålan** genom tänderna samt saliv, vilket innehåller [[Enzym|enzymet]] amylas som bryter ner [[Kolhydrat#Stärkelse|stärkelse]] till disackariden maltos.
-	- När maten sväljs stängs luftstrupen och täcks av struplocket, varpå matstrupen öppnas och födan genom [[Peristaltik|peristaltiska rörelser]] pressas ner. På grund av *sfinktrarna* (slussarna) i strupen åker maten inte upp igen.
+	- När maten sväljs stängs luftstrupen och täcks av struplocket, varpå matstrupen öppnas och födan genom [[Peristaltik|peristaltiska rörelser]] pressas ner. På grund av [[Sfinkter|sfinktrarna]] (slussarna) i strupen åker maten inte upp igen.
 2. Maten hamnar i [[Magsäck|magsäcken]], där den med magsaften bryts ner.
 	- Protein bryts med enzymet pepsin ner till peptidkedjor (kedjor av 2-50 aminosyror).
 3. Maten fortsätter till [[Tunntarm|tunntarmen]].
