@@ -1,4 +1,4 @@
-#biologi
+#biologi #biologi/zoologi 
 
 Gälar består av flera längs varandra liggande gälbågar. Varje gälbåge har i sin tur två rader av långa utstickande gälblad.
 

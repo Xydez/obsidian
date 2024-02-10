@@ -27,6 +27,6 @@ Efter [[Matspjälkningssystemet|matspjälkningen]] gäller att den näring som a
 [[Galla|Galla]] tillverkas av levern och utsöndras sedan i [[Tunntarm|tunntarmen]]. Det innehåller bland annat gallsalter, som likt tvättmedel finfördelar fetter.
 ## Sjukdomar
 ### Gulsot
-Om levern inte renar blodet, t.ex. för att den har blivit skadad, ökar mängden bilirubin i blodet, vilket leder till tillståndet *gulsot*.
+Om levern inte renar blodet, exempelvis på grund av *hepatit A*, ökar mängden bilirubin i blodet, vilket leder till tillståndet *gulsot*.
 ### Gallsten
 Gallsalterna i gallan innehåller [[Kolesterol|kolesterol]] vilket kan bilda gallstenar som fastnar i gallgångarna - ett problem som associeras med intagning av fet mat.

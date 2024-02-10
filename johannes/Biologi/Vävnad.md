@@ -7,7 +7,7 @@ Människokroppen innehåller hundratals celler som går att dela in i fyra sorte
 - [[Stödjevävnad]] - Finns mellan andra vävnader och organ. Fungerar som stöd, t.ex. mellan organ.
 	- Bindväv, brosk, [[Skelett|ben]] (som blir hårt genom att lagra kalciumsalter), fettvävnad
 	- Utgörs till stor del av det böjliga och hållfasta proteinet [[Kollagen|kollagen]]
-- [[Muskelvävnad]]
+- [[Muskuloskeletala systemet|Muskelvävnad]]
 	- Utgör 40-50% av vuxen människas vikt
 	- Tre typer
 		- Tvärstrimmiga muskler - Fäster i ben och hud
