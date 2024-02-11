@@ -15,7 +15,7 @@ Kärlen består av betydligt större celler än trakeiderna. Cellväggarna mella
 ## Floem
 Den andra delen är floemet[^2] "sildelen", som till skillnad från xylemet består av levande celler. Floemet fungerar som transport för viktiga ämnen, främst löst rörsocker.
 
-Växten ofta sin energi i form av [[Kolhydrat#Stärkelse|stärkelse]] i blad och lagrande organ som rötter eller stamknölar. För att utnyttja denna energi bryts den ner till löst rörsocker och transporteras genom silrören i floemet till en växande del av växten.
+Växten ofta sin energi i form av [[Stärkelse|stärkelse]] i blad och lagrande organ som rötter eller stamknölar. För att utnyttja denna energi bryts den ner till löst rörsocker och transporteras genom silrören i floemet till en växande del av växten.
 
 Silrören är rör av silrörsceller som avgränsas med silplattor, som är platta genomborrade cellväggar, vilket innebär att cytoplasman är kontinuerlig. Silrörsceller saknar [[Cellkärna|cellkärna]], [[Golgiapparat|golgiapparat]] och mycket av [[Cellskelett|cellskelettet]], och har bara ett fåtal [[Ribosomer|ribosomer]]. På grund av detta finns följeceller som ansvarar för att hålla silrören vid liv genom att producera nödvändiga ämnen.
 

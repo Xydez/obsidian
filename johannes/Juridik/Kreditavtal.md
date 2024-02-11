@@ -6,6 +6,8 @@ aliases:
 
 Lån är i äldre benämning strikt något där samma vara måste återlämnas, till skillnad från *försträckning* som innebär ett lån där inte nödvändigtvis samma objekt som utlånades måste lämnas tillbaka.
 
+Jämför [[Upplåtelse]].
+
 Ett kreditavtal kommer ofta till uttryck i ett *skuldebrev* (*revers*).
 
 För krediter mellan två näringsidkare eller två privatpersoner finns några få regler i *lagen (1936:81) om skuldebrev*.

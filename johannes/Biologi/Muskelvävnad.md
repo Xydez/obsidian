@@ -28,5 +28,7 @@ I mer precisa muskler kan varje enskild fiber vara kopplad till en neuron. I st�
 **Olika typer av fibrer**
 Det finns två typer av muskelfibrer:
 - *röda fibrer* - god blodförsörjning, många mitokondrier och mycket myoglobin; huvudsakligen aerob förbränning; uthålliga
+	- Tar över när de vita tar slut
 - *vita fibrer* - huvudsakligen anaerob förbränning; väldigt snabb; bildar mjölksyra
+	- Använder lagrat [[Glykogen|glykogen]], men tills slut bildas för mycket mjölksyra, och de röda fibrerna tar över.
 

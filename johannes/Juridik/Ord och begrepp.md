@@ -42,7 +42,7 @@
 	- **Medelbar besittning** - Att ha indirekt tillgång till (något), jfr. omedelbar 'att ha direkt tillgång till (något)'
 - **Fast egendom** - Jordyta som ingår i det svenska territoriet samt luftrummet ovan. Även äganderätten till sådan egendom.
 - **Lös egendom** - All egendom som inte är fast egendom. Omfattar både lösöre och pengar, värdepapper och liknande.
-- **Fungibel egendom** - Egendom som saknar individuella särdrag och därmed är direkt utbytbar. Den romerske juristen Julius Paulus kallade det "varor, som kan vägas, mätas eller räknas".
+- **Fungibel egendom** - Egendom som saknar individuella särdrag och därmed är direkt utbytbar. Den romerske juristen Julius Paulus kallade det "varor, som kan vägas, mätas eller räknas". Se [[Upplåtelse]], [[Kreditavtal]].
 - **Lösöre** - Lös egendom som inte är pengar, värdepapper, rättigheter eller byggnad på ofri grund.
 - **Laga fång** - Juridiskt erkända sätt att förvärva äganderätt
 	- **Derivativa fång** - När förvärvarens äganderätt härstammar från en tidigare ägare.

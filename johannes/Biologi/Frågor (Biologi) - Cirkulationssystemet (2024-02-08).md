@@ -1,3 +1,5 @@
+#biologi 
+
 1. Jämför hjärta och blodomlopp hos fisk, groddjur och däggdjur. Använd begreppen enkelt/dubbelt, ofullständigt/fullständigt blodomlopp i beskrivningen.
 
 Fiskar har ett enkelt och ofullständigt (icke-slutet) blodomlopp. Alltså ett blodomlopp med ett förmak och en kammare. Blodet kör förbi andningsorganen (gälarna) och kroppen i samma veva, och släpper sedan ut blodet direkt i vävnadsvätskan.

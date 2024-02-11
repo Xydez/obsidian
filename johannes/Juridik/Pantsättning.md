@@ -1,3 +1,8 @@
+---
+aliases:
+  - Inteckning
+  - Hypotek
+---
 #juridik #juridik/förmögenhetsrätt
 
 Pantsättning är när egendom intecknas som säkerhet för ett [[Kreditavtal|lån]].

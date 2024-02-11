@@ -9,8 +9,8 @@
 	4. [[Lag om konsumentskydd vid automatisk avtalsförlängning|Lagen om konsumentskydd vid automatisk avtalsförlängning]]
 3. Övriga avtal
 	1. [[Avtal inom distribution|Avtal inom distribution]]
-	2. [[Upplåtelse]]
 	3. [[Uppdragsavtal]]
+	2. [[Upplåtelse]]
 	4. [[Kreditavtal]]
 		- [[Pantsättning|Pantsättning]]
 		- [[Borgen|Borgen]]
