@@ -1,6 +1,6 @@
 #juridik #juridik/förmögenhetsrätt 
 
-Sakrätten är ett rättsligt område som rör förhållandet till tredje man.
+Sakrätten är ett [[Förmögenhetsrätt|förmögenhetsrättsligt]] område som rör förhållandet till tredje man.
 
 1. [[#Godtrosförvärv]]
 2. [[#Tvesala]]

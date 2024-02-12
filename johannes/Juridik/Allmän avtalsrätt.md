@@ -4,7 +4,7 @@ aliases:
 ---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/avtalsrätt 
 
-Grunden för den allmänna avtalsrätten är Lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område.
+Grunden för den allmänna avtalsrätten är *lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område*.
 
 Många områden täcks dock inte av lagen, och då används i juridiken istället allmänna principer, vilka grundas i samhällsnormer.
 ### Innehållsförteckning

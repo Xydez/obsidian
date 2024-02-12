@@ -11,7 +11,7 @@ Det finns två huvudsakliga rättsområden, civilrätt och offentlig rätt.
 	- **Statsrätt/konstitutionell rätt**
 	- **Förvaltningsrätt** - Reglerar interaktioner mellan individen och myndigheter eller myndigheter sinsemellan.
 	- **Skatterätt**
-	- **[[Straffrätt]]**
+	- **[[Straffrätt]]** - Reglerar brottsliga handlingar och deras påföljder
 	- **[[Processrätt|Processrätt]]** - Reglerar förfarandet vid domstolar. Förekommer huvudsakligen till uttryck i RB.
 
 Vid sidan om detta finns även ett tredje rättsområde, internationell rätt, med flera underområden.
