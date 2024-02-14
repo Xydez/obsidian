@@ -19,9 +19,28 @@ Notera att *rättegång* betecknar hela rättsprocessen från stämningsansökan
 	5. Käranden håller sin plädering (också kallat slutanförande), då denne sammanfattar sitt tycke och ofta anger rättslig grund för sin talan.
 5. Rätten drar sig tillbaka för överläggning.
 6. Domstolen meddelar sin dom (om talan ogillas eller bifalls).
+	- Domen formuleras med *domskäl* och ett *domslut*.
 
 [^1]: Dock endast i den mån domstolen anser svarandens medgivande vara juridiskt förnuftigt.
 [^2]: Här brukar domstolen agera mellanhand och kalla in var och en och sakligt presentera motstående parts ståndpunkt.
 [^3]: Här kan de även vitsorda yrkanden. Exempelvis vitsorda ett belopp som skäligt men bestrida betalningsskyldighet. Ofta görs detta för att bespara resurser.
 [^4]: I Sverige tillämpas *fri bevisföring*, alltså att alla bevis får åberopas oavsett lämplighet eller felaktig tillkommelse; detta jämfört med den stereotypiska amerikanska domstolen där det alltemellanåt hörs "objection" från andra sidan salen. 
 [^5]: Notera att det tekniskt sett är domstolen som utfärdar stämningen.
+## Terminologi
+"Fastställer MÖD:s[^6] dom" - Håller med om domen
+"Fastställer MÖD:s domslut" - Håller endast med om domslutet (men inte nödvändigtvis domskälet).
+"Lämnas utan avseende" - Något är så oriktigt/oväsentligt att det inte vägs in
+
+Använder passiv form.
+- Juridiska anföringsverb: "\[något\] anförs, uppges, påtalas, framställs, yrkas"
+- "Något skall tas under övervägande"
+- "Erlägga betalning", "Ta under övervägande"
+- (a. prop. s. 47) = angiven proposition sida 47
+
+- Kärande, käromål - "yrkande"
+- Talan - Vad någon
+- "Ogillar" - Bifaller inte, säger nej till kärande
+- "Ostridigt" - Båda parterna är överens om att något är grunden för avgörandet
+- "Betalningsföreläggande" - När kronofogden hjälper till att driva in en skuld
+
+[^6]: Mark- och miljödomstolen

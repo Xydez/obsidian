@@ -1,3 +1,7 @@
+---
+aliases:
+  - HBL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/associationsrätt  
 
 ## Översikt
@@ -23,7 +27,7 @@ Det som särskiljer kommanditbolag från handelsbolag är att en eller fler av b
 
 Det finns då två sorters bolagsmän:
 - *kommanditdelägare* - bolagsman med begränsad förpliktelse
-	- han har inte heller rätt att delta i bolagets förvaltning eller (som huvudregel) rätt att företräda bolaget
+	- han har inte heller rätt att delta i bolagets förvaltning eller (som huvudregel) rätt att företräda bolaget (3 kap. 4 §)
 	- bolaget kan dock bli bundet om tredje man inte insett eller borde insett att kommanditdelägaren inte hade rätt att företa rättshandlingen
 	- Notera dock att kommanditdelägarna har offentliggjorts i handelsregistret, handelsregisterlag (1974:157) 4 § 2 st. 8 p., vilket innebär att det i praktiken är svårt att bevisa god tro hos tredje man
 - *komplementär* - bolagsman utan begränsad förpliktelse

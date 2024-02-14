@@ -4,7 +4,7 @@ aliases:
 ---
 #biologi #biologi/fysiologi 
 
-Hormonsystemet inom [[Humanfysiologi|fysiologin]] ett kontrollsystem som fungerar genom att insöndra *hormoner*.
+Hormonsystemet är inom [[Humanfysiologi|fysiologin]] ett kontrollsystem som fungerar genom att insöndra *hormoner*.
 
 Hormoner produceras i ett tiotal endokrina *körtlar* i kroppen för att sedan utsöndras i blodomloppet och påverka ett annat ställe i kroppen.
 
@@ -14,7 +14,7 @@ Hormonernas effekter kan delas in i fyra kategorier:
 - Tillväxtreglering
 - Påverka fortplantningssystemet
 - Kontroll av organ
-- Påverka beteendet (i samspel med nervsystemet)
+- Påverka beteende (i samspel med [[Nervsystemet|nervsystemet]])
 
 **Hypothalamus och hypofysen**
 *Hypothalamus* är en del av hjärnan som bland annat har *neurosekretoriska celler*, som mottar nervimpulser och som svar utsöndrar hormoner.

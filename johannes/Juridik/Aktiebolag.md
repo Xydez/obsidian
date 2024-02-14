@@ -1,3 +1,7 @@
+---
+aliases:
+  - ABL
+---
 #juridik #juridik/förmögenhetsrätt #juridik/förmögenhetsrätt/associationsrätt 
 
 Aktiebolag regleras inom [[Associationsrätt|associationsrätten]] av aktiebolagslagen (2005:551) (ABL).

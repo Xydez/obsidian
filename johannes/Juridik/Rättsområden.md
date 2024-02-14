@@ -2,6 +2,8 @@
 
 Det finns två huvudsakliga rättsområden, civilrätt och offentlig rätt.
 
+Inom civilrätten brukar man säga att bevisbördan skall vara "styrkt", det vill säga att det skall vara mycket troligt att något har gått till på ett visst sätt.
+
 - **Civilrätt** - Reglerar interaktioner personer sinsemellan
 	- **[[Personrätt]]** - Regler kring rättssubjekt och när de får bl.a. rättslig handlingsförmåga
 	- **[[Förmögenhetsrätt]]** - Regler kring egendom "förmögenhet" och utnyttjande av den.
