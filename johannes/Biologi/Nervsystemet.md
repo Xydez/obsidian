@@ -8,7 +8,7 @@ Nervsystemet har tre funktioner:
 3. Skicka impulser till muskler m.m.
 
 Nervsystemet kan delas in i två undersystem:
-- *centrala nervsystemet* - hjärnan och ryggmärgen
+- *centrala nervsystemet* - [[Hjärna|hjärnan]] och [[Ryggmärg|ryggmärgen]]
 - *perifera nervsystemet* - leder impulser in till (via sensoriska/afferenta nerver) och ut från (via motoriska/efferenta nerver) det centrala nervsystemet
 
 Den medvetna delen av nervsystemet kallas för det *somatiska nervsystemet*.
@@ -34,6 +34,9 @@ En nervcell (neuron) består av
 - Ranvierska noder som är mellantinget mellan varje myelinskida och
 - synapser som släpper iväg impulsen, koppling till nästa cell (annan nervcell, muskelcell eller körtelcell)
 	- Här omvandlas signalen till en kemisk signal
+
+> [!info] Fakta
+> Om en neuron slits av på mitten kan den växa tillbaka. Avslitna armar och ben kan ofta sys fast och få full funktionalitet.
 
 ### Nervimpuls
 Miljön inuti axonen skiljer sig från miljön på andra sidan membranet. I vilotillstånd finns följande skillnader:
