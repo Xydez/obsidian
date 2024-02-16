@@ -70,6 +70,19 @@ Mottagarcellen har sedan receptorer som binder till neurotransmittorn, vilket ak
 Det att flera impulser mottas samtidigt kallas för temporal retningssummation.
 
 Det att flera axoner samtidigt stimulerar mottagaren kallas spatial eller heterogen retningssummation.
+## Autonoma nervsystemet
+Det autonoma nervsystemet är den delen av nervsystemet som är omedveten (autonom), i motsats till det somatiska nervsystemet.
+
+Det autonoma nervsystemet reglerar processer som
+- hjärtrytm,
+- slagvolym och
+- temperaturreglering.
+
+Det autonoma nervsystemet delas huvudsakligen in i två viktiga delar:
+- *sympatiska systemet* - sätter kroppen i alarmberedskap, ökar omsättning
+	- styrs från ryggmärgen
+- *parasympatiska systemet* - stimulerar organ till lugnare aktiviteter (t.ex. matspjälkning)
+	- styrs från hjärnstammen och korskotorna
 
 ---
 

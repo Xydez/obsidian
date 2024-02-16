@@ -38,13 +38,18 @@ Höger hjärnhalva kallas ofta den kreativa hjärnhalvan och har större kontrol
 
 > [!todo] Undersök
 > Vilka delar menar Fredrik Lindström på i standupshowen Människan?
-
+## Psykiskt påverkande substanser
+- Koffein - Blockerar adenosinreceptorer i hjärnan
+- Nikotin - Ökar koncentrationsförmåga men kontraherar blodkärl
+- Alkohol
+	- Ökar effekten av GABA (som har en hämmande funktion genom att öppna kanaler som släpper in kloridjoner och därmed minskar spänningen)
+	- Löser sig i lipider i nervcellernas membran och förändrar deras förmåga att ge ifrån sig och reagera på impulser
 ## Sjukdomar
 ### Cerebral Pares (CP)
 Cerebral pares innebär att motoriska centra i hjärnan har skadats (ofta under förlossningen), vilket innebär svårigheter att kontrollera muskelrörelser.
 ### Parkinsons sjukdom
 Parkinsons sjukdom innebär skada på celler i hjärnstammen som har funktioner för kroppsrörelser samt producerar neurotransmittorn dopamin. Detta innebär att patienten blir mer och mer stel och orörlig. Parkinsons kan behandlas med dopaminliknande ämnen (L-Dopa) men är inte helt botad.
-### Alzheimers
+### Alzheimers sjukdom
 Alzheimers orsak är inte fullt förstådd men observationer pekar på att amyloid bildar plack på hjärnans cortex.
 ### Hjärninfarkt (stroke)
 En stroke kan uppstå om ett blodkärl i hjärnan brister. Skadan beror på vilken del av hjärnan som skadas.

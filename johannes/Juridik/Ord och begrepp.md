@@ -16,12 +16,16 @@
 - **Beviskrav** - Vad som krävs för att bevisbördan skall vara uppfylld
 - **Ratihabera** - Att godkänna en rättshandling i efterhand.
 - **Presumtion** - Att något antas och bevisbördan faller på motparten
-### [[Personrätt]]
+### Personrätt
+*Huvudartikel: [[Personrätt]].*
+
 - **Rättssubjekt** - En fysisk eller juridisk person med *rättskapacitet*.
 - **Rättskapacitet** - Förmågan att ha juridiska rättigheter och skyldigheter, jfr. *rättshandlingsförmåga*.
 - **Rättshandlingsförmåga** - Förmågan av *rättssubjekt* att själv ombesörja sina rättsliga angelägenheter, exv. ingå avtal. Fysiska personer får rättshandlingsförmåga vid 18 års ålder.
 - **Rättshandling** - Handling till vilket en eller flera rättsföljder är knutna.
 ### Förmögenhetsrätt
+*Huvudartikel: [[Förmögenhetsrätt]].*
+
 - **Äganderätt** - Rätt till ägande av något, jfr. *besittning*
 - **Nyttjanderätt** - Rätten att bruka något i annans ägande
 - **Servitutsrätt** - Rätten för en fastighet att bruka en annan fastighet, i vilket fall fastigheterna benämns härskande respektive tjänande fastighet
@@ -60,13 +64,17 @@
 - **Specifikation** - När en råvara på grund av dess förädling ökat väsentligen och skaparen varit i god tro kan denne göra ett *äganderättsförvärv*; råmaterialets ägare har förvisso rätt till ersättning.
 - **Upplåtelse** - När en person av ägaren förvärvar begränsad rätt (t.ex. nyttjanderätt)
 - **Överlåtelse** - När en person av ägaren förvärvar full äganderätt
-#### [[Avtalsrätt]]
+#### Avtalsrätt
+*Huvudartikel: [[Avtalsrätt]].*
+
 - **[[Anbud och accept-modellen#Anbud|Anbud]]** - Erbjudande till en person om att ingå avtal
 - **[[Anbud och accept-modellen#Accept|Accept]]** - Svar på ett anbud
 - **Oren accept** - Accept som ändrar anbudet; räknas som ett nytt anbud
 - **[[Anbud och accept-modellen#Utbud|Utbud]]** - Anbud till obestämd krets
 - **[[Ogiltiga avtal#^ocker|Ocker]]** - Avtal som utnyttjar person i trångmål el. dylikt
 ### Straffrätt
+*Huvudartikel: [[Straffrätt]]*
+
 - **Självtäkt**, **Egenmäktigt förfarande** - Att ingripa i besittningsförhållanden genom att återta sin egendom
 ### Övrigt
 - **Trolleriformelsjuridik** - \<skämtsamt\> Juridiskt system där vissa saker eller ordföljder måste yttras för att vara juridiskt bindande

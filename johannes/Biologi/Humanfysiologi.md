@@ -14,11 +14,15 @@ System i människokroppen:
 - [[Muskuloskeletala systemet]]
 - [[Matspjälkningssystemet]]
 - [[Respirationssystemet]]
-- [[Endokrina systemet]]
-- [[Kardiovaskulära systemet]]
 - Urogenitala systemet
 	- [[Urinsystemet]]
+	- [[Fortplantningssystemet]]
+- [[Endokrina systemet]]
+- [[Kardiovaskulära systemet]]
 - [[Nervsystemet]]
+- Tuggsystemet
 - Blod- och immunsystemet
+	- Hematopoetiska systemet
 	- [[Immunsystemet]]
 		- [[Lymfatiska systemet]]
+- Integumentsystemet
