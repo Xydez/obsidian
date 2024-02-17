@@ -53,6 +53,8 @@ Aminosyrehormoner är bildade av [[Aminosyra|aminosyror]] och är därför för 
 ## Menstruationscykeln
 > [!todo] Litteratur
 > Se Biologi 2, sida 209-210.
+
+![[Menstruationscykeln.png]]
 ## Sjukdomar
 ### Diabetes
 Diabetes typ 1 innebär att bukspottskörteln har en minskad förmåga att producera insulin, som stimulerar cellernas upptag av blodsocker.
