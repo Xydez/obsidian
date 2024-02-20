@@ -60,6 +60,12 @@ I testamentet kan även anges om
 - egendomen räknas som enskild egendom eller giftorättsgods.
 
 Vid testatorns bortgång måste de legala arvingarna delges testamentet. Från och med att envar delgivits har denne 6 månader (klanderfrist) att väcka klandertalan i tingsrätt. Grund för klandertalan är att begära ut laglott, eller anse testamentet såsom ogiltigt.
+
+> [!example] Exempel
+> Ett tidigare testamente gäller det i den mån det är tillämpligt även om senare testamente skrivs, ifall det senare inte upphäver det förra.
+
+> [!example] Exempel
+> Om en testamentstagare inte skriver under att de har delgivits testamentet, så måste man tills slut skicka polisen för att delge denna. Detta för att klanderfristen ska börja.
 ### Bouppteckning
 Efter dödsfallet ska bouppteckning förrättas av dödsbodelägarna[^5]. Bouppteckningen ska innehålla den dödes tillgångar och skulder. Denna blir sedan en legitimitetshandling som styrker vilka som är rätt dödsbodelägare och vad som finns i boet.
 

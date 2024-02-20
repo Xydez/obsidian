@@ -27,3 +27,6 @@ En skriftlig lottläggning måste upprättas, med en regel om bättre rätt till
 
 **Rådighetsinskränkning**
 Det föreligger en rådighetsinskränkning för det gemensamma hemmet (23 §).
+
+> [!info] Notera
+> Om man efter samboskapet fastnar i ett gemensamt samägande, så kan man behöva ta till tvångsförsäljning, se *lagen (1904:48 s. 1) om samäganderätt* 6, 8 §§.

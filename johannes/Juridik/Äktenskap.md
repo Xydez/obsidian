@@ -58,9 +58,12 @@ Den som övertar bostaden beror på vem som har bäst rätt till den. Detta kan 
 ### Bodelning
 Sist krävs för att skilja på egendomen en bodelning (ÄktB 9:4). 
 #### Giftorättsgods
-Vid upplösande av äktenskap ingår giftorättsgodset i *bodelningen*. Ett undantag är dock *skevdelningsregeln*. Olika beroende på om det rör äktenskapsskillnad, eller dödsfall.
+Vid upplösande av äktenskap ingår giftorättsgodset i *bodelningen*. Ett undantag är dock *skevdelningsregeln*, som är olika beroende på om det rör äktenskapsskillnad, eller dödsfall.
 
 Vid äktenskapsskillnad tillämpas ÄktB 12:1 som har en trappa.
+
+> [!info] Jämkningstrappan
+> Vid äktenskapsskillnad inte nödvändigtvis hela egendomen ("man kan inte gifta sig rik"), utan här tillämpas ÄktB 12:1, som har en underförstådd allmän rättsprincip om att den inräknade summan direkt proportionell till andelen av 5 år personerna varit tillsammans (kan även räkna före äktenskap).
 
 Vid dödsfall tillämpas ÄktB 12:2. Den efterlevande maken kan då bestämma att var och en behåller en andel av varsitt giftorättsgods.
 #### Andelsberäkning
