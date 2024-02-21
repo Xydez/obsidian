@@ -11,9 +11,11 @@ Inuti fosfolipidhinnan finns olika proteiner som bestämmer vilka molekyler som 
 På cellmembranets utsida finns även kolhydrater bundna till membranproteiner ([[Glykoprotein|glykoprotein]]) som fungerar som en märkning för att likartade celler ska binda till den.
 
 ### Molekylers passering
+Cellmembranet är ett *semipermeabelt* membran, vilket innebär att vissa men inte alla molekyler släpps igenom.
+
 Det finns tre olika sätt för molekyler att passera genom cellmembranet: [[Osmos|osmos]], [[Kanal- och transportproteiner|kanal- och transportproteiner]] och [[Endocytos och exocytos|endo- och exocytos]].
 
-[[Osmos]] är ett sätt för vattenmolekyler att passera \[eftersom cellmembranet är hydrofilt\]
+[[Osmos]] är ett sätt för vattenmolekyler att passera. De gör i synnerhet detta genom speciella transportproteiner, så kallade *aquaporiner*.
 
 [[Kanal- och transportproteiner]] låter bara joner och mindre molekyler som aminosyror passera.
 

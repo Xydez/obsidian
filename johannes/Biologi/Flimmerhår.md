@@ -1,4 +1,4 @@
-§#biologi #biologi/cellbiologi
+#biologi #biologi/cellbiologi
 
 Flimmerhår är det gemensamma namnet för *cilier* och *flageller*, som fungerar liknande men återfinns i olika situationer.
 

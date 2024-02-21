@@ -22,6 +22,8 @@ Runt vissa kapillärer i kapillärnätet finns [[Sfinkter|sfinktrar]] som kontro
 ## Ämnesutbyte
 I en kapillär flödar blodet från en arteriell del till en venös del. Eftersom mer blod diffunderat ut ju längre blodet flödat åker blodet upp i den arteriella delen, varefter vätskan (som nu också är en högre andel vatten) återabsorberas mot den venösa delen.
 
+Gasutbytet i kapillärer i såväl lungor som ute i kroppen fungerar på ett liknande sätt.
+
 En liten del av vätskan bildar vävnadsvätska som eventuellt diffunderar till lymfkärlen vilka till sist tömmer sin vätska i närheten av hjärtat. Även lymfkärlen har sfinktrar som ser till att flödet endast sker i en riktning.
 
 Om lymfkärlen eller kärlen inte tar tillbaka vattnet orsakas ödem.

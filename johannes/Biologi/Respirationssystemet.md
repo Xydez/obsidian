@@ -9,8 +9,10 @@ Respirationssystemet (eller andningssystemet) är inom [[Humanfysiologi|fysiolog
 **Gasutbyte**
 Gasutbytet sker genom diffusion av syrgas löst i vatten, vilket innebär att även landlevande organismer behöver fuktiga celler i andningsorganen.[^1] Eftersom cellerna måste vara fuktiga och exponerade (och därför inte kan täckas av kraftiga epitelceller) skulle de om de var utåtriktade förlora för mycket vatten genom avdunstning - därför har de flesta landdjur andningsorgan inuti kroppen.
 
+Gasutbytet sker genom en skiftande koncentrationsgradient, likt vad som händer vid [[Kardiovaskulära systemet#Ämnesutbyte|vattenutbyte]] i kapillärer.
+
 **Luftvägarna**
-Luftstrupen förgrenas i två luftrör (*bronker*; en till vardera lunga) som i sin tur förgrenas till mindre *bronkioler*. Bronkiolerna leder sedan till slut till lungblåsor (*alveoler*; varje alveol är ca. 0,1-0,2 mm i diameter).
+Luftvägarna är omringade av ringar med brosk. Luftstrupen förgrenas i två luftrör (*bronker*; en till vardera lunga) som i sin tur förgrenas till mindre *bronkioler* (nu utan broskringar). Bronkiolerna leder sedan till slut till lungblåsor (*alveoler*; varje alveol är ca. 0,1-0,2 mm i diameter).
 
 Vid sidorna av halsen sitter även *tonsilierna* (halsmandlarna) som deltar i kroppens immunförsvar (se [[#Sjukdomar#Halsfluss|halsfluss]]).
 
@@ -21,7 +23,9 @@ Cilier sitter längs luftvägarna och transporterar slem med partiklar därifrå
 
 Syret absorberas i [[Lunga|lungorna]] som kopplas till [[Kardiovaskulära systemet|blodkärlssystemet]] som förser resten av kroppen med syre. Diffusionen sker genom att luften har en högre koncentration syre än blodet, medan blodet har en högre koncentration koldioxid än luften.
 
-Nästan allt syre som utvunnits binds till [[Hemoglobin|hemoglobinet]] i de [[Blodkropp|röda blodkropparna]].
+Nästan allt syre som utvunnits binds till $\ce{Fe^2+}$-joner i [[Hemoglobin|hemoglobinet]] i de [[Blodkropp|röda blodkropparna]].
+
+Koldioxiden binder delvis till hemoglobin, men det mesta transporteras i blodet i form av kolsyra $\ce{CO2 + H2O -> H2CO3 -> HCO3- + H3O+}$, som är en syra. Hemoglobinet fungerar här som en buffert genom att binda till de resulterande vätejonerna.
 
 **Andningsmekanism**
 Inandningen sker genom att flera muskler kontraheras. När diafragman (mellangärdet), som finns mellan brösthålan och bukhålan, kontraheras dras botten på lungan ner och bröstkorgen vidgas. Andra muskler fäster i revbenen och lyfter bröstkorgen utåt.
@@ -56,3 +60,7 @@ Kolmonoxid binder ungefär 200 gånger starkare till hemoglobin än syre gör. N
 Hos rökare kan mängden blockerad hemoglobin uppgå till 50%.
 
 Kolmonoxidförgiftning kan i viss mån behjälpas genom andning av ren syrgas.
+
+---
+
+![[Gasutbyte i alveol.png]]
