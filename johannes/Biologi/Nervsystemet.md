@@ -35,7 +35,7 @@ En nervcell (neuron) består av
 - synapser som släpper iväg impulsen, koppling till nästa cell (annan nervcell, muskelcell eller körtelcell)
 	- Här omvandlas signalen till en kemisk signal
 
-> [!info] Fakta
+> [!tip] Fakta
 > Om en neuron slits av på mitten kan den växa tillbaka. Avslitna armar och ben kan ofta sys fast och få full funktionalitet.
 
 ### Nervimpuls

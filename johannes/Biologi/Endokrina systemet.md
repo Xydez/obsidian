@@ -50,11 +50,8 @@ Aminosyrehormoner är bildade av [[Aminosyra|aminosyror]] och är därför för 
 
 > [!example] Exempel (insulin och glukagon)
 > Sockerkoncentrationen i blodet regleras av bukspottskörteln genom två hormon - *insulin* och *glukagon*. Om sockerhalten är för hög frisätts insulin, som får cellerna att ta in mer socker samt stimulerar till proteinsyntes, fettlagring och glykogenes. Om sockerhalten däremot är för låg frisätts glukagon, som motsatsvis stimulerar glykogenolys.
-## Menstruationscykeln
-> [!todo] Litteratur
-> Se Biologi 2, sida 209-210.
-
-![[Menstruationscykeln.png]]
+## Hormonsystem
+- [[Menstruationscykeln]]
 ## Sjukdomar
 ### Diabetes
 Diabetes typ 1 innebär att bukspottskörteln har en minskad förmåga att producera insulin, som stimulerar cellernas upptag av blodsocker.

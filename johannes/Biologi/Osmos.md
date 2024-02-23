@@ -22,3 +22,5 @@ Diffusion genom cellmembranet är mycket enkelt för små och oladdade molekyler
 Liksom vattenpåsen expanderar i exemplet till vänster kommer även blodkroppar expandera i lösningar med högre koncentration, varför det är viktigt med en väl balanserad koncentration i lösningar som hälls på känsliga vävnader, t.ex. näs- eller ögondroppar.
 
 ![[Osmos.png]]
+
+![[Osmos av blodkroppar.png]]
