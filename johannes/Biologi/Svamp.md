@@ -8,6 +8,16 @@ Den del av svampen som sticker upp ur marken kallas för *fruktkroppen*, och har
 
 Svampar kan i en flytande miljö även vara enskilda celler, och kallas då för *jästceller*.
 
+Det finns olika sorters svampar:
+- Algsvampar - Liknar alger, finns ofta i vatten, förökas med sporer
+- Sporsäckssvampar - Bildar sporer i "säckar", t.ex. murklor
+- Basidiesvampar - Bildar sporer i lameller (*basidier*), skivor i skivlingar; t.ex. champinjon
+- Jästsvampar - *se ovan*.
+- Lavar - Svampen lever i symbios (nästan mer som en parasit) på en alg eller cyanobakterie
+
+**Sexuell förökning**
+Vissa svampar förökar sig sexuellt. Detta sker genom att de avger haploida sporer som, när de stöter på en annan spor, bildar en diploid cell. Nästkommande celler innehåller dock två haploida cellkärnor per cell, och är alltså haploida.
+
 ---
 
 ![[Svamp.png]]

@@ -1,7 +1,12 @@
+---
+aliases:
+  - Örats funktion
+---
+
 #biologi #biologi/anatomi 
 
 Hörseln är en av kroppens [[Sinne|sinnen]].
-
+## Örat
 Örat kan delas in i ytterörat, mellanörat och innerörat.
 
 Ljudet träffar först trumhinnan. Vibrationerna fortsätter sedan genom att hammaren slår städet som i sin tur för vidare vibrationen till stigbygeln och det *ovala fönstret* på öronsnäckan. Eftersom öronsnäckan är mindre än trumhinnan blir slagen desto kraftigare, och på så sätt fungerar detta som en förstärkare.

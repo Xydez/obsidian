@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ögats funktion
+---
 #biologi #biologi/anatomi 
 
 Synen är ett av kroppens [[Sinne|sinnen]].

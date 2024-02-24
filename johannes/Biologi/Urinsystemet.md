@@ -1,3 +1,8 @@
+---
+aliases:
+  - Njurarnas funktion
+---
+
 #biologi #biologi/fysiologi 
 
 Urinsystemet är inom [[Humanfysiologi|fysiologin]] ett undersystem till det urogenitala systemet, vars syfte är att filtrera blodet.
@@ -10,7 +15,7 @@ Inuti njurarna förgrenas njurartärerna till mindre och mindre artärer för at
 
 I kapseln sker första steget, **filtreringen**, då vatten, salter och mindre molekyler pressas ut genom kapillärväggarna till njurkanalen för att bilda *primärurinen*.
 
-Från kapseln utgår en *njurkanal* som svänger ut till *njurmärgen* och tillbaka till ett samlingsrör, vilket kallas för *Henles slinga*. Även blodkärlen leder ut i njurmärgen och kopplar till njurkanalen, där en del ämnen i det andra steget, **sekretionen**, transporteras aktivt eller passivt från blodet till njurkanalen.
+Från kapseln utgår en *njurkanal* som svänger ut till *njurmärgen* och tillbaka till ett samlingsrör, vilket kallas för *Henles slynga*. Även blodkärlen leder ut i njurmärgen och kopplar till njurkanalen, där en del ämnen i det andra steget, **sekretionen**, transporteras aktivt eller passivt från blodet till njurkanalen.
 
 I den sista delen av slingan återigen uppe i njurbarken är vissa kapillärer slingade runt njurkanalen. Där sker det tredje och sista steget, **reabsorptionen**, då mindre joner, molekyler som socker och vitaminer, samt vatten (genom antingen passiv eller aktiv transport) återupptas.
 
@@ -21,7 +26,7 @@ Urinproduktionen regleras av flera hormon, bland annat ADH. Om hypothalamus kän
 ### Diabetes
 Ifall urinet innehåller socker kan det bero på diabetes. I så fall har blodet ett överskott av socker, som sedan pressas ut i kapillärnystanet och inte återtas vid reabsorptionen.
 ### Havandeskapsförgiftning
-Vid havandeskapsförgiftning, på av ett problem med njuren, så läcker plasmaproteiner ("äggvita") med i urinen, vilket kan ha en effekt på blodets osmotiska koncentration.
+Vid havandeskapsförgiftning, på grund av ett problem med njuren, så läcker plasmaproteiner ("äggvita") med i urinen, vilket kan ha en effekt på blodets osmotiska koncentration.
 
 ---
 
