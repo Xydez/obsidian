@@ -1,4 +1,4 @@
-#biologi #biologi/botanik 
+#biologi #biologi/cellbiologi  
 
 Andningskedjan (som är en sorts [[Elektrontransportkedja|elektrontransportkedja]]) är en aerob process i [[Mitokondrie|mitokondrien]] som omvandlar de reducerade [[Vätebärare|vätebärare]] som producerats under [[Glykolys|glykolysen]] och [[Citronsyracykeln|citronsyracykeln]] till [[Adenosintrifosfat|ATP]] och vatten.
 

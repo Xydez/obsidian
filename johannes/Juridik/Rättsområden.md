@@ -8,7 +8,8 @@ Inom civilrätten brukar man säga att bevisbördan skall vara "styrkt", det vil
 	- **[[Personrätt]]** - Regler kring rättssubjekt och när de får bl.a. rättslig handlingsförmåga
 	- **[[Förmögenhetsrätt]]** - Regler kring egendom "förmögenhet" och utnyttjande av den.
 	- **[[Familjerätt]]** - Berör frågor rörande familjen såsom giftermål, samboskap och förhållandet mellan barn och föräldrar.
-	- **Successionsrätt** - Arv och testamente. Om den avlidne var gift blir dock även äktenskapsbalken tillämplig.
+	- **[[Arvsrätt|Arvsrätt/successionsrätt]]** - Arv och testamente. Om den avlidne var gift blir dock även äktenskapsbalken tillämplig.
+	- **[[Fastighetsrätt]]**
 - **Offentlig rätt** - Reglerar interaktioner mellan personer och staten
 	- **Statsrätt/konstitutionell rätt**
 	- **Förvaltningsrätt** - Reglerar interaktioner mellan individen och myndigheter eller myndigheter sinsemellan.

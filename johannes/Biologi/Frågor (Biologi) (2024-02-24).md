@@ -1,3 +1,4 @@
+## Del EC
 3. Vilka tre av följande påståenden om cellers inre struktur och funktion är korrekta?
 	**6/6**
     1. Vissa bakterier kan bilda endosporer för att överleva perioder av torka, svält m.m.
@@ -110,3 +111,34 @@
 	    - **Rätt**.
     6. Humant papillomvirus kan ge upphov till livmoderhalscancer.
 	    - **Rätt**.
+
+## Del CA
+10. Det finns två fel. Det första är att insulin skulle bryta ner glukos; vad som egentligen sker är att insulinet stimulerar ökat upptag av glukos genom cellandningen, samt stimulerar glykogenproduktion. Det andra är att kroppen skulle "försöka rensa ut" sockret. Vad som egentligen sker är att sockret följer med primärurinen, vilket minskar vattenpotentialen och gör att urinen därmed drar med sig en massa vatten samt gör det svårare för njurarna att återuppta vattnet.
+
+11. Hypofysen har till stor del funktionen som en negativ återkoppling till de hormoner som produceras i äggstockarna. När progesteronnivåerna är låga börjar hypofysen producera FSH, och när östrogenet sedan ökar börjar hypofysen producera LH.
+FSH utsöndras av hypofysen
+-> Äggcellen bildas och utsöndrar östrogen
+-> LH utsöndras av hypofysen
+-> Ägglossning; gulkropp bildar östrogen och progesteron
+-> LH och FSH minskar (av hypofysen)
+-> Gulkroppen tillbakabildas
+-> Progesteronet minskar
+-> Menstruation - livmoderslemhinnan lossnar
+-> FSH utsöndras åter av hypofysen
+
+12. Allt börjar med att potentialen (av någon anledning, i regel signal från en annan neurons synaps) på en given punkt (typiskt en Ranviersk nod) ökar. När potentialen stiger över *tröskelnivån* öppnas $\ce{Na+}$-kanalerna, varpå en massa natriumjoner diffunderar in i nervcellen och potentialen ökar enormt. Detta stänger natriumkanalerna och öppnar kaliumkanalerna, varpå en massa kaliumjoner strömmar ut ur nervcellen och sänker potentialen enormt, under vilopotentialen. Då stänger även kaliumkanalerna. Nu har koncentrationen kalium- respektive natriumjoner jämnats ut, varför kalium-och-natrium-pumpen måste återställa de respektive koncentrationerna innan de två kanalerna åter kan öppnas - en slags refraktärperiod.
+
+
+13. Basilikaplantans strukturella integritet uppehålls av vad som kallas turgor, vilket är vätsketrycket inuti växtcellernas vakuoler. Vakuolerna är alltså tömda på vatten. Detta har skett eftersom vattnet i bladen har avdunstat. Växtcellerna är sammankopplade genom plasmodesmata, eller membran, och när en växtcell töms på vatten kommer självklart dess vattenpotential bli lägre, varför vatten genom osmos diffunderar in från cellen bredvid, in i vakuolerna.
+	- Växter släpper huvudsakligen ut sin vätska genom små öppningar (munnar) i bladens undersida, som aktiveras av solljus för att öppnas och släppa in koldioxid, men i utbyte släpper ut vatten, samt att vatten förbrukas i fotosyntesen. Om växten får vatten kommer det genom rottrycket flöda från roten genom stammen (xylemet) ut i bladen och därmed återställa turgorn.
+
+
+15. Det finns flera olika processer som kräver vatten:
+	- Vatten används i fotosyntesen, då det spjälkas i PSII i den ljusberoende reaktionen för att skapa en protongradient (mellan stroma och lumen över tylakoidernas membran) samt använda dess elektroner till att reducera vätebärare; protongradienten används sedan för att skapa ATP. Både vätebärarna (NADPH) och ATP:t används sedan stroman i den icke-ljusberoende reaktionen (Calvincykeln) för att producera G3P, som används till att göra glukos.
+		- $\ce{6CO2 + 6H2O -> C6H12O6 + 6O2}$
+	- Vatten upprätthåller turgorn i växtcellernas vakuoler.
+	- Vatten används i xylemet för att transportera närsalter ut i växten.
+	- Vatten används i floemet för att dubbelriktat transportera socker, beroende på årstiden.
+		Utan vattnet kommer växten att slokna, vilket gör att bladen inte längre riktas mot solen eller får en mindre yta. Dessutom kommer de kemiska processerna i växten, främst fotosyntesen, avstanna, vilket tills slut får cellerna att dö eftersom dess inre strukturer kollapsar.
+
+15. Denna effekt beror på stillasittande. Det är nämligen så att kroppen i kärl som sitter längre ut i kroppen, till exempel benen, så klarar hjärtat inte av att upprätthålla en ordentlig cirkulation. Detta blir desto värre av att de inkommande artärerna delas upp i många kapillärer som minskar blodtrycket. Cirkulationen sköts istället genom att venerna har enkelriktade portar (klaffar) och är omringade av muskler. När muskulaturen runtomkring sedan pressar mot kärlet pressas blodet utåt, och på grund av klaffarna kan det bara flöda tillbaka mot hjärtat. Men ifall musklerna inte har aktiverats på länge, till exempel vid en lång flygning, kommer blodet att ansamlas i venerna.

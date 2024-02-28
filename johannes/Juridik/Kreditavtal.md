@@ -8,7 +8,7 @@ Lån är i äldre benämning strikt något där samma vara måste återlämnas, 
 
 Jämför [[Upplåtelse]].
 
-Ett kreditavtal kommer ofta till uttryck i ett *skuldebrev* (*revers*).
+Ett kreditavtal kommer ofta till uttryck i ett *[[Fordringsrätt|skuldebrev]]* (*revers*).
 
 För krediter mellan två näringsidkare eller två privatpersoner finns några få regler i *lagen (1936:81) om skuldebrev*.
 

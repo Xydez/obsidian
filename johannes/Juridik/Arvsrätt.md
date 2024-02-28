@@ -2,11 +2,10 @@
 aliases:
   - Ärvdabalken
   - ÄB
+  - Successionsrätt
 ---
 #juridik #juridik/familjerätt 
 
-> [!todo] Fråga
-> Ärver en efterlevande maka utöver giftorättsgodset även den avlidne makens enskilda egendom? Väldigt sannolikt ja
 ## Arvsklasser
 Inom arvsrätten finns tre arvsklasser.
 

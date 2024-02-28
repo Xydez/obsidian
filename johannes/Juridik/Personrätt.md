@@ -1,4 +1,7 @@
 #juridik #juridik/personrätt 
+
+Personrätten är ett [[Rättsområden|rättsområde]] som rör personer och deras rätt- och skyldigheter.
+
 ## Översikt
 - Vem som kan inneha juridiska rätt- och skyldigheter
 - Vem som kan ha tillgångar och skulder

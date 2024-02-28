@@ -38,6 +38,8 @@ Köparen kan vid fel av vara vara berättigad:
 	- Så kallade *produktskador*, det vill säga att varan vid användning orsakar förstörelse, omfattas inte av just köplagens skadeståndsregler.
 ### Om säljaren inte avlämnar varan vid tiden för avlämnandet
 I fall då säljaren inte har avlämnat varan vid tiden för avlämnandet och detta inte orsakats av köparen har denne i regel ett par rättigheter.
+
+Säljaren har emellertid rätt att inställa fullgörelsen om denne har starka skäl att tro att köparen inte kommer uppfylla sina förpliktelser - så kallad *stoppningsrätt* - förutsatt att säljaren fått reda på detta efter att avtalet ingåtts (61 § KöpL).
 #### Fullgörelse
 Köparen kan i dessa fall kräva fullgörelse om det inte föreligger ett oövervinnerligt hinder för köparen, eller om fullgörelsen inte är rimlig med hänsyn till köparens intresse. *23 § KöpL*.
 #### Hävning

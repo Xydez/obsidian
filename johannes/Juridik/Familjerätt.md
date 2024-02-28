@@ -8,5 +8,6 @@ Familjerätten är ett civilrättsligt [[Rättsområden|rättsområde]] som rör
 Tillämpliga lagar:
 - [[Äktenskap|Äktenskapsbalken]]
 - [[Samboskap|Sambolagen]]
-- [[Arvsrätt|Ärvdabalken]]
 - Föräldrabalken
+
+Även [[Arvsrätt|arvsrätten]] är nära besläktad.

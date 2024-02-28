@@ -7,7 +7,7 @@ Ifall en gåva är föranledd av en prestation kallas det en *remuneratorisk gå
 Eftersom gåvor inte innebär en motprestation är ett löfte (*utfästelse*) om gåva inte juridiskt bindande. Först vid dess fullbordande förlorar gåvogivaren sin rätt att återta gåvan.
 
 Utfästelsen kan dock bli bindande om:
-1. gåvolöftet överlämnats form av skuldebrev eller annan skriftlig form
+1. gåvolöftet överlämnats form av [[Fordringsrätt|skuldebrev]] eller annan skriftlig form
 2. gåvolöftet vid sin tillkomst varit avsett att komma till allmänhetens kännedom
 dessa två undantag är emellertid inte aktuella (5 § gåvolagen) om:
 1. gåvolöftet är uppenbart obilligt

@@ -1,10 +1,8 @@
 ## Resultat av övningsprov
 - ~~Hormonsystemet (vilka hormoner utsöndras var)~~
-- Växternas och svamparnas biologi (kolla alla Ehingers videor)
-
-TODO: Gör [Del CA](https://ehinger.nu/undervisning/kurser/biologi-2/gamla-prov/slutprov-o-dyl/slutprov-2014-06-11-i-biologi-2.html).
+- ~~Växternas och svamparnas biologi (kolla alla Ehingers videor)~~
+- **Redogör för fotosyntesen detaljerat, med översiktliga reaktioner**
 ## Uppgifter
-
 ### Cellbiologi
 Två viktiga mål - förstå *osmos* och *elektrontransportkedjan*.
 
