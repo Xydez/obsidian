@@ -81,3 +81,51 @@ Konsekvenser - hävning (hävningsvillkor eller köparen insolvent); skadestånd
 
 **Pantsättning**
 Fastighetsägaren ansöker om att inteckna fastigheten och får då ett *pantbrev*, som denne sedan överlåter till banken.
+## Nyttjanderätter
+**Nyttjanderätter**
+En nyttjanderätt är något som man kan ge bort med en fastighet:
+- [[Hyresrätter]] (bostadshyra/lokalhyra)
+- Servitut
+- Arrende
+- Bostadsrätt
+- Tomträtt
+
+**Officialservitut**
+Officialservitut är servitut som skapas av staten till allmänhetens nytta, och regleras i FBL, anläggningslagen och ExprL.
+
+**Avtalsservitut**
+Avtal mellan två fastighetsägare (går att skriva in i fastighetsregistret? hos inskrivningsmyndigheten?).
+
+**Servitut**
+Tjänande fastighet (den som har servitutet på sig) och härskande fastighet (den som äger servitutet).
+
+Servitutet måste vara endast en viss del av fastigheten, samt utgöra en stadigvarande betydelse för den härskande fastigheten.
+
+Jord och betesmark får inte ligga som servitut, utan måste ligga som arrende.
+
+Upplåtelsen är, till skillnad mot exempelvis arrende, på obestämd tid.
+
+**Bostadsrätt**
+Bostadsrätter regleras i *bostadsrättslagen (1991:614)* och [[Köplagen|KöpL].
+
+**Tomträtt**
+Tomträtt innebär att kommun eller stat upplåter mark utan att sälja den (13 kap. 2 §). Den årliga avgiften för detta kallas *tomträttsavgäld*. Sådan som skulle blivit fastighetstillbehör kallas istället för *tomträttstillbehör*. Även bostaden blir lös egendom.
+
+Tomträtter upplåtes på obestämd tid (7 kap. 5 § JB). Avtalet får inte sägas upp av tomträttshavaren utan endast överlåtas.
+
+Uppsägning av fastighetsägaren kan endast ske efter 60 år från upplåtelsen och 40 år från överlåtelsen, i vilket fall denne måste lösa egendomen på tomträtten.
+
+**Arrende**
+Arrende är en form av nyttjanderätt som följer personen (jämfört med servitut som följer fastigheten).
+
+Arrendeavtal måste ingås skriftligt. Arrende får men måste inte skrivas in i fastighetsregistret.
+
+Olika former:
+- Jordbruksarrende - När jord upplåtes till brukande (jordbruk)
+	- Om ingen tid har bestämts gäller 5 år
+- Anläggningsarrende - När mark upplåtes till förvärvsverksamhet, men inte jordbruk
+- Bostadsarrende - När arrendatorn har rätt att ha bostadshus i arrendet
+- Lägenhetsarrende - Det mesta som inte faller under någon av de andra formerna
+
+**Byggnad på ofri grund**
+Byggnad på ofri grund innebär att en byggnad inte är i samma ägares hand som marken därunder, och därför anses vara lös egendom.
