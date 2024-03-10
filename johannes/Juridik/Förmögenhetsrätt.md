@@ -4,7 +4,7 @@ Förmögenhetsrätten är ett stort [[Rättsområden|rättsområde]] som faller 
 
 Förmögenhetsrätten har flera delområden:
 - **[[Avtalsrätt]]** - När ett avtal är giltigt.
-- **[[Skadeståndsrätt]]** - Rätten till skadestånd.
+- **[[Juridik/Skadeståndsrätt]]** - Rätten till skadestånd.
 - **[[Associationsrätt]]** - Regler kring bildandet av företag, handelsbolag, m.m.
 	- Aktiebolagslagen (2005:551)
 	- Lagen om handelsbolag
@@ -14,3 +14,5 @@ Förmögenhetsrätten har flera delområden:
 - **[[Arbetsrätt]]** - Berör förhållandet mellan arbetstagare och arbetsgivare.
 - **[[Immaterialrätt]]** - Upphovsrätt, patent, varumärkesskydd, m.m.
 - **[[Fordringsrätt]]** - Rör fordringar och hur de uppstår.
+- **[[Utsökningsrätt]]**
+- **[[Konkursrätt]]**

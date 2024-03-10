@@ -52,7 +52,7 @@
 > [!todo] Utforska övriga funktionella grupper
 > - [[Keton|Ketoner]], som bildas vid oxidation av sekundära alkoholer, likt aldehyder, och får suffixet "-on", t.ex. propanon (aceton).
 > - [[Nitroföreningar]], som kännetecknas av en nitrogrupp $\ce{NO2}$ och får prefixet "nitro-".
-> - [[Peptidbindning|Peptider/peptidbindningar]], som skapats genom att en vätegrupp och en hydroxigrupp bildat vatten.
+> - [[Peptidbindning|Peptider]] - en kedja av aminosyror med peptidbindningar, som skapats genom att en vätegrupp och en hydroxigrupp bildat vatten.
 ## Referens
 1. Wikipedia. *[IUPAC-nomenklatur](https://sv.wikipedia.org/wiki/IUPAC-nomenklatur)*.
 2. Wikipedia. *[Funktionell grupp](https://sv.wikipedia.org/wiki/Funktionell_grupp)*.

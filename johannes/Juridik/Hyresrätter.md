@@ -1,3 +1,4 @@
+#juridik 
 
 **Bostads- och lokalhyra**
 - *bostad* - hyra för bostad (12 kap. JB)
