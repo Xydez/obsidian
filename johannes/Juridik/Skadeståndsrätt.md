@@ -14,4 +14,9 @@ Det finns två typer av skada:
 2. Ideell skada
 	- Detta rör skador som per definition inte går att räkna ut.
 
+För att döma om skadestånd behöver skadan ha vållats av dolus eller culpa.
+
 [^1]: Ordet *kränkning* har i mångt och mycket ersatt det tidigare begreppet *lidande* i lagtext, men tankemodellen är densamma.
+
+> [!todo]
+> Integrera [[Skadeståndsrätt 1]]

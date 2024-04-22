@@ -8,7 +8,7 @@ Organisk kemi är i grund och botten kolets kemi. Anledningen till att just kol 
 Organisk kemi har flera områden.
 1. [[IUPAC-nomenklatur]]
 2. [[Alkohol]]
-3. [[Alkaner, alkener och alkyner]]
+3. [[Alifatiska kolväten]]
 4. [[Arener]]
 5. [[Estrar]]
 ## Strukturformler

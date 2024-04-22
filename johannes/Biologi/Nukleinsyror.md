@@ -16,8 +16,8 @@ RNA är till skillnad från DNA i regel endast en [[Nukleinsyror#Nukleotider|nuk
 
 Det finns tre sorters RNA:
 1. **mRNA** - messenger RNA; innehåller genetisk information som läses av [[Ribosomer|ribosomerna]] vid [[Translation|translationen]]
-2. **tRNA** - transfer RNA; transporterar rätt aminosyror till ribosomerna[^1], varje tRNA-molekyl motsvarar ett [[Nukleinsyror#Kodon|kodon]] (tre kvävebaser)
-3. **rRNA** - ribosom-RNA; viktig beståndsdel av ribosomer[^2].
+2. **tRNA** - transfer RNA; transporterar rätt aminosyror till ribosomerna[^1], varje tRNA-molekyl har ett antikodon som binder till ett [[Nukleinsyror#Kodon|kodon]] (tre kvävebaser)
+3. **rRNA** - ribosom-RNA; bildar kedja mellan aminosyrorna under translationen[^2].
 
 [^1]: Detta sker genom att ett [[Enzym|enzym]] binder rätt aminosyror till tRNA-molekylen
 [^2]: Katalyserar bildningen av [[Peptidbindning|peptidbindningar]] mellan [[Aminosyra|aminosyror]] vid [[Translation|translationen]]
@@ -39,4 +39,6 @@ I varje nukleotid finns en av fyra kvävebaser:
 	1. tymin (T) i DNA
 	2. uracil (U) i RNA
 
-Dessa kvävebaser förekommer sedan i paren A och T eller U respektive G och C.
+Dessa kvävebaser förekommer sedan i paren A och antingen T eller U, respektive G och C.
+
+Notera att detta inte innebär att DNA är binärt utan kvarternärt; varje kedja kan fortfarande ha alla fyra.

@@ -1,11 +1,11 @@
 #kemi
 ## Enheter
-| Enhet | Var. | Storhet[^1] | Förklaring |
-| ---- | :--: | ---- | ---- |
-| $\pu{mol}$ | $n$ | Substansmängd | Antal av något. En mol är *Avogadros tal* ($N_a$) av något.<br>$\pu{1mol}=N_a=\pu{6.02214076e23}$<br>**Definition**: Nästan(?) exakt antalet atomer för 12 gram $\ce{^{12}C}$. |
-| $\pu{u}$ | $M_R$ | Relativ atommassa | Anger atomens massa relativt till $1/12$ av massan av en $\ce{^{12}C}$-atom. *Dimensionslös.*<br>**Betydelse**: Genomsnittlig massa för fördelningen av ett grundämnes alla isotoper på jorden. |
-| $\pu{g*mol-1}$<br>$\pu{10^{-3}kg*mol-1}$ | $M$ | Massa | Molmassa. Vikten av $\pu{1mol}$ av ett ämne. |
-| $\pu{mol*dm-3}$<br>$\pu{10^3*mol*m-3}$ | $c$ | Molaritet | Mol av en upplöst substans per liter av en lösning (total volymen inkl. substansen och lösningsmedlet). Förväxlas ej med *molalitet*, substansmängd per viktenhet.|
+| Enhet                                    | Var.  | Storhet[^1]       | Förklaring                                                                                                                                                                                      |
+| ---------------------------------------- | :---: | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\pu{mol}$                               |  $n$  | Substansmängd     | Antal av något. En mol är *Avogadros tal* ($N_a$) av något.<br>$\pu{1mol}=N_a=\pu{6.02214076e23}$<br>**Definition**: Nästan(?) exakt antalet atomer för 12 gram $\ce{^{12}C}$.                  |
+| $\pu{u}$                                 | $M_R$ | Relativ atommassa | Anger atomens massa relativt till $1/12$ av massan av en $\ce{^{12}C}$-atom. *Dimensionslös.*<br>**Betydelse**: Genomsnittlig massa för fördelningen av ett grundämnes alla isotoper på jorden. |
+| $\pu{g*mol-1}$<br>$\pu{10^{-3}kg*mol-1}$ |  $M$  | Massa             | Molmassa. Vikten av $\pu{1mol}$ av ett ämne.                                                                                                                                                    |
+| $\pu{mol*dm-3}$<br>$\pu{10^3*mol*m-3}$   |  $c$  | Molaritet         | Mol av en upplöst substans per liter av en lösning (total volymen inkl. substansen och lösningsmedlet). Förväxlas ej med *molalitet*, substansmängd per viktenhet.                              |
 ## Konstanter
 | Konstant | Namn | Värde | Förkl. |
 | ---------| ---- | ----- | ------ |
