@@ -1,6 +1,6 @@
 #biologi #biologi/cellbiologi 
 
-Glykolysen är det första steget i [[Cellandning|cellandningen]] och är före [[Länkreaktionen|länkreaktionen]] (och sedan [[Citronsyracykeln|citronsyracykeln]]). Glykolysen är en *anaerob* process som sker i cytoplasman.
+Glykolysen är det första steget i [[Cellandning|cellandningen]] för glukos, och sker före [[Länkreaktionen|länkreaktionen]] (och sedan [[Citronsyracykeln|citronsyracykeln]]). Glykolysen är en *anaerob* process som sker i cytoplasman.
 
 Under glykolysen bryts glukos $\ce{C6H12O6}$ ner till två stycken energifattigare pyruvatjoner $\ce{C3H3O2OH}$ (anjon av *pyrodruvsyra*).
 

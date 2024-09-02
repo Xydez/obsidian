@@ -1,15 +1,16 @@
 #biologi #biologi/cellbiologi #biologi/genetik
 
-Ett kromosom är en struktur i cellen som innehåller en lång sträng av [[Nukleinsyror#DNA|DNA]]. [[Prokaryot cell|Prokaryoter]] har typiskt sett sitt genom i ett kromosom medan [[Eukaryot cell|eukaryoter]] har det uppdelat på flera.
+Ett kromosom är en struktur i cellen som innehåller en lång sträng av [[Nukleinsyror#DNA|DNA]]. [[Prokaryot cell|Prokaryoter]] har typiskt sett sitt genom i en kromosom medan [[Eukaryot cell|eukaryoter]] har det uppdelat på flera kromosomer. Beroende på varelsen kan denna uppdelning skilja sig drastiskt, och detta är den huvudsakliga anledningen varför förmågan att reproducera mellan arter går förlorad.
 
 Samlingsnamnet för den massa som kromosomer bildas kallas *arvsmassa* eller i äldre benämning *kromatin*.
 ## Struktur
 DNA-tråden får plats eftersom den är packad i flera nivåer:
-- I första nivån är tråden lindad runt proteinspolar[^1] (vilket bildar en *nukleosomstruktur*) likt ett pärlband.
-- I andra nivån är pärlbandet lindat i en spiral.
-- I tredje nivån bildar spiralen öglor och går fram och tillbaka.
-- I fjärde nivån bildar den strängen en svängande kurva.
-- I femte nivån framträder packningen som ett kromosom.
+1. I första nivån är tråden lindad runt proteinspolar[^1] (vilket bildar en *nukleosomstruktur*) likt ett pärlband.
+	- Hos eukaryoter består dessa spolar i regel av histoner (i spermierna protaminer)
+2. I andra nivån är pärlbandet lindat i en spiral.
+3. I tredje nivån bildar spiralen öglor och går fram och tillbaka.
+4. I fjärde nivån bildar den strängen en svängande kurva.
+5. I femte nivån framträder packningen som ett kromosom.
 
 Genom att ändra kromosomens *packningsgrad* (hur tätt packad den är) vid olika ställen går det att sätta på eller stänga av olika gener. Anledningen till detta är att [[Nukleinsyror#RNA|mRNA]] endast går att skapa när DNA:t är löst packat. Detta är också hur olika celler får sina olika egenskaper.
 ## Uttryck
@@ -34,6 +35,3 @@ Det finns flera olika sätt vid vilket eukaryota celler reglerar generna.
 - Splitsningen - Samma sträcka kan splitsas på olika sätt och därmed ge upphov till olika proteiner
 - Translationshastigheten kan ändras
 - Cellen kan markera protein för nedbrytning genom att binda dem till proteinet ubiquitin.
-
-[^1]: Hos eukaryoter är dessa i regel histoner (i spermierna protaminer)
-

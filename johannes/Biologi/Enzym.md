@@ -1,4 +1,4 @@
-#biologi #biologi/cellbiologi
+#biologi #biologi/cellbiologi #biologi/molekylärbiologi 
 
 Ett enzym är ett globulärt [[Protein|protein]] som [[Katalys|katalyserar]][^1] en viss sorts reaktion. De är i regel bundna till en bestämd plats i cellen för att just där katalysera en viss reaktion i produktionsledet.[^2]
 

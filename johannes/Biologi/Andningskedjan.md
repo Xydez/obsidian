@@ -1,6 +1,6 @@
 #biologi #biologi/cellbiologi  
 
-Andningskedjan (som är en sorts [[Elektrontransportkedja|elektrontransportkedja]]) är en aerob process i [[Mitokondrie|mitokondrien]] som omvandlar de reducerade [[Vätebärare|vätebärare]] som producerats under [[Glykolys|glykolysen]] och [[Citronsyracykeln|citronsyracykeln]] till [[Adenosintrifosfat|ATP]] och vatten.
+Andningskedjan (som är en sorts [[Elektrontransportkedja|elektrontransportkedja]]) är en aerob process i [[Mitokondrie|mitokondrien]] som omvandlar de reducerade [[Vätebärare|vätebärare]] som producerats under [[Glykolys|glykolysen]] och [[Citronsyracykeln|citronsyracykeln]] till [[Adenosintrifosfat|ATP]] och vatten. Det är det sista steget i [[Cellandning|cellandningen]].
 
 Det första som sker är reaktionen $\ce{NADH + H+ -> NAD+}$ som gör att två vätejoner och två elektroner åker in i elektrontransporten, som sedan i två steg utvinner $\ce{H+}$ till det yttre membranet, för att sedan genom proteinet CytC reagera i ett tredje protein för att förbruka de två elektronerna och därmed tillsammans med övriga vätejoner i det inre membranet bilda vatten.
 

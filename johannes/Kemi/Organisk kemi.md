@@ -9,8 +9,8 @@ Organisk kemi har flera områden.
 1. [[IUPAC-nomenklatur]]
 2. [[Alkohol]]
 3. [[Alifatiska kolväten]]
-4. [[Arener]]
-5. [[Estrar]]
+4. [[Aren]]
+5. [[Ester]]
 ## Strukturformler
 Strukturformeln för kolserier ser lite annorlunda ut än andra molekyler. Varje enkelbindning (streck) antas ha en kolatom om inget annat anges, och varje kolatom anses ha alla resterande valenselektroner bundna till väte. Se exempelvis strukturformeln för n-oktan ($\ce{C8H18}$) nedan.
 

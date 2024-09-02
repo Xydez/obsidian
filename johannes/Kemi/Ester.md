@@ -1,12 +1,16 @@
 #kemi #kemi/organisk-kemi 
-## Hur estrar bildas
-En ester bildas genom en reaktion mellan en [[Alkohol|alkohol]] och en [[Organiska syror|syra]]. Den vanligaste sortens estrar är *karboxylsyreestrar*, som uppstår när en alkohol reagerar med en karboxylsyra.
+
+En ester bildas genom en reaktion mellan en [[Alkohol|alkohol]] och en [[Organiska syror|organisk syra]]. Den vanligaste sortens estrar är karboxylsyreestrar, som uppstår när en alkohol reagerar med en karboxylsyra.
+
+**Namn:** \<alkoholdel\> + -yl + \<syradel\> + -oat
+
+Estrar liknar på många sätt [[Amid|amider]], men till skillnad från syre som bara binder till två atomer kan kvävet binda till tre.
 ### Exempel
 Etanol reagerar med butansyra "smörsyra".
 
 Vid denna sorts reaktion (?) avges vatten.
 
-$$\ce{C2H6O + C4H8O2 <=> C8H12O2 + H2O}$$
+$$\ce{C2H6O + C4H8O2 -> C8H12O2 + H2O}$$
 
 **Etanol**
 ```tikz

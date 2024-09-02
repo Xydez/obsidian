@@ -10,3 +10,8 @@ Växter omvandlar på dagen koldioxid, vatten och solenergi till druvsocker geno
 1. Organismen intar kolhydrater och fetter
 2. Enzymer bryter fetterna och kolhydraterna till fettsyror respektive glukos.
 3. Dessa två förbrukas sedan under [[Cellandning|cellandningen]]
+### Metabola reaktionsvägar
+#### Katabola reaktionsvägar
+![[Katabola reaktionsvägar.png]]
+#### Anabola reaktionsvägar
+![[Anabola reaktionsvägar.png]]

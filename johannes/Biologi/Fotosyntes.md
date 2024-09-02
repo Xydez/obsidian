@@ -1,4 +1,4 @@
-#biologi #biologi/cellbiologi
+#biologi #biologi/cellbiologi #biologi/molekylärbiologi 
 
 Allmänt är fotosyntesen processen där en organism lagrar solenergi i kemiska bindningar.
 

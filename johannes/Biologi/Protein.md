@@ -1,10 +1,6 @@
----
-aliases:
-  - Peptid
----
-#biologi #biologi/cellbiologi 
+#biologi #biologi/molekylärbiologi
 
-Ett **protein** består av olika permutationer av 20 grundläggande [[Aminosyra|aminosyror]] som fogas samman i långa kedjor.[^1] Protein innehåller i regel någonstans mellan 300 och 1000 aminosyror.
+Ett **protein** består av olika permutationer av 20 grundläggande [[Aminosyra|aminosyror]] som fogas samman i långa kedjor med hjälp av [[Peptidbindning|peptidbindningar]].[^1] Protein innehåller i regel någonstans mellan 300 och 1000 aminosyror.
 
 Rent tekniskt brukar gränsen för antalet aminosyror innan en kedja aminosyror räknas som protein dras vid 50. Kedjor med 2-50 aminosyror kallas istället för *peptider*.[^2]
 

@@ -9,5 +9,6 @@
 ## Resurser
 * För innehållsförteckning och indexering, se [obsidian-dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 * För kemiska formler, se [mhchem](https://mhchem.github.io/MathJax-mhchem/)
+- Se guide för [chemfig](https://tug.ctan.org/macros/generic/chemfig/chemfig-en.pdf).
 ## Undersök
 - Finns det något sätt att embed:a SMILES-filer (.smi)?

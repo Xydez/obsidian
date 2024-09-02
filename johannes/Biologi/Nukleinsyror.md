@@ -1,6 +1,7 @@
 ---
 aliases:
   - DNA och RNA
+  - Nukleotider
 ---
 #biologi #biologi/genetik
 
@@ -25,7 +26,9 @@ Det finns tre sorters RNA:
 En nukleinsyra består av *nukleotider*. Varje nukleotid består i sin tur av:
 1. En av fyra *kvävebaser* 
 2. En sockermolekyl (deoxiribos i DNA, ribos i RNA)
-3. En eller flera [[IUPAC-nomenklatur#Fosfat|fosfatgrupper]]
+3. En [[IUPAC-nomenklatur#Fosfat|fosfatgrupp]]
+
+Nukleotiderna binds sedan ihop med varandra med så kallade [[Fosfodiesterbindning|fosfodiesterbindningar]].
 ## Kodon
 Ett kodon är en följd av tre kvävebaser som tillsammans beskriver en aminosyra.
 

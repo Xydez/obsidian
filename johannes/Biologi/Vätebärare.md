@@ -1,3 +1,7 @@
+---
+aliases:
+  - NADH, FADH2 och NADPH
+---
 #biologi #biologi/cellbiologi 
 
 Vätebärare är i cellbiologi två molekyler med varsin reducerad form vars syfte är att bära väte:

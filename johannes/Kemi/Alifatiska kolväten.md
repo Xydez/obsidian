@@ -6,6 +6,9 @@ aliases:
 #kemi #kemi/organisk-kemi 
 
 Alkaner, alkener och alkyner (och deras respektive cyklo-varianter) kallas med ett gemensamt namn för alifatiska kolväten.
+
+**Namn:** \<bas\> + -an/-en/-yn
+**Exempel:** Metan, eten, propyn
 ## Alkaner
 Den enklaste typen av kolväte är alkanerna, som är kolväten där det bara är enkelbindningar mellan kolatomerna. Den enklaste alkanen är i sin tur metan, som bara har en kolatom i kedjan. Därefter kommer metan (bilden nedan) och sedan propan. Resterande kolväten börjar med ett prefix, t.ex. prefixet "n-", som i n-butan (se *strukturisometri*). Från och med den femte alkanen nämns alla dessutom efter IUPAC-nomenklatur.
 

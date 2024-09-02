@@ -1,4 +1,4 @@
-#biologi #biologi/cellbiologi 
+#biologi #biologi/cellbiologi #biologi/molekylärbiologi 
 
 ## Innehållsförteckning
 1. [[#Översikt]]
@@ -7,11 +7,15 @@
 ## Översikt
 Cellandningen en process i vilket [[Eukaryot cell|eukaryota celler]] oxiderar [[Fett|fettsyror]] eller [[Kolhydrat|kolhydrater]] till koldioxid och vatten, och i processen utvinner energi i form av [[Adenosintrifosfat|ATP]].
 
-Cellandningen består av fyra på varandra följande processer:
-1. [[Glykolys]] (endast för glukos[^1])
-2. [[Länkreaktionen]]
-3. [[Citronsyracykeln]]
-4. [[Andningskedjan|Andningskedjan]]
+Det första som sker i cellandningen är att näringsämnet omvandlas till [[Acetyl-CoA|acetyl-CoA]].
+
+För glukos sker det genom [[Glykolys|glykolysen]] och [[Länkreaktionen|länkreaktionen]] .
+
+För fettsyror sker det genom [[β-oxidation]].
+
+Acetyl-CoA omvandlas sedan till ATP genom två reaktioner:
+1. [[Citronsyracykeln]]
+2. [[Andningskedjan|Andningskedjan]]
 
 > [!todo] Fortsätt
 > Se Magnus Ehingers [genomgång](https://ehinger.nu/undervisning/kurser/biologi-2/lektioner/cell-och-molekylarbiologi/cellandningen-biologi-2.html).
@@ -26,8 +30,6 @@ Denna process producerar dock bara upp till 1/19 av vad aerob cellandning gör, 
 $$\ce{C6H12O6 \text{(glukos)}-> 2CH3CHOHCOOH \text{(mjölksyra)}}$$
 **Alkoholjäsning**
 $$\ce{C6H12O6 \text{(glukos)} -> 2C2H5OH \text{(etanol)} + 2CO2 \text{(koldioxid)}}$$
-
-[^1]: Andra energirika föreningar har separata processer som i slutändan ändå blir till pyruvat.
 
 ---
 
