@@ -33,7 +33,7 @@ Exempel på avledningar av aminosyror är:
 - Melatonin
 
 ### Peptidhormoner
-Peptidhormoner består av två eller flera sammankopplade aminosyror (två kallas dipeptider, fler kallas oligopeptider). Peptidhormon lagras i veskiklar i cellen och släpps ut som svar på något.
+Peptidhormoner består av två eller flera sammankopplade aminosyror (två kallas dipeptider, fler kallas oligopeptider). Peptidhormon lagras i vesiklar i cellen och släpps ut som svar på något.
 
 Eftersom de är vattenlösliga kan de inte passera genom cellmembranet, utan måste istället binda till en receptor som för signalen in i cellen.
 

@@ -1,6 +1,6 @@
 #biologi #biologi/cellbiologi 
 
-Lysosomer är [[Fosfolipid|membranblåsor]] (veskiklar) som innehåller en sur lösning med [[Enzym|enzymer]]. De avges till cytoplasman av [[Golgiapparat|Golgiapparaten]], till skillnad från [[Peroxisom|peroxisomer]] som avges av [[Endoplasmatiska nätverket (ER)#SER|SER]].
+Lysosomer är [[Fosfolipid|membranblåsor]] (vesiklar) som innehåller en sur lösning med [[Enzym|enzymer]]. De avges till cytoplasman av [[Golgiapparat|Golgiapparaten]], till skillnad från [[Peroxisom|peroxisomer]] som avges av [[Endoplasmatiska nätverket (ER)#SER|SER]].
 
 Lysosomers huvudsakliga syfte är att bryta ner de ämnen som upptagits genom [[Endocytos och exocytos|endocytos]]. Enzymlösningen bryter ner makromolekyler som t.ex. proteiner, polysackarider, fetter och nukleinsyror till deras respektive beståndsdelar, varpå de släpps ut i cytoplasman.
 
