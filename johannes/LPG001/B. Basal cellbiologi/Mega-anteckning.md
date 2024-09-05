@@ -128,7 +128,7 @@ mRNA börjar och slutar alltid med en UTR (5'-UTR och 3'-UTR)
 
 För att se var UTR slutar och den proteinkodande regionen börjar, finns ett startkodon **AUG**. AUG-sekvensen måste även föregås av "något annat" i UTR (kommer sen) för att börja (AUG är inte nödvändigtvis startkodon, finns AUG i UTR).
 
-#### tRNA
+### tRNA
 tRNA bildar liksom rRNA så kallade "hairpin loops" - regioner där de bildar dubbelhelix -> erhåller en tredimensionell struktur; i andra ändan finns ett *antikodon* som binder till mRNA:t i ribosomen.
 
 48 typer av tRNA-molekyler; en aminosyra kan binda till många tRNA
@@ -283,7 +283,7 @@ Aktinfilament har en plus- och minus-ända. De kan växa i plusändan och krympa
 
 Aktinbindande proteiner kan stabilisera eller destabilisera denna process.
 
-Aktinfilament kan koppla till motorprotin, myosin i fallet av muskelceller. Två myosinfilament kopplar till varsitt aktinfilament samt varandra, och när de sedan drar mot varandra utförs en muskelkontraktion.
+Aktinfilament kan koppla till motorprotein. Motorproteinet för aktinfilament kallas myosin (jfr. dynein/kinesin för mikrotubuli). Två myosinfilament kopplar till varsitt aktinfilament samt varandra, och när de sedan drar mot varandra utförs en muskelkontraktion.
 
 Bild av två myosinfilament som drar varandra.
 ```
@@ -296,7 +296,7 @@ Aktinfilament utgör även mikrovilli som ökar ytarean för absorberande celler
 
 Det kan också bilda "filopodier" med en sensorfunktion, som fungerar likt antenner, samt "lamellipodier" som har en "motor function during cell migration", alltså att cellen kan flytta på sig.
 ### Intermediära filament (ca 8-12 nm)
-Består av många proteiner (ca 70 st olika). Ger stadga (likt armeringsjärn). Buntas ihop likt tråd.
+Består av många proteiner (ca 70 st olika "IF-proteiner"). Ger stadga (likt armeringsjärn). Buntas ihop likt tråd. Formade som "staggered tetramers".
 
 Är extra vanligt i celler som behöver stadga, exempelvis keratin i hudceller.
 ### Mikrotubuli (ca 24 nm)
@@ -384,7 +384,11 @@ Kinas är en sorts enzym som sätter på fosfatgrupper. I detta fall sätter den
 **Receptordimerisering**:
 Liganden är en dimer och har därför två bindningsytor, vilket möjliggör att liganden binder till *två* receptorer samtidigt och håller ihop dem. När dessa två receptorer sammanpressas kommer de två receptorerna att fosforylera *varandra* (då den intracellulära domänen för respektive receptor har tyrosin). Notera att varje receptor har kanske 10 tyrosinrester.
 
-När resterna är fosforylerade får de förmågan att binda till andra proteiner, som hör till signaltransduktionsmekanismen och själva aktiveras, varpå de propagerar signalen.
+När resterna är fosforylerade får de förmågan att binda till *andra proteiner*, som hör till signaltransduktionsmekanismen och själva aktiveras, varpå de propagerar signalen.
+
+> Alltså, andra proteiner binder till receptorn och detta skapar kaskaden
+>
+> Det vanligaste sättet vid vilket detta avslutat är att en klatrintäckt vesikel fångar in den.
 
 Många av dessa bindande proteiner är nämligen också kinaser och bildar en kaskad av signaler som gör diverse saker i cellen.
 
@@ -392,7 +396,7 @@ För att faktiskt leda till en signal i cellen måste många receptorer aktivera
 ### G-proteinkopplade receptorer
 G-proteinkopplade receptorer (G-protein coupled receptors; GPCR) är den största familjen av receptorer, mer än 700 olika GPCR. Synnerligen användbara som mottagare för mediciner (hela 34% av alla godkända mediciner slår mot en GPCR).
 
-G-proteinkomplexet består av 7 transmembrana alfahelixar i en cirkulär formation som tillåter liganden att binda. När liganden binder till receptorerna plockar den GDP som sitter intracellulärt upp en fosfatgrupp från en annan GTP för att frigöra alfa-subenheten och starta signaleringen inuti cellen.
+G-proteinkomplexet består av 7 transmembrana alfahelixar i en cirkulär formation, vars extracellulära loopar tillåter liganden att binda, och vars intracellulära loopar binder till ett G-protein. När liganden binder till receptorn ändrar komplexet struktur, vilket tills slut innebär att den GDP som sitter på alfa-subenheten plockar upp en fosfatgrupp från en annan GTP, vilket gör att alfa-subenheten respektive beta-gamma-subenheten frigörs och båda startar signaleringen inuti cellen.
 
 "7 membrane spanning" 
 
@@ -448,9 +452,10 @@ G0-fas (gap 0) innebär att cellen för närvarande inte bedriver cellcykeln. De
 
 Mitosen kan delas upp i ytterligare faser:
 - **Profas** - Cellen går in i mitos, kromosomerna kondenseras (det vill säga går från luckert packade till hårt packade)
-- **Metafas** - Cellkärnan och kärnmembranet löses upp för att separera kromosomerna; kromosomerna binds upp till kärnspolarna; kärnspolarna börjar dra i DNA:t; kromatiderna radas upp i en lång skiva (kallat "metaplattan"); kromatiderna är dock fortfarande sammanbundna och fortsätter vara det tills cellen har kontrollerat att allt DNA är inkopplat mot kärnspolarna
-- **Anafas** - När cellen är "nöjd" klipps centromeren bort och kromosomerna dras bort mot varsin kärnspole
-- **Telofas** - Kärnmembranet återbildas och kromosomerna dekondenseras
+- **Prometafas** - Cellkärnan och kärnmembranet löses upp för att separera kromosomerna; kromosomerna binds upp till kärnspolarna
+- **Metafas** - Kärnspolarna börjar dra i DNA:t så att kromatiderna radas upp i en lång skiva, kallad metaplattan, som är vinklad 90 grader mot linjen mellan de två centrosomerna; kromatiderna är dock fortfarande sammanbundna och fortsätter vara det tills cellen har kontrollerat att allt DNA är inkopplat mot kärnspolarna
+- **Anafas** - När cellen är "nöjd" klipps centromeren bort och systerkromatiderna separeras till kromosomer (genom att centromeren bryts ned) och dras bort mot varsin kärnspole
+- **Telofas** - Centrosomerna släpper kromosomerna, kärnmembranet återbildas och kromosomerna dekondenseras
 - **Cytokines** - Cellen klipps isär i två (denna fas räknas ibland in i telofas)
 
 > "spolar" = centrosomer
