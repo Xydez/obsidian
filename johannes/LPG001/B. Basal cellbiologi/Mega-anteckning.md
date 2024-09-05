@@ -12,7 +12,7 @@ I *Nucleolus* samlas genetiskt material som kodar för *ribosomalt RNA* (vad är
 - Kromatin - Benämning på materialet DNA + protein
 - Kromosom - En lång dubbelhelix/sträng
 	- 22 somatiska par + X/Y (ggr 2 = 46) typer av kromosomer
-- Kromatid - Benämning på *kromosom* efter att den har delats och sitter ihop som ett X - "två systerkromatider" med en centrosom
+- Kromatid - Benämning på *kromosom* efter att den har delats och sitter ihop som ett X - "två systerkromatider" med en centromer
 	- Under interfasen är det mer som en flytande massa, fortfarande packat kromatin men inte alls lika packat -> för att möjliggöra transkription
 - Nukleotid - Antingen en ribos eller deoxiribos, samt en kvävebas
 	- Dessa fogas samman till en polymer
@@ -352,12 +352,11 @@ Cellsignalering brukar delas upp i tre typer:
 - Endokrin - Signaler som går genom blodomloppet, typiskt för hormoner
 
 Två parter:
-- Agonist - Producent av en signal
+- Agonist - Ett ämne som binder till en receptor och stimulerar en respons
+	- Antagonist ifall ämnet istället hämmar en respons
 - Receptor - Mottagare av en signal
 
-> **TODO:** Agonist/antagonist?
-
-En *ligand* är det ämne som binder till receptorn.
+När ämnet binder till receptorn kallas det för *ligand*.
 
 Fyra sorters grupper av receptorer:
 - Ligandstyrda jonkanaler
@@ -365,27 +364,25 @@ Fyra sorters grupper av receptorer:
 - Tyrosinkinaslänkade receptorer
 - G-protein coupled receptors
 ### Ligandstyrda jonkanaler
-- Ligandstyrda jonkanaler (Ligand-gated ion channels)
-	- Jonkanaler som öppnas genom att liganden binder till receptorn
-	- Används exv. av nervsignaler i synapser (då är liganden en neurotransmittor)
-
+Ligandstyrda jonkanaler (Ligand-gated ion channels) är jonkanaler som öppnas genom att liganden binder till receptorn. De används exv. av nervsignaler i synapser (då är liganden en neurotransmittor).
 ### Kärnreceptorer
-- Kärnreceptorer (Nuclear \[hormone\] receptors)
-	- Befinner sig i cellen (antingen i cytoplasman eller cellkärnan), och beror därför på att liganden är fettlöslig (som är fallet för t.ex. steroidhormoner) och därmed kan ta sig över cellmembranet
-	- Kan exempelvis binda direkt till DNA-kedjan
-	- Hormone-receptor complex - Liganden binder till en receptor, och då åker receptorn med in i cellkärnan och binder till DNA:t (dessa kallas nukleära receptorer).
-	- Typiskt sett endokrin signalering
+Kärnreceptorer (nuclear receptors) befinner sig i cellen (antingen i cytoplasman eller cellkärnan), och beror därför på att liganden är fettlöslig (som är fallet för t.ex. steroidhormoner) och därmed kan ta sig över cellmembranet för att binda till receptorn.
 
-> Defekt i könshormonsproduktion (t.ex. även om man har Y-kromosom) utvecklas som kvinna.
+När liganden binder till receptorn utgör de ett så kallat hormon-receptorkomplex ("hormone-receptor complex"). Detta färdas sedan mot cellkärnan där det binder till DNA-kedjan för att reglera ett visst genuttryck. 
+
+Detta används typiskt sett för endokrin signalering med hormoner.
+
+> Defekt i könshormonsproduktion kan t.ex. resultera i att även om man har en Y-kromosom utvecklas man som kvinna.
 ### Tyrosinkinaslänkade receptorer
 Tyrosinkinaslänkade receptorer (Receptor tyrosine kinases, RTK) har
 - en extracellulär del där liganden binder,
-- en transmembrandomän som består av en enkel alfahelix,
-- samt en komplex intracellulär domän där tyrosinkinas agerar
+- en transmembrandomän som består av en enkel alfahelix, samt
+- en komplex intracellulär domän där tyrosinkinas agerar.
 
-Kinas är en sorts enzym som sätter på fosfatgrupper (i detta fall sätter den på fosfat på tyrosinrester \[tyrosin är en aminosyra\] där tyrosinet är del av ett protein).
+Kinas är en sorts enzym som sätter på fosfatgrupper. I detta fall sätter den på fosfat på tyrosinrester, där tyrosin är en aminosyra i ett protein.
 
-**Receptordimerisering**: Liganden är en dimer -> två bindningsytor -> liganden binder till *två* receptorer samtidigt och håller ihop dem. När dessa två receptorer sammanpressas kommer de två receptorerna att fosforylera *varandra* (där själva kinasdomänen innehåller tyrosin). (Note: varje receptor har typ 10 tyrosinrester).
+**Receptordimerisering**:
+Liganden är en dimer och har därför två bindningsytor, vilket möjliggör att liganden binder till *två* receptorer samtidigt och håller ihop dem. När dessa två receptorer sammanpressas kommer de två receptorerna att fosforylera *varandra* (då den intracellulära domänen för respektive receptor har tyrosin). Notera att varje receptor har kanske 10 tyrosinrester.
 
 När resterna är fosforylerade får de förmågan att binda till andra proteiner, som hör till signaltransduktionsmekanismen och själva aktiveras, varpå de propagerar signalen.
 
@@ -395,35 +392,33 @@ För att faktiskt leda till en signal i cellen måste många receptorer aktivera
 ### G-proteinkopplade receptorer
 G-proteinkopplade receptorer (G-protein coupled receptors; GPCR) är den största familjen av receptorer, mer än 700 olika GPCR. Synnerligen användbara som mottagare för mediciner (hela 34% av alla godkända mediciner slår mot en GPCR).
 
-"G-protein complex" bundet till GDP. När liganden binder till GPCR blir GDP till GTP som startar signaleringen inuti cellen.
+G-proteinkomplexet består av 7 transmembrana alfahelixar i en cirkulär formation som tillåter liganden att binda. När liganden binder till receptorerna plockar den GDP som sitter intracellulärt upp en fosfatgrupp från en annan GTP för att frigöra alfa-subenheten och starta signaleringen inuti cellen.
 
 "7 membrane spanning" 
 
+![[GPCR Activation.png]]
 
 
+---
 
 **Cell surface receptors**
 1. Reception
 2. Transduktion - Signalen transporteras till den plats där svaret mobiliseras (t.ex. cellkärnan)
 3. Respons
 
-
-
----
-
-För att receptorsignalen ska upphöra och inte hålla på för evigt sker en process som kallas  receptormedierad endocytos - när receptorn har bundit kommer den att tas in i en vesikel, och antingen brytas ned i lysosomen eller föras tillbaka till cellmembranet.
+För att receptorsignalen ska upphöra och inte hålla på för evigt sker receptormedierad endocytos - när receptorn har bundit kommer den att tas in i en vesikel, och antingen brytas ned i lysosomen eller föras tillbaka till cellmembranet.
 
 Intracellulär signaltransduktion
 
 Utanför cellen är det rätt simpelt, men inuti cellen är det en komplicerad matris av många signalvägar (vad som kallas "downstream signal transduction"). Många av signalerna överlappar, och därför blir effekterna lite som ett ackord på ett piano där många signaler samtidigt ger ett svar.
 
 Finns olika sorters händelseförlopp:
-- Positive feedpack - en signal förstärker sig
-- Negative feedback - en signal stänger ut sig själv
-- Något forward
-- Något crosstalk
+- Positiv feedback - en signal förstärker sig
+- Negativ feedback - en signal stänger ut sig själv
+- Feed-forward relay
+- Stimulatory/inhibitory crosstalk
 
-(System-något-biologi, kommer nog inte stöta på så mycket)
+Läran om detta kallas systembiologi och använder sig av matematik för att studera biologiska system.
 ## Celldelning
 ### Faser av cellcykeln
 Processer
@@ -449,18 +444,16 @@ Under mitosen är det tätt packat
 
 G0-fas (gap 0) innebär att cellen för närvarande inte bedriver cellcykeln. Den "pausar" under G1-fasen.
 
-> **NOTE**: Vi vill komma ihåg vad som händer under respektive fas
+> **NOTE**: Viktigt att komma ihåg vad som händer under respektive fas
 
 Mitosen kan delas upp i ytterligare faser:
 - **Profas** - Cellen går in i mitos, kromosomerna kondenseras (det vill säga går från luckert packade till hårt packade)
 - **Metafas** - Cellkärnan och kärnmembranet löses upp för att separera kromosomerna; kromosomerna binds upp till kärnspolarna; kärnspolarna börjar dra i DNA:t; kromatiderna radas upp i en lång skiva (kallat "metaplattan"); kromatiderna är dock fortfarande sammanbundna och fortsätter vara det tills cellen har kontrollerat att allt DNA är inkopplat mot kärnspolarna
 - **Anafas** - När cellen är "nöjd" klipps centromeren bort och kromosomerna dras bort mot varsin kärnspole
-- **Telofas** - Kromosomerna dekondenseras
-- **Cytokines** - Cellen klipps isär i två (placeras ibland i telofas)
+- **Telofas** - Kärnmembranet återbildas och kromosomerna dekondenseras
+- **Cytokines** - Cellen klipps isär i två (denna fas räknas ibland in i telofas)
 
 > "spolar" = centrosomer
-
-> **TODO**: Kolla "centromer" (som den i systerkromatid) vs centrosom skrev fel förut?
 ### Cykliner och cyklinberoende kinaser reglerar cellcykeln
 Fosforylering m.m. av proteiner används för att kontrollera proteinernas aktivitet.
 
@@ -537,14 +530,12 @@ Kan vara linjär eller cyklisk (vanligt förekommande i ECM; exempel är ribos o
 
 Bindningen som kopplar ihop två kolhydrater(?) kallas för en glykosidbindning.
 
-Protein+proteoglukaner utgör en stor del av ECM. De fungerar bl.a. som bindningsställen , kan binda ligander "servera" dem till receptorn.
+Protein + proteoglykaner utgör en stor del av ECM. De fungerar bl.a. som bindningsställen, kan binda ligander och "servera" dem till receptorn.
 
+C-vitamin är en faktor i sammanlänkningen av kollagenfibrer (jfr. skörbjugg)
 
-> TODO: Proteoglykaner eller proteoglukaner
-
-C-vitamin är en faktor i sammanlänkningen av kollagenfibrer (jfr skörbjugg)
-
-Elastin bildar elastiska fibrer (TODO: sök mer)
-
+Elastin bildar elastiska fibrer som håller samman vävnaden och ger den elasticitet så att den återgår till sin ursprungliga form efter att ha tänjts.
 
 Interaktionen mellan cellen och ECM sker via celladhesionsmolekyler.
+
+![[Elastin fibers.png]]
