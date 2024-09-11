@@ -172,7 +172,7 @@ Rörelsen sker längs den axel som är mest vinkelrät mot muskelns förlopp?
 
 Rotationsriktningen (t.ex. abduktion eller adduktion) avgörs av vilken sida av rotationsaxeln (leden) som muskeln befinner sig på.
 
-## Hjärtat och cirkulationssystemet
+## Hjärtat
 ### Hjärtats inre struktur
 Hjärtat är placerat ventralt om kotpelaren, dorsalt om sternum, medialt om lungorna, vilandes kraniellt om diafragma. Det pekar diagonalt kaudalt, och har sitt apex vid interkostalrum 5 (mellan T5 och T6), medan basis ligger kraniellt i andra ändan.
 
@@ -184,7 +184,7 @@ De fickklaffar (som öppnas och stängs med hjälp av tryck, till skillnad från
 
 Själva "seglet" i segelklaffarna hålls upp med två respektive tre senor, *chordae tendinae*, som fäster i *musculi papillares* (utan dessa hade klaffarna vikit ut sig åt andra hållet).
 
-Blodet från höger kammare pumpas ut i *truncus pulmonalis*, som snabbt delar sig i två lungartärer, medan blodet från vänster kammare pumpas ut i *aorta*.
+Blodet från höger kammare pumpas ut i *truncus pulmonalis*, som snabbt delar sig i två lungartärer, medan blodet från vänster kammare pumpas ut i *aorta thoracica*.
 
 Hjärtats alla klaffar ligger parallellt med varandra längs ett plan (kallat *ventilplanet* eller *klaffplanet*). Längs detta plan är varje mynning omgiven av bindväv (*annuli fibrosi*) som bildar fibrösa ringar. Dessa ringar tjänar även till att elektriskt isolera förmaken från kamrarna.
 
@@ -221,7 +221,7 @@ Hjärtat omges på många ställen av fett, eller *polstring*, som fungerar som 
 Vid konturen av septum finns en fåra, sulcus interventricularis, som går mellan ventriklarna. Vid konturen som avgränsar förmaken från kamrarna går fåran *sulcus coronarius*.
 
 **Från hjärtat**
-Den stora kroppspulsådern, aorta, går ut genom vänster kammare och för blod till systemcirkulationen/systemkretsloppet(?). Truncus pulmonalis är en artär som för blod till lungorna, och delar sig i tvem, *a. pulmonalis sin.* och *a. pulmonalis dx.*
+Den stora kroppspulsådern, aorta thoracica, går ut genom vänster kammare och för blod till systemcirkulationen/systemkretsloppet(?). Truncus pulmonalis är en artär som för blod till lungorna, och delar sig i tvem, *a. pulmonalis sin.* och *a. pulmonalis dx.*
 
 **Till hjärtat**
 Blodet till hjärtat från systemkretsloppet/kroppen(?) kommer från övre och nedre hålvenen (*v. cava superior* respektive *inferior*), som båda tömmer blodet i höger förmak.
@@ -231,4 +231,82 @@ Det syrerika blodet från lungorna kommer genom två vener på vardera sida, *vv
 **Kranskärl**
 Hjärtats eget blod tillförs av kranskärl (koronarkärl) som avgår från aorta precis efter klaffen. Dessa kärl består av två grenar, art. coronaria sinistra, som går längs sulcus interventricularis, och art. coronaria dextra, som går längs sulcus coronarius.
 
-Kranskärlens flöde går ut när hjärtat slappnar av, och blodet "sugs in" (?).
+Kranskärlens flöde går ut under diastole, när hjärtat slappnar av, och blodet "sugs in" (?).
+### Blodets väg genom hjärtat
+1. Blodet från v. cava superior et inferior flödar passivt in i höger förmak.
+2. Blodet från höger förmak flödar ned i höger kammare genom valva tricuspidalis
+...
+
+systole - kontraktionsfas/pumpfas (syftar primärt på kamrarna)
+diastole - relaxationsfas
+
+1. Kamrarna är blodfyllda, och AV-klaffarna är stängda
+2. Kamrarna kontraheras (systole) och pumpar ut blodet, vilket drar ventilplanet mot apex
+3. Förflyttningen av ventilplanet medför ett undertryck i förmaken, som passivt suger in blod
+4. Efter kontraktionen i kamrarna fjädrar de tillbaka något (en slags rekyl), vilket stänger fickklaffarna och skapar ett undertryck i kamrarna.
+5. Undertrycket i kamrarna öppnar AV-klaffarna och suger in blodet från förmaken (diastole)
+	- I detta läge tillförs även blod till kranskärlen
+6. I slutet av diastole kontraherar förmaken lätt för att bilda en tryckskillnad som stänger AV-klaffarna
+### Retledningssystemet
+Runt höger förmak finns en knuta av många retledningsceller (*inte* nervceller utan speciella kardiomyocyter som kan leda signaler), som kallas sinusknutan (SA-knutan, sinoatrialknutan). Sinusknutan skickar signaler till respektive förmak att kontrahera(?).
+
+Närmre ventilplanet finns en till knuta, AV-knutan, som fördröjer signalen något innan den förs vidare genom ett område som kallas His' bunt och går genom ett hål i ventilplanet, genom septum, där det delar sig två skänklar, som sedan blir många fibrer (Purkinjefibrer) runt kamrarna.
+
+Detta system fungerar som hjärtats "metronom" och klarar av att slå helt självständigt (går exempelvis att odla enbart dessa celler i en petriskål och se dem slå regelbundet). Systemet påverkas dock i kroppen i sin tur av det autonoma nervsystemet
+### Cirkulationssystemet
+#### Kärl
+Cirkulationssystemet (*systema cardiovasculare*).
+- Snabba och effektiva transportvägar till alla områden
+- Förgrenar sig för att nå fram till alla vävnader (kapillärer)
+
+Artärer, som går från hjärtat, förgrenar sig till mindre och mindre kärl, ut i kapillärer, som sedan går samman till större och större vener,.som går tillbaka till hjärtat.
+
+Ett kärl har följande delar:
+- Lumen - håligheten i kärlet
+- Tunica intima - innersta lagret, består av endotel
+- Tunica media - består av glatt muskulatur; innehåller även kollagen och elastin, som ger stadga och elasticitet
+- Tunica externa/adventitia - består av lucker bindväv
+
+**Artärer**
+Artärer har en tjock tunica media, eftersom de jobbar mot ett högre tryck. Denna stadga resulterar även i en mer cirkulär form.
+
+Det finns tre typer av artärer:
+- Elastiska artärer (konduktanskärl) - egentligen bara aorta
+- Muskelartärer - de flesta; har inte lika mycket elastin
+- Arterioler - de minsta artärerna; har inte lika tjock tunica media
+
+**Vener**
+Vener (kapacitanskärl) har en mycket tunn tunica media, eftersom de arbetar mot ett lägre tryck. Detta resulterar i att de inte kan hålla samma cirkulära form som artärerna, utan kollapsar om de inte har en volym i sig.
+
+Vener har däremot en lite tjockare tunica externa. De har även klaffar som förhindrar backflöde.
+
+**Kapillärer**
+Består till skillnad från artärer/vener *endast* av endotelceller, med ett tunt omgivande basalmembran bestående av proteiner. Kapillärer är cirka 5-10 mikrometer, vilket gör att en blodkropp i princip fyller hela utrymmet och långsamt pressas igenom. Detta innebär att blodet flyter långsamt, vilket gör att det är lättare för den omgivande vävnaden att ta upp syret.
+
+Det finns tre typer av kapillärer med olika permeabilitet:
+- Kontinuerlig - cellerna är tätt an mot varandra
+- Fenestrerad - cellerna har även små öppningar (fenestrae) som medger transport över membranet av makromolekyler (joner eller kanske något protein), vilket t.ex. finns i tarmen eller njuren
+- Sinusoid - cellerna är inte riktigt tätt an mot varandra, utan det finns små håligheter; dessa medger att hela celler, t.ex. vita blodkroppar, tar sig över, och finns därför i t.ex. benmärg 
+
+![[Artär och ven.png]]
+#### Kända kärl
+- Aorta thoracica - består av arcus aortae (bågen), aorta ascendens (uppåtstigande delen) och aorta descendens (nedåtstigande delen)
+	- Tre förgreningar på toppen av arcus aortae
+		- *truncus brachiocefalicus* går till armen och huvudet, leder av till:
+			- a. carotis communis dx., som går längs halsen
+			- a. subclavia dx., som löper under nyckelbenet till armen
+		- a. carotis communis sin., löper mot huvudet
+		- a. subclavia sin., löper mot vänster arm
+	- Aorta descendens leder till aorta abdominalis
+		1. truncus coeliacus, som leder till mjälte, magsäck och lever
+		2. a. mesenterica superior; försörjer tunntarmen och en del av tjocktarmen
+		3. a. renalix dx. et sin.; njurartärer
+		4. aa. testicularis/ovarica (2 st); leder till testiklar/äggstockar
+		5. a. mesenterica inferior; försörjer delar av tjocktarmen
+	- Aorta delar sig i två delar vid bifurcatio aortae, till *a. iliaca communis dx. et sin.*
+
+
+#### Palpering
+Ett palperingsställe är medialt om m. sternocleidomastoideus i höjd med struphuvudet. Pulseringen beror på att detta är ett bifurkationsställe för *a. carotis*, som medför turbulens.
+
+Ett annat palperingsställe är strax proximalt om carpus. Detta blir extra tydligt om handen är dorsalflekterad, eftersom det bildas turbulens då a. radialis går mot benet.

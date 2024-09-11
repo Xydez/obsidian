@@ -47,7 +47,7 @@ I ett öppet system är vävnadsvätskan och blodet samma, och kärlen är inte 
 
 ![[Människans blodomlopp.png]]
 
-![[Artär och ven.png]]
+![[Biologi/Artär och ven.png]]
 
 ![[Skelettmuskler runt vener.png]]
 
