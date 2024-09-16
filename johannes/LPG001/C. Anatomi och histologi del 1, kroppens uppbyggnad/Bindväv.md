@@ -1,0 +1,137 @@
+### Bindväv
+Binder ihop kroppens organ.
+
+Bindväv har tre beståndsdelar:
+- Celler, framförallt fibroblaster (de celler som producerar bindvävens ECM)
+- Fibrer, framförallt kollagen - finns många olika typer
+- Grundsubstans - proteiner + kolhydrater, kan binda mycket vatten och härda bindväven, för att ge en mer stötdämpande funktion (försvinner vid preparation av preparat, blir vitt)
+
+Det finns tre huvudsakliga typer av bindväv:
+### Sorters bindväv
+#### Embryonal bindväv
+Finns framförallt hos foster, men andra ställen också. Finns två typer:
+- Mesenkymal (kommer från mesoderm)
+	- gelé-liknande, finns i intervertebraldiskarnas inre (nucleus pulposus)
+- Gelatinös bindväv (Whartons sylta) - Återfinns i navelsträngen
+#### Egentlig/proper bindväv 
+Också kallad "connective tissue proper", två typer:
+
+**Lucker bindväv** (LCT, loose connective tissue)
+Ganska lite fibrer, men mycket grundsubstans. Återfinns ofta under epitel. Förutom fibroblaster finns även stora mängder immunceller, särsk. på ställen med stor exponering för bakterier (t.ex. lamina propria i GI eller respiratoriskt epitel i näsan).
+
+> Exempelvis vid inflammation så sker svullnad genom att vatten sugs in. Det är även mest här som immunförsvaret bekämpar bakterier.
+
+**Stram bindväv**
+Har buntar av stora mängder fibrer, relativt lite grundsubstans. Få celler, de som ses är nästan bara fibroblaster.
+
+> Detta kan vara stort på duggan: om de ber en hitta en fibroblast, så är det mycket lättare i stram bindväv.
+
+> I mikroskopet, försök titta på det man letar efter, ignorera det man inte förstår.
+
+Finns två typer av stram bindväv:
+- **Regelbunden** - Fibrerna går längs varandra, ger stor draghållfasthet i en riktning (finns t.ex. i senor).
+- **Oregelbunden** - Fibrerna går kors och tvärs, ger draghållfasthet i alla riktningar (finns t.ex. i hud, tarm)
+
+> I mikroskop kan bindvävsfibrerna bli rosa. Medan grundsubstans blir vit. Små avlånga "frön" är troligen fibroblaster.
+
+> Dessa olika typer är artificiella indelningar
+
+> **Senor**
+> Oregelbunden bindväv ligger insprätt i regelbunden bindväv: endotenum (Ent), peritenum, epitenum (Ept).
+
+#### Specialiserad bindväv
+- Ben
+- Brosk
+- Blod/benmärg
+- Fettväv
+- Lymfoid vävnad
+
+#### Övrig bindväv
+**Elastisk bindväv** - finns i ledband/ligament, rätt lik stram/regelbunden bindväv men otydligt om den faller under stram bindväv.
+
+### Fibrer
+Tre typer:
+- Kollagena fibrer (rosa i eosin, blåa i anilinblått) - Kollagen
+- Elastiska fibrer (bruna i orcein) - Elastin
+	- Tunnare än kollagenfibrer, oregelbundet men kan sträckas ut i vilket fall fibrerna blir avlånga
+	- Ser likadan ut som kollagena fibrer i eosin
+- Retikulära fibrer (svarta/blåa vid silverfärgning, bildar ett trådverk) - Kollagen
+
+Kollagenfibrer är en trippelhelix av proteiner som tvinnas samman, och sitter ihop med hydroxiproliner (prolin är en aminosyra). Kroppen skapar 29 olika typer av kollagen.
+
+De viktiga typerna av kollagen är:
+- Typ 1: Vanligast (typ 90% av allt kollagen); finns i senor, bindvävskapslar, m.m.
+- Typ 2: Finns i brosk
+- Typ 3: Finns i retikulära fibrer
+- Typ 4: Finns i basalmembran (vilket epitel ligger på)
+
+Kollagenet produceras i ER och exocyteras till ECM.
+
+>**Skörbjugg**
+>Kofaktor askorbinsyra (C-vitamin) för att omvandla prolin till hydroxiprolin.
+
+### Grundsubstans
+![[Grundsubstans.png]]
+
+Grundsubstansen produceras också av fibroblasterna.
+
+Grundsubstanser har tre beståndsdelar:
+- Proteoglukaner - Proteiner med sockerstrukturer, består av kärnprotein och GAG
+- Glukosaminglukaner (GAG) - Mer rena sockerstrukturer 
+- Multiadhesiva glykoproteiner - Också proteiner med sockerstrukturer
+	- Dessa länkar fast proteoglukaner på olika typer av strukturer
+
+> Vi har ganska dålig koll på hur socker påverkar proteiner.
+
+### Celler i bindväv
+Olika sorters celler man kan se i bindväv:
+- Stationära
+	- Fibroblaster
+	- Makrofager
+	- Mastceller (frisätter histamin)
+		- Är helt fullproppade med granula, rätt tydliga på mikroskop
+- Transienta
+	- Lymfocyter
+	- Plasmaceller
+### Brosk
+Brosk är en typ av specialiserad bindväv som är mycket stöttåligt. Brosk av typ 2-kollagen, och framförallt stora mängder grundsubstans.
+
+Tre typer av brosk:
+- Hyalint (glasartat) brosk - finns i slutet av alla ben
+	- Det mesta brosk
+- Elastiskt brosk
+	- Exempelvis örat, struplocket (epiglottis) - mycket omformbart
+- Trådbrosk, fibröst/fibrillärt brosk
+	- Fogarna som håller ihop bäckenet; strukturen runt intervertebraldiskarna (väggarna)
+	- Kombo av brosk och stram regelbunden bindväv
+
+> Skador på brosk är svårt att läka. Artros - kalcifiering av brosk, blir benväv. Anledningen till att brosk är svårt att reparera är att det likt epitel är avaskulärt, och försörjs genom diffundering. En annan anledning är att det inte finns något perikondrium kring lederna.
+
+
+I brosket finns lakuner - hålrum - där kondrocyter sitter. Kondroblaster är celler som börjar blida brosk. När dessa sitter fast ute i brosket blir de kondrocyter.
+
+> Från grek. *khondros* - brosk
+
+**Tillväxt av brosk**
+Interstitiell tillväxt - av kondrocyter inne i brosket (inifrån)
+Appositionell tillväxt - från perikondriet (dvs. längs kanten av brosket) och utåt
+### Fettväv
+Fettväv är en typ av specialiserad bindväv som ger stöd mellan organen, stötdämpning även för händer och fötter.
+
+Fettväv har även en hormonell funktion - producerar hormonet *leptin* som ger återkoppling till hjärnan om hur stora kroppens fettreserver är.
+
+Adipös vävnad. Cellerna i fettväv kallas adipocyter. Består av en droppe triglycerider som befinner sig *innanför* plasmamembranet.
+
+> I mikroskopet ser fett ut som stora vita ballonger.
+
+Två olika typer av fett:
+
+**Vitt fett**
+Vanligt fett. Stora droppar. Kan transporteras till annan väv?
+
+**Brunt fett**
+Bildar flera små fettdroppar per cell. Innehåller många mitokondrier. Inte primärt en energilagring, utan används för att skapa kroppsvärme. "Uncoupling protein I" frikopplar elektrontransportkedjan från ATP-syntes: Istället för att bilda ATP bildas värme.
+
+
+> **Snabb-bantning**
+> Man går ned mycket i vikt snabbt i början, detta är att man har förbrukat allt glykogen i levern som binder mycket till vatten, så egentligen har du bara förlorat massa vatten som hålls i levern (typ 2 liter).

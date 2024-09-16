@@ -1,0 +1,143 @@
+Benvävnad är en särskild form av bindväv.
+	(celler + extracellulär matrix=kollagen,grundsubstans)
+
+Typer av ben:
+- Rörben
+- Platta ben (skallen, höftben)
+- Irreguljära ben
+
+Benbildning sker i två former:
+- direkt benbildning - sker direkt i mesenkymet, t.ex. under embryostadiet
+- indirekt benbildning - kroppen bildar en mall av brosk som sedan omvandlas till ben
+## 1. Benvävnad
+**Skillnad:** Ben mineraliseras => hårt.
+
+ECM kallas för *benmatrix*, och består av
+- 30% organiskt material, varav
+	- ca. 90% kollagen typ 1 och
+	- 10% grundsubstans;
+- samt 70% mineralen hydroxiapatit, som är ett salt (samt en utfällning):
+	- $\ce{(Ca2+)_10(PO4^{3-})_6(OH-)_2}$
+
+Kollagen bidrar till draghållfasthet, medan mineralet ger kompressionsfasthet.
+### Lakuner
+I ben kallas cellerna inte för fibroblaster utan osteocyter. De ligger också i lakuner, fast att de är lite stjärnformade. I långsmala kanaler (*canaliculi*) på lakunen tränger cytoplasmiska utskott från osteocyten. I änden av varje utskott sammankopplar osteocyten med närliggande osteocyt. Ändarna av de två utskotten hålls samman av *gap junctions*. Allt utrymme mellan lakunerna består av benmatrix.
+
+![[Canaliculi.png]]
+## 2. Typer av benceller
+### 2 a. Osteoblast
+Osteoblastens huvudsakliga funktion är att bygga ben.
+
+Mesenkymala stamceller (MSC) kan bl.a. differentiera mot att bli en osteocyt. Det första steget kallas *osteoprogenitorceller*. Dessa kan vidareutvecklas till *osteoblaster*, som till sist blir *osteocyter*.
+
+**Funktion**
+Gör två saker:
+1. Producerar osteoid (kollagen och grundsubstans, innan de har mineraliserats)
+	- Sker genom vanlig exocytos (jfr. fibroblaster)
+2. Låta osteoid mineraliseras -  för en utfällning i en lösning måste koncentrationen vara tillräckligt hög
+	- Mineralisering kräver höga nivåer av $\ce{Ca2+}$ och $\ce{PO4^{3-}}$
+	- Cellen skickar ut kalciumbindande proteiner - de suger in allt kalcium till ett ställe
+	- Cellen skickar ut alkalin fosfatas (motsats till kinas, klyver av fosfatgrupper) - Klyver av fosfat, vilket leder till att den fria koncentrationen fosfat ökar
+	- Cellen skickar ut matrixvesiklar som fäster sig på kollagenfibrer i cellen
+		- Matrixvesikeln har jonkanaler för kalciumjoner, vilket gör det omgivande kalciumet släpps in i vesikeln
+		- Matrixvesikeln har även kanaler för fosfat, så att de omgivande fosfatjonerna släpps in
+		- Detta leder till att en kritisk massa bildas i vesikeln, och hydroxiapatit kristalliseras
+		- Kristallerna förstör vesikeln
+
+### 2 b. Osteocyt
+Osteocytens huvudsakliga funktion är att passivt underhålla ben.
+
+När osteoblasten har fångats, dvs. fullständigt omringats, i sin egen benmatrix differentierar den till en osteocyt.
+
+**Funktion**
+Osteocyten kan
+- dels fortsätta bilda benmatrix, fast att detta sker långsamt;
+- dels känna av belastning på benet
+	- Cytosolen skakas runt i benet, detta vätskeflöde i canaliculi registreras av osteocyten, som signalerar för ökad benbildning
+- dels fungera som ett lager för kalcium och fosfat, där osteocyten deltar i transporten
+### 2 c. Osteoklast
+Osteoklastens huvudsakliga funktion är att bryta ned ben.
+
+Osteoklasten har inget släktskap med osteoblasten, utan härstammar från hematopoetiska celler (blodceller) och är en typ av makrofag.
+
+**Funktion**
+Osteoklasten lägger sig intill benet och suger sig fast (typ med junctions), så att den bildar som en hemisfär mot benet, där det bildas ett inkapslat utrymme, vars tak kallas för "ruffled border" och har mikrovilli.
+
+Denna "osteoklastbubbla" har flera cellkärnor.
+
+Som något direkt ut Breaking Bad pumpar cellen ur "ruffled border" ut saltsyra, varpå pH-värdet sjunker. Detta löser ut mineralerna. Efter detta skickas enzymer ut som bryter ned resten av ECM.
+
+Det utgrävda materialet endocyteras på insidan och exocyteras på utsidan.
+
+Det hålet som grävts ut av osteoklasten kallas för *Howships lakun*.
+## 3. Benhinnor, senfäste & märghåla
+![[Delar av ben.png]]
+### Benhinna
+
+Benhinnan ("periosteum") täcker utsidan av benet. Längst in på benhinnan finns celler (cellrikt lager), följt av ett lager kollagenfibrer (yttre fibröst lager).
+
+Cellagret längst inne består av osteoprogenitorceller som kan bli osteoblaster och börja bilda ben.
+
+Det yttre kollagenlagret liknar stram bindväv.
+### Senfäste
+Senor består av stram regelbunden bindväv m. fibroblaster. Vid ett senfäste tar sig dessa kollagenfibrer ända in i benet. De parallella kollagenfibrerna böjer av och tar sig in i benet tillsammans med senan.
+
+Detta område ser annorlunda ut i mikroskop och kallas för Sharpeys fibrer.
+### Märghålan
+Innanför benet finns bekläder ett lager osteoprogenitor-liknande celler (endosteum) insidan av märghålan.
+
+Inuti märghålan finns ett skelett av retikulära fibrer, varvid
+- dels ett antal celler fäster, såsom mesenkymala stamceller, blodceller i olika utvecklingsstadier och adipocyter (fettceller);
+- dels kärl och nerver fäster.
+## 4. Direkt benbildning
+Direkt benbildning (Intramembranös benbildning)
+
+Mesenkymal bindväv (mesenkymala stamceller, MSC fästa vid kollagenfibrer i sitt ECM).
+
+MSC ansamlas i grupp och differentierar till osteoprogenitorceller, som sedan blir osteoblaster. Osteoblasterna börjar producera benmatrix.
+
+Det börjar bildas inifrån genom ett "Primary ossification center" inifrån ut, eftersom osteoblasterna blir osteocyter då de är omringade.
+
+Det bildas flera små "ossification center" på många ställen samtidigt, som tills slut växer ihop.
+
+![[Primary ossification center.png]]
+
+Benet består av kanter av kompakt ben  där insidan blir spongiöst ben. Det fungerar så att efter att det spongiösa benet har bildats genom att flera "ossification center", som bildar en form kallad *trabekler*, har fogats för att bilda ett spongiöst (trabikulärt) ben, så fäster mesenkymala stamceller längs utsidan och bildar kompakt ben (eftersom allt ben växer i samma riktning blir det inga ihåligheter etc.)
+
+![[Kompakt benbildning.png]]
+## 5. Indirekt benbildning
+Indirekt (endokondral) benbildning innebär att en broskmall tillverkas, som därefter omvandlas till ben:
+1. I rörben under den embryonala utvecklingen differentierar MSC till kondroblaster och därefter kondrocyter, som bildar hyalint brosk (genom både interstitiell och appositionell tillväxt).
+2. Perikondriet omvandlas till periosteum (MSC nåt?); bildas osteocyter och ben börjar bildas runt brosket (kallas en *benmanschett* runt diafysen av benet).
+3. Kondrocyterna reagerar på detta (bl.a. pga. strypt blodflöde) och blir hypertrofiska (stora) och börjar producera alkaliskt fosfatas -> mycket $\ce{PO4^{3-}}$
+	- Broskets matrix förkalkas och kondrocyterna dör
+4. Blodkärl kommer in och för med osteoprogenitorceller (troligen längs utsidan av kärlet) och osteoklaster (troligen i blodet).
+	- Osteoklasterna bryter ned det förkalkade brosket till broskflisor
+	- Progenitorcellerna blir till osteoblaster som bygger ben runt kvarvarande broskflisor
+5. Benbildningen börjar sträcka sig utåt mot epifyserna
+6. Ett sekundärt ossifikationscenter bildas i mitten av epifysen och sprider sig utåt
+
+Efter att det sekundära prolifikationscentret har blivit klart lämnas brosk kvar i epifysen. En liten bit av kondroblasterna lämnas dock kvar och bildar ett lager av vilande kondrocyter, som låter benet fortsätta öka i längd. Dessa kondrocyter vidmakthåller hypertrofizonen och benbildningen, och bildar en *epifysplatta* som fortsätter växa upp i puberteten. (Det går att se i röntgen om någon har en epifysplatta för att avgöra om denne fortfarande växer).
+
+Indirekt benbildning är hur ben bildas cirka vecka 8 av den embryonala utvecklingen.
+
+
+![[Zoner vid bildning av ben.png]]
+
+![[Secondary ossification center.png]]
+## 6. Strukturen av moget kompakt ben
+Nybildat ben (filtben) är inte så solitt. Kanske ett år efter att benet har bildats är benet mer mineraliserat och har bildat parallella lameller med kollagenfibrer.
+
+Ben är en väldigt levande vävnad - runt 10% av skelettet remodelleras varje år. Ben har en cykel på ca 200 dagar.
+
+I moget kompakt ben krävs blodtillförsel - därför finns det kanalsystem i det kompakta benet som består av
+- många parallella kanaler (Haverska kanaler) längs benet,
+	- Har koncentriska lameller runt, detta kallas gemensamt för ett Haverskt system
+- samt vinkelräta kanaler (Volkmans kanal) som sammankopplar olika Haverska kanaler.
+Hela benet omringas även av cirkumferella lameller. De områden som finns mellan de Haverska systemen kallas för interstitiella lameller.
+
+Detta bildas genom att osteoklaster gräver en tunnel genom benet. Därefter lägger sig osteoblaster runt kanterna för att bilda en första lamell. De fortsätter sedan bilda flera cirklar av lameller utifrån in tills ett litet hålrum finns kvar. Därefter blir osteoblasterna till endosteala celler.
+
+När Haverska system bildas ovanpå de gamla Haverska systemen benämns "resterna" som interstitiella lameller.
+
+Titt som tätt borrar osteoklasterna mindre hål tvärs mellan de Haverska kanalerna, vilka kallas Volkmans kanal.
