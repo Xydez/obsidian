@@ -48,7 +48,7 @@ Hormonernas effekter kan delas in i fyra kategorier:
 - Tillväxtreglering
 - Påverka fortplantningssystemet
 - Kontroll av organ
-- Påverka beteende (i samspel med [[Nervsystemet|nervsystemet]])
+- Påverka beteende (i samspel med [[Biologi/Nervsystemet|nervsystemet]])
 
 **Hypothalamus och hypofysen**
 *Hypothalamus* är en del av hjärnan som bland annat har *neurosekretoriska celler*, som mottar nervimpulser och som svar utsöndrar hormoner.

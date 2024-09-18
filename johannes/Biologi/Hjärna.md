@@ -1,6 +1,6 @@
 #biologi #biologi/anatomi 
 
-Hjärnan är del av det [[Nervsystemet|centrala nervsystemet]] tillsammans med [[Ryggmärg|ryggmärgen]]. Nervimpulserna från hjärnan färdas i stor del genom ryggmärgen.
+Hjärnan är del av det [[Biologi/Nervsystemet|centrala nervsystemet]] tillsammans med [[Ryggmärg|ryggmärgen]]. Nervimpulserna från hjärnan färdas i stor del genom ryggmärgen.
 
 De olika delarna av hjärnan kommer från olika steg i evolutionen och därför olika gamla.
 ## Struktur

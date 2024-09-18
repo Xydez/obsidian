@@ -16,12 +16,12 @@ Finns framförallt hos foster, men andra ställen också. Finns två typer:
 #### Egentlig/proper bindväv 
 Också kallad "connective tissue proper", två typer:
 
-**Lucker bindväv** (LCT, loose connective tissue)
+##### **Lucker bindväv** (LCT, loose connective tissue)
 Ganska lite fibrer, men mycket grundsubstans. Återfinns ofta under epitel. Förutom fibroblaster finns även stora mängder immunceller, särsk. på ställen med stor exponering för bakterier (t.ex. lamina propria i GI eller respiratoriskt epitel i näsan).
 
 > Exempelvis vid inflammation så sker svullnad genom att vatten sugs in. Det är även mest här som immunförsvaret bekämpar bakterier.
 
-**Stram bindväv**
+##### **Stram bindväv** (DCT, dense connective tissue)
 Har buntar av stora mängder fibrer, relativt lite grundsubstans. Få celler, de som ses är nästan bara fibroblaster.
 
 > Detta kan vara stort på duggan: om de ber en hitta en fibroblast, så är det mycket lättare i stram bindväv.
@@ -40,7 +40,7 @@ Finns två typer av stram bindväv:
 > Oregelbunden bindväv ligger insprätt i regelbunden bindväv: endotenum (Ent), peritenum, epitenum (Ept).
 
 #### Specialiserad bindväv
-- Ben
+- [[Benvävnad|Ben]]
 - Brosk
 - Blod/benmärg
 - Fettväv

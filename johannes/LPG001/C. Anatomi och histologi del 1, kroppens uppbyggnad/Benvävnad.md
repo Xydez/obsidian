@@ -1,4 +1,4 @@
-Benvävnad är en särskild form av bindväv.
+Benvävnad är en särskild form av [[Bindväv|bindväv]].
 	(celler + extracellulär matrix=kollagen,grundsubstans)
 
 Typer av ben:

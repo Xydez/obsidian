@@ -1,0 +1,137 @@
+## Nervceller
+**Två typer av celler**
+1. neuron (nervcell)
+2. gliaceller (stödjeceller) - alla icke-nervceller i nervsystemet
+
+**Nervcell**
+Nervcellen har en kropp (soma) och utskott (process)
+
+Två typer av utskott:
+- *Ett* axon - där signalen går ut från nervcellen
+	- Bekläds av myelin, där gliaceller går många varv runt cellen och därmed omringar den med cellmembran, dvs. fett
+	- (Finns icke-myelinerade axon
+- *Flera* dendriter (dendron=träd) - där signaler går in till nervcellen
+
+*Synaps* - stället där ett axon kopplar till en dendrit
+
+> **Substanser**
+> Substantia alba (vit substans) - de delar som har axon och är beklädda med myelin, dvs. fett
+> Substantia grise (grå substans) - de delar med nervcellskroppar; här sitter funktionen
+
+> **Vanlig tentamiss**
+> Vit substans i PNS - består av nerver
+> Vit substans i CNS - finns inga nerver i CNS, där heter det *banor*
+
+> Synapser tar lång tid, därför har man väldigt få neuron i motornerver t.ex.
+
+**Ganglion**
+Den anatomiska definitionen av ett ganglion (ganglion=blåsa) är en klump på nerven.
+
+Den histologiska definitionen:
+- När det gäller sensorik, sitter den första nervcellskroppen i ganglien i PNS
+- I regel finns det inga ganglier i CNS
+## Nervsystemet
+Indelningen i CNS och PNS är rent visuell, och har alltså ingen egentlig logik.
+### CNS
+Centrala nervsystemet (CNS).
+
+**CNS**
+- encephalon (hjärna)
+	- cerebrum (storhjärnan)
+		- telencephalon (ändhjärnan)
+		- diencephalon (mitthjärnan) - den kärnansamling som ligger i mitten
+			- Thalamus - relästation för allt som ska till storhjärnan
+			- Hypothalamus - centrala styrningen för det endokrina systemet, samt ANS (autonoma nervsystemet)
+	- truncus encephali (hjärnstammen) - binder samman storhjärnan och ryggmärgen, samt storhjärnan och lillhjärnan; även många motoriska/sensoriska reflexer
+		- mesencephalon (mellanhjärnan)
+		- pons (brygga)
+		- medulla spinalis (ryggmärg)
+			- reflexbågar - en fysisk båge i ryggmärgen som kan "fatta beslut"?
+			- Ryggmärgen har vit substans ytterst och grå substans innerst
+	- cerebellum (lillhjärnan) - balans och koordination
+
+> Många engelska böcker använder cerebrum synonymt med telencephalon, men detta är fel.
+
+**Hinnor på hjärnan, som omger CNS**
+- dura mater - yttre hinna
+- arachnoidea - mellanhinna
+	- subarachnoidalrummet - hålrum med vätska
+- pia mater - inre hinna
+
+> **Intressant fakta**
+> Hjärnan har ingen smärtsensorik - huvudvärk etc. är ofta en muskel?
+
+**Systema ventriculi**
+Inuti hjärnan finns flera ventriklar (hålrum) som är fyllda med cerebrospinalvätska (liquor cerebrospinalis). Denna vätska bildas i plexus choroideus.
+
+**Blodkärl och blod-hjärn-barriären**
+Runt blodkärlen i hjärnan finns en barriär som kallas blod-hjärn-barriären. Epitelcellerna runt kärlen har väldigt många strama "tight junctions". Det enda fallet då större molekyler kan ta sig igenom är om en nervcell aktiverar en kanal.
+
+> Det finns inga lymfkärl i hjärnan (dock finns ny forskning som kanske påvisar det glymfatiska systemet)
+### PNS
+Perifera nervsystemet (PNS).
+
+**PNS**
+Kopplar samman hjärna/ryggmärg med kroppen. Längs med nerverna sitter ganglier, där nervcellskropparna befinner sig.
+
+> **Vanlig tentamiss**
+> Blanda inte ihop nerv/nervcell. En nerv består av tusentals nervceller.
+
+**In- och utåtgående signalsystem**
+- efferent (utåtgående) signalsystem - den information som går ut från CNS i PNS, handlar om att styra muskler
+	- visceromotoriska nervsystemet - viscera=organ - hjärtmuskel/glatt muskulatur
+	- somatomotoriska nervsystemet - soma=kropp - går ut i kroppen
+- afferent (inåtgående) signalsystem - den information som går in i CNS från PNS, handlar om känsel
+	- viscerosensoriska nervsystemet - information from inre organ
+	- somatosensoriska nervsystemet - beröringskänsel, etc.
+
+integration - sammanfattande begrepp för var PNS/CNS? (**TODO**) gör, dvs. in och ut
+
+projektionsbanor - alla banor som går ut ur hjärnan genom ryggraden
+
+**Efferenta neuron**
+
+**Somatomotoriska nervsystemet**
+- Övre motorneuron
+- (Interneuron)
+- Lägre motorneuron
+
+Finns inget ganglion
+
+**Visceromotoriska nervsystemet (= ANS, autonoma nervsystemet)**
+En nervcell som kopplar om till ett autonomt ganglion. (Alltså, man kan skilja från somatomotoriska med att den har ett ganglion)
+
+**Afferenta neuron**
+- Det finns alltid ett ganglion i PNS innan det går in i CNS
+- Sekundär något
+
+**Enteriska nervsystemet**
+Ett system i GI-kanalen för att sammankoppla tarmarna med varandra. "Tarmens eget nervsystem"
+## Nervens uppbyggnad
+**Gangliets uppbyggnad**
+Två typer
+- sensoriska (sitter på ett ställe, vid ryggraden, typiskt spinal??ganglier) och
+- autonoma ganglion (kan sitta lite överallt)
+
+Nerver:
+- nervi craniales (kranialnerver, 12 st) - nerver som går ut genom kraniet.
+- Tre namn på delen där axonet går, beroende på var man kollar 
+	- nervi spinales (spinalnerver, 31 st)- de nerver som går ut genom ryggraden och kommer från ryggmärgen
+		- Fäster till ryggmärgen via en framrot (all motorik) och en bakrot (all sensorik)
+		- Nerverna vid ryggraden är typ en båge, där varje nerv har en 
+	- plexa - flätor av många sammangående spinalnerver, som går ut i perifera nerver
+	- perifera nerver - kopplar med 
+
+> En nerv kan ha både sensoriska och motoriska axon
+
+Autonoma nervsystemet består av 
+- sympaticus (sympatiska nervsystemet) - "fight, fright and flight"; första nervcellen sitter mellan T1-L2
+	- autonoma nervsystemet har ju 2 st nervceller innan det når sitt målorgan
+	- paravertebrala ganglion - går *bakom* (sidan också?) ryggraden
+		- "sympatiska gränssträngen" - sträng av paravertebrala ganglier längs ryggraden
+	- prevertebrala ganglion - går *framför* ryggraden
+	- I vissa fall, då det inte finns någon bra nerv, går nervcellen genom blodkärl
+- parasympaticus (parasympatiska nervsystemet) - "resting and digesting"
+	- Kraniell del g. kranialnerv 3, 7, 9 och 10 (*vagus*)
+	- Sakral del (cornu lateralis S2-S4)
+	- Kraniella och intramurala (i väggen av organ) ganglier

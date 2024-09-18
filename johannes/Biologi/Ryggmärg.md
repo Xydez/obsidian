@@ -1,6 +1,6 @@
 #biologi #biologi/anatomi  
 
-Ryggmärgen är en centimetertjock cylinder i ryggen tillhörandes det [[Nervsystemet|centrala nervsystemet]] tillsammans med [[Hjärna|hjärnan]].
+Ryggmärgen är en centimetertjock cylinder i ryggen tillhörandes det [[Biologi/Nervsystemet|centrala nervsystemet]] tillsammans med [[Hjärna|hjärnan]].
 
 Ryggmärgen har som funktion att
 1. koppla om sensoriska och motoriska neuroner i *reflexer* och

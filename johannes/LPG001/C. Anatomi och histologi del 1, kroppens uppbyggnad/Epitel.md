@@ -37,7 +37,7 @@ Typiskt för epitel är att:
 - mitokondrierna är basalt
 - golgiapparaten är apikalt om cellkärnan
 
-![[Pasted image 20240912084458.png]]
+![[Epitel (sidovy).png]]
 
 ### b. Cell junctions
 **Cell junctions**
@@ -46,7 +46,7 @@ Finns
 	- --> Tight junctions ("täta fogar") = "barriär junction"
 - Cell-BM
 
-![[Pasted image 20240912084347.png]]
+![[Cell junction transmembranprotein.png]]
 
 Har var sitt transmembranprotein, som binder till cytoskeletala filament inuti cellen, och varandra utanför.
 
@@ -63,10 +63,10 @@ Så tätt att t.o.m. enskilda joner inte kan ta sig över.
 
 Celler i ett epitel, ovanifrån, bildar typ hexagoner.
 
-![[Pasted image 20240912085001.png]]
+![[Tight junction.png]]
 
 **Tight junction ovanifrån**
-![[Pasted image 20240912085253.png]]
+![[Cell junctions (apikal vy).png]]
 
 Tight junctinos hindrar även apikala membranproteiner från att flyta i lipiderna inåt.
 
@@ -87,9 +87,9 @@ Apical junction (*zonula adhaerens*) = AJ (egentligen adherens junction)
 	- Viktig för celladhesion, samt för cellens **polaritet**
 		- Finns typ proteiner på insidan, som hjälper till att "organisera cytoskelettet"?
 
-![[Pasted image 20240912090220.png]]
+![[Cell junctions 3.png]]
 
-![[Pasted image 20240912092552.png]]
+![[Cell junctions.png]]
 
 **Junction nr 3. - Desmosom (DS)**
 Skiljer sig ifrån AJ & TJ på två sätt:
@@ -101,7 +101,7 @@ Skiljer sig ifrån AJ & TJ på två sätt:
 
 Mot Cell-BM finns *hemidesmosomer* (HDS). Hemidesmosomer fäster mot basalmembranet direkt, och inte mot en annan desmosom. (hemi = halv)
 
-![[Pasted image 20240912092512.png]]
+![[Desmosom.png]]
 ### c. Basalmembranet
 Basalmembranet är *acellulärt* (inga celler), utan består av (protein)/glykoproteiner
 
@@ -111,7 +111,7 @@ Basalmembranet är *acellulärt* (inga celler), utan består av (protein)/glykop
 - Barriär för celler - säkerställer att celler stannar på rätt sida (undantag t.ex. dendritiska celler)
 	- 80-90% av alla cancerformer uppstår i epitel - basalmembranet skyddar mot metastasering
 
-![[Pasted image 20240912093751.png]]
+![[Basal membran.png]]
 
 Basalmembranet består av basala lamina, som produceras av epitelceller, och retikulärt lamina, som produceras av bindvävscellerna.
 
@@ -151,7 +151,7 @@ Epitel : hög omsättning av celler (de byts ut snabbt, eftersom de tar mycket s
 
 Stamceller för epitelceller finns mellan epitelcellerna; finns alltid någonstans i epitelet.
 
-![[Pasted image 20240912100256.png]]
+![[Stamcell i epitel.png]]
 
 Stamceller ligger i regel alltid väldigt basalt (nära basalmembranet). De kan antingen ligga ensamma i små fickor, eller finnas i egna avdelningar, t.ex. i tarmen.
 
@@ -159,7 +159,7 @@ Stamceller ligger i regel alltid väldigt basalt (nära basalmembranet). De kan 
 ## 3. Epiteltyper
 
 platt, kubisk, cylinder
-![[Pasted image 20240912102701.png]]
+![[Epitelcellers former.png]]
 
 > Man brukar ge namn åt ett epitel efter de yttersta cellerna för flerskiktade. Därför är t.ex. huden ett "flerskiktat skivepitel" även om det huvudsakligen är de yttersta som är platta medan de inre är kubiska.
 
@@ -174,7 +174,7 @@ Ser ut som flera lager, men är bara ett lager(?). Alltså att cellkärnorna är
 
 > Det går ofta inte att se skillnaden mellan flerradigt kontra flerskiktat epitel. (Det är just därför det heter pseudostratified)
 
-![[Pasted image 20240912104058.png]]
+![[Pseudostratified epithel.png]]
 
 **Övergångsepitel**
 Hittas i urinblåsan och urinledare. Tänjbar, måste tåla mekanisk nötning pga. t.ex. förkalkningar(?).
@@ -183,7 +183,7 @@ Flerskiktad (tror forskare, just nu).
 
 > Det går ofta inte att se skillnaden mellan uttänjt övergångsepitel och flerskiktat skivepitel.
 
-![[Pasted image 20240912104408.png]]
+![[Umbrella cell.png]]
 
 Har s.k. paraplyceller. När blåsan är fylld, så sträcks liksom alla celler runtom för att öka storleken. Detta gör också att paraplycellerna trycks in i mellanutrymmet.
 

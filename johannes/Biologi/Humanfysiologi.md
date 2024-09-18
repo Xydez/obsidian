@@ -19,7 +19,7 @@ System i människokroppen:
 	- [[Fortplantningssystemet]]
 - [[Endokrina systemet]]
 - [[Kardiovaskulära systemet]]
-- [[Nervsystemet]]
+- [[Biologi/Nervsystemet]]
 - Tuggsystemet
 - Blod- och immunsystemet
 	- Hematopoetiska systemet

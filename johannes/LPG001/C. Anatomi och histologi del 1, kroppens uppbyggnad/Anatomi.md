@@ -288,7 +288,7 @@ Det finns tre typer av kapillärer med olika permeabilitet:
 - Fenestrerad - cellerna har även små öppningar (fenestrae) som medger transport över membranet av makromolekyler (joner eller kanske något protein), vilket t.ex. finns i tarmen eller njuren
 - Sinusoid - cellerna är inte riktigt tätt an mot varandra, utan det finns små håligheter; dessa medger att hela celler, t.ex. vita blodkroppar, tar sig över, och finns därför i t.ex. benmärg 
 
-![[Artär och ven.png]]
+![[LPG001/C. Anatomi och histologi del 1, kroppens uppbyggnad/Bilder/Artär och ven.png]]
 #### Kända kärl
 - Aorta thoracica - består av arcus aortae (bågen), aorta ascendens (uppåtstigande delen) och aorta descendens (nedåtstigande delen)
 	- Tre förgreningar på toppen av arcus aortae
