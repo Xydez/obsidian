@@ -7,7 +7,7 @@ aliases:
 #biologi #biologi/fysiologi 
 
 Det kardiovaskulära systemet är det [[Humanfysiologi|fysiologiska]] system som transporterar runt
-[[Blod|blod]] i kroppen genom blodkärl. De kärl som leder ut från hjärtat kallas *artärer* medan de som leder tillbaka kallas *vener*. Artärerna delas i flera små kärl - kapillärer - för att sedan grena ihop igen till venerna.
+[[Biologi/Blod|blod]] i kroppen genom blodkärl. De kärl som leder ut från hjärtat kallas *artärer* medan de som leder tillbaka kallas *vener*. Artärerna delas i flera små kärl - kapillärer - för att sedan grena ihop igen till venerna.
 ## Cirkulation
 Hjärtat består av två förmak som suger in blodet från kroppen och två kammare som pumpar ut det.
 
