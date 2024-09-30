@@ -1,4 +1,4 @@
-## Instuderingsfrågor Endokrina organ 
+## Endokrina organ 
 1. Vilka gemensamma egenskaper kännetecknar endokrina organ? 
 2. Regleringen av endokrina systemet sker via s k feedback, oftast negativ – vad syftar denna till? Vad är det som vill uppnås/bibehållas? 
 3. Försök ge ett exempel på negativ feedback. 
@@ -11,7 +11,7 @@
 10. Var sitter bukspottkörteln (pancreas)? Beskriv med latinska lägesord i förhållande till omgivande organ/strukturer. 
 11. Pancreas är både en exokrin och en endokrin körtel – beskriv vad som produceras i respektive del, vilken funktion denna produkt har (mycket kort!) och hur man histologiskt kan åtskilja de båda delarna:
 
-## Instuderingsfrågor Hud 
+## Hud 
 1. Beskriv hudens uppbyggnad och funktioner. 
 2. Hur är dermis uppbyggd? 
 3. Vad är skillnaden mellan histologiskt tjock och histologiskt tunn hud? Vilka adnexa finns respektive saknas i de två hudtyperna? 
@@ -23,18 +23,30 @@
 9. Beskriv hårfollikelns uppbyggnad. Vilka celler ger upphov till hår och inre epiteliala skidan?
 10. Vilka strukturer står för den sensoriska informationen från huden till CNS? Var i huden finns dessa? Finns det många av någon av dessa på vissa platser på huden?
 
-## Instuderingsfrågor på lymfatiska organ 
-1. Hur bildas bildas lymfa?
-2. Hur transporteras lymfa tillbaka till blodet? 
-3. Konstitutiva och adaptiva immunsystemet, varför behövs kontrollsystem för adaptiva celler? 
-4. Vilka är de primära och sekundära lymfoida organen? 
-5. Vad är antigenpresentation? 
-6. Vad är en naiv T-cell resp B-cell? 
+## Lymfatiska organ
+1. Hur bildas lymfa?
+	- Genom absorption av den vätska som diffunderat ut i vävnaderna från kärlen
+2. Hur transporteras lymfa tillbaka till blodet?
+	- Via lymfkärl som går ut i kapillärbädden, genom backventiler
+3. Konstitutiva och adaptiva immunsystemet, varför behövs kontrollsystem för adaptiva celler?
+	- Eftersom de genereras slumpmässigt finns det en risk att de angriper något kroppseget
+4. **Vilka är de primära och sekundära lymfoida organen?**
+	- De primära lymfatiska organen (thymus/bräss och benmärg) producerar lymfocyter, dessa har inga lymffolliklar
+	- De sekundära lymfatiska organen (lymfnoder, tonsiller/halsmandlar, mjälte)
+5. **Vad är antigenpresentation?**
+	- För att T-celler ska aktiveras måste en APC (antigenpresenterande cell) uppvisa antigenet, först därefter kan den börja duplicera sig osv.
+6. **Vad är en naiv T-cell resp B-cell?** 
+	- TODO: Ingen aning
 
 **Thymus:** 
-7. Histologisk uppbyggnad? 
-8. De epitelioretikulära cellernas olika funktioner? 
-9. Hur går kontrollen av T-cellerna i tymus till? 
+7. Histologisk uppbyggnad?
+	- Flera delar med varsin bark och märg, barken mörkare eftersom finns många T-celler som utprövas i första stadiet (positiv selektion); Hassalska kropparna i märgen, negativ selektion
+8. **De epitelioretikulära cellernas olika funktioner?** 
+	- TODO: Ingen aning
+
+**TODO: FORTSÄTT HÄR**
+
+9. Hur går kontrollen av T-cellerna i thymus till? 
 10. (Hur kan Tymus kontrollera att en T-cell inte har specificitet för en peptid som selektivt uttrycks i exv njuren? Vad händer med en T-cell som uppvisar autoreaktivitet?) 
 11. Hur förändras T-cellerna längs vägen i tymus? 
 12. Vad är Hassalska kroppar? 
