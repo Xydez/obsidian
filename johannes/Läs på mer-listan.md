@@ -108,6 +108,34 @@
 - Periportala fältet
 - Tre zoner i anus
 
+**Mer**
+- vad är hårmatrix?
+- inre och yttre rotskidan
+- talgkörtel (vilken sorts sekretion? merokrin eller holokrin?)
+- epitelioretikulära celler (vad fan är detta? finns de i mjälten?)
+- har thymus afferenta lymfkärl?? vad var de där trabeklerna nu igen?
+- vilka delar/celler består smaklökar av? ("sinnesceller, stödjeceller och basalceller"? eller fake svar?)
+- "sement" vad fan är detta?
+- vad utsöndrar huvudceller respektive parietalceller?
+- hur är strukturen av parietalceller?
+	- H+/K+/ATPase
+	- Canaliculi
+- (onödig) Vad är "intrinsic factor som behövs för absorption av vitamin B12"?
+- Vart leder lacteal någonvart? vad är dess syfte? (tror: lipider)
+- "Auerbachs Plexus" vad är detta? Är inte det den där klumpen som sticker ut från colon?
+- Pankreas har en särskilt långa skarvstycken
+- Hur ser gallblåsan ut histologiskt?
+- Vilken cell producerar surfaktant i alveolerna? (svar: pneumocyt typ 2???)
+- Vad gör Claraceller/clubceller för något?
+- Vilka strukturer måste den inandade luften passera för att nå insidan av kapillärerna (där luft/blod-barriären är som tunnast)?
+- Vilken typ av nervcell använder olfaktoriskt epitel för att känna lukt? (bipolära neuron???)
+- ~~Rokitansky-Aschoffsinusar~~
+- Trachea felaktig: "Har en intre cirkulär och en yttre longitudinell muskulatur"
+- Trachea har ett *flerradigt cilierat cylinderepitel*
+- Luktepitel bekläds liksom respiratoriskt epitel av cilier
+
+**TODO**: Gå tillbaka till vissa av frågorna
+
 ---
 
-- funduskörtlar/gastric gland
+- funduskörtlar/gastric gland (och pyloriska körtlar)
