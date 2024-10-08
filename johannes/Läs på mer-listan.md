@@ -133,6 +133,8 @@
 - Trachea felaktig: "Har en intre cirkulär och en yttre longitudinell muskulatur"
 - Trachea har ett *flerradigt cilierat cylinderepitel*
 - Luktepitel bekläds liksom respiratoriskt epitel av cilier
+- "Förutom emalj, vad omringar dentinet i vuxna tänder?" "sement" -- vad är sement
+- Kom ihåg: det fanns väl två sorters gångar i levern? liksom en annan för galla?
 
 **TODO**: Gå tillbaka till vissa av frågorna
 
