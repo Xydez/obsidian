@@ -1,0 +1,2 @@
+- diafysen/epifysen - vilken har den bredaste märghålan?
+- vilken del har det tjockaste "kortikala benet"?
