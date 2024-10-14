@@ -95,8 +95,6 @@ Svar: 2,4
 
 **Poäng:** 1,0 / 1,0 p
 
-## HÄR TAR DET STOPP FÖR IDAG, MIN VÄN (todo: fortsätt gå igenom och skapa Anki-kort; obs: kolla även igenom kommentarer ovan)
-
 12. Bindväv 2
 Svar: 2,4
 
@@ -105,6 +103,8 @@ Svar: 2,4
 
 **Poäng**: 0,0 / 1,0 p
 **Facit:** Hyaluran är en viktig glukosaminoglykan i grundsubstansen
+
+## HÄR TAR DET STOPP FÖR IDAG, MIN VÄN (todo: fortsätt gå igenom och skapa Anki-kort; obs: kolla även igenom kommentarer ovan)
 
 13. Bindväv 3
 Svar: 1,3
