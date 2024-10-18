@@ -104,13 +104,10 @@ Svar: 2,4
 **Poäng**: 0,0 / 1,0 p
 **Facit:** Hyaluran är en viktig glukosaminoglykan i grundsubstansen
 
-## HÄR TAR DET STOPP FÖR IDAG, MIN VÄN (todo: fortsätt gå igenom och skapa Anki-kort; obs: kolla även igenom kommentarer ovan)
-
 13. Bindväv 3
 Svar: 1,3
 
 **Poäng:** 1,0 / 1,0 p
-
 14. Ben
 a) B
 b) F
@@ -135,11 +132,11 @@ Svar: --
 > Hjäälp!! Visste inte ens att det fanns grå/vit substans i PNS; och vilken är vilken?
 
 **Poäng:** 0,0 / 1,0 p
-**Facit:** Vit substans är myelinerad medan grå substans inte är det; grå substans finns i spinalnervsganglion, medan vit substans finns i perifer nerv
+**Facit:** Vit substans är myelinerad medan grå substans inte är det; grå substans finns i spinalnervsganglion, medan vit substans finns i perifer nerv.
 
 17. Nervsystemet 3
 
-Det finns två typer av stödjeceller (gliaceller) i PNS: satellitceller, som befinner sig runt nervcellskroppen och ???, som bildar myelinskidor runt nerver som fordrar hög hastighet.
+Det finns två typer av stödjeceller (gliaceller) i PNS: satellitceller, som befinner sig runt nervcellskroppen och ???, som bildar myelinskidor runt de nervceller som fordrar hög hastighet.
 
 > HJÄÄLP
 
@@ -187,14 +184,14 @@ Funktionen för en fenestrerad kapillär är att släppa igenom även större mo
 > Finns dessa i levern? Vad gör ens levern!??
 
 **Poäng:** 0,5 / 1,0 p
-**Facit:** Finns i tunntarm, njure, bukspottskörtel (pankreas), gallblåsa och endokrina körtlar
+**Facit:** Typexemplet är i njuren där de används för att filtrera blodet, men de finns även i tunntarmen för absorption av näringsämnen och vätska.
 
 23. Lymfatiska 1
 
 Thymus är del av de centrala lymfatiska organen som aldrig har lymffolliklar. Det är dessutom här själva T-cellerna tränas och lär sig identifiera kroppsegna respektive icke-kroppsegna substanser.
 
 **Poäng:** 0,0 / 1,0 p
-**Facit:** Germinalcentrum är stora kluster av B-celler
+**Facit:** "Primära lymfatiska organen". Germinalcentrum är per definition stora kluster av B-celler.
 
 24. Lymfatiska 2
 
@@ -286,6 +283,8 @@ Väldigt många blodkärl?
 
 **Poäng**: 1,0 / 3,0 p
 
+## FORTSÄTT ANKI HÄR; Todo: kolla "Digestion III"
+
 36. GI histologi 3
 a) -- (**facit:** gallcanaliculi)
 b) Från centralvenen, och a./v. hepatica, mot gallgången???
@@ -305,7 +304,13 @@ d) Itoceller
 **Poäng:** 1,0 / 1,0 p
 
 38. Njure histologi 1
--- (*ej genomgått*)
+
+Den glomerulära filtrationsbarriären består av tre strukturer:
+- fenestrerat endotel för artären
+- basalmembran (negativt laddat, tämligen tjockt)
+- "Filtration slit diaphragm", huvudsakligen bestående av transmembranproteinet *nefrin*, som sticker ut ur podocyternas pediklar och bildar ett slags gitter, genom vilket erytrocyter inte kan passera
+
+Vätska och ämnen i blodet diffunderar och bildar i andra ändan primärurin
 
 **Poäng:** 0,0 / 1,0 p (ej genomgått)
 
@@ -372,4 +377,4 @@ Svar: 3,4
 ---
 
 **Poäng sammanlagt:** 54% (36,5 / 66,5)
-Gräns för godkänt: 66%
+Gräns för godkänt: 66% (44,0)
