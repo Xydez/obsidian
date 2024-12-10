@@ -7,12 +7,16 @@
 	- Kreatinfosfat?
 	**Sprint**
 	- Anaerob - pyruvat bildar laktat
-	- *Besvara efter **Coricykeln***
+	- Laktat går via blodet till levern där det genomgår glykoneogenes (laktatdehydrogenas)
 	**Maraton**
 	- Aerob - pyruvat bildar acetyl-CoA
 
 2. **De första timmarna av fasta används framför allt två aminosyror för att generera glukos. Redogör för vilka de är och hur glukos kan bildas från dem.**
-	- *Besvara efter **Nukleotidnedbrytning***
+	- Alanin och glutamin; dessa två transporterar båda kväve till levern
+	- Alanin transamineras till pyruvat
+		- $\ce{\text{alanin} + \alpha\text{-ketoglutarat} ->[alaninaminotransferas] \text{pyruvat} + \text{glutamat}}$
+	- Glutamin deamineras av glutaminas till glutamat
+		- $\ce{\text{glutamin} ->[glutaminas] \text{glutamat} + NH4+}$
 
 3. **Redogör för vad som händer med kroppens metabolism under nattens fasta respektive svält under en period av en månad.**
 	- Under kortare perioder (24-48 timmar) av fasta minskar så småningom blodsockret varvid glukagon insöndras, vilket sätter igång glykogenfosforylas att utföra glykogenolys.
@@ -52,12 +56,15 @@ Källa: https://lakartidningen.se/klinik-och-vetenskap-1/artiklar-1/fallbeskrivn
 7. **Screening har larmat om en ökad koncentration av fenylalanin hos ett nyfött barn. Redogör för vilken som är den mest sannolika orsaken till ökningen genom att hänvisa till metabola vägar. Diskutera en alternativ orsak till förhöjd fenylalaninkoncentration. Redogör också för vilken behandling som bör rekommenderas och varför.**
 	- Fenylketonuri (Föllings sjukdom; PKU)
 	- Fenylalanin omvandlas inte till tyrosin
-	- *Besvara efter **Aminosyrametabolism***
+	- Fenylalanin är en essentiell aminosyra som används för att bilda **tyrosin** (såvitt jag vet ingen annan aminosyra)
+	- $\ce{\text{fenylalanin} + O2 + NADPH + H+ ->[fenylalanin-hydroxylas] \text{tyrosin} + NADP+ + H2O}$
+	- Tyrosin är i sin tur en prekursor till flera katekolaminer (noradrenalin, dopamin)
 
 8. **Antonio, 14 år, har inga problem med att promenera som är en lågintensiv aktivitet, men när han börjar springa som är en högintensiv aktivitet får han ont i sina muskler. En muskelbiopsi visar att Antonio har förhöjda värden av glukos-6-fosfat och fruktos-6-fosfat, men låga värden av fruktos-1,6-bisfosfat och laktat. Vad säger provvärdena om Antonios metabolism och hur kan de kopplas samman med hans problem?**
-	- Fosfofruktokinas (steg 3) förefaller vara inhiberat; troligen av en ansamling av citrat i citronsyracykeln då denna är överbelastad
+	- Fosfofruktokinas (steg 3) förefaller vara inhiberat; %% troligen av en ansamling av citrat i citronsyracykeln då denna är överbelastad %%
+	- Högintensiv träning = anaerob metabolism
 	- Problemet förefaller vara att laktatdehydrogenaset inte fungerar
-	- Möjligen lider Antonio av laktatdehydrogenasbrist?
-	- *Besvara efter **Coricykeln***
+	- Möjligen lider Antonio av **laktatdehydrogenasbrist**
+	- Fruktos-1,6-bisfosfat är lurigt, vad är det som inhiberar? Kanske aktiveras hans fosfofruktokinas 1 inte tillräckligt av F-2,6-BP som bildas av fosfofruktokinas 2 under insulinpåverkan = diabetes? Svag teori dock
 
 > Vi kan utesluta fruktos-2,6-bisfosfat eftersom det bara finns i levern.
