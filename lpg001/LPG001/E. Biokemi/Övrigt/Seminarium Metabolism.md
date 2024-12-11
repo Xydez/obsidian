@@ -3,7 +3,9 @@
 		- aktiverar glykogenfosforylas
 		- aktiverar fosfofruktokinas
 	- Adrenalin binder till 7TM -> cAMP -> ... -> glykogenfosforylas
-	- $\ce{Ca^{2+}}$ aktiverar fosforylaskinas -> aktiverar glykogenfosforylas
+	- $\ce{Ca^{2+}}$ aktiverar
+		- fosforylaskinas -> aktiverar glykogenfosforylas
+		- PDH-fosfatas -> aktiverar PDH
 	- Kreatinfosfat?
 	**Sprint**
 	- Anaerob - pyruvat bildar laktat
@@ -21,6 +23,7 @@
 3. **Redogör för vad som händer med kroppens metabolism under nattens fasta respektive svält under en period av en månad.**
 	- Under kortare perioder (24-48 timmar) av fasta minskar så småningom blodsockret varvid glukagon insöndras, vilket sätter igång glykogenfosforylas att utföra glykogenolys.
 	- Under längre perioder av fasta tar glykogenförråden så småningom slut varvid  glykolysen slutar vara primär källa för acetyl-CoA. Istället används lipolysen och β-oxidation. Fett kan inte korsa blod-hjärnbarriären varför ketonkroppar tillverkas via ketogenesen i levern och används som huvudsaklig energibärare (istället för glukos).
+	- Aminosyrametabolismen kan äv. kicka igång 
 
 4. **När syre reduceras i slutet av elektrontransportkedjan bildas en mindre mängd reaktiva syreföreningar som sidoprodukter. Redogör för vilka de reaktiva syreföreningarna är, vad som gör dem reaktiva och vad cellen har för enzymatiskt försvar mot dem.**
 	- I komplex IV oxiderar CytC-oxidas CytC och reducerar syre genom att hålla det mellan en järnjon och en kopparjon, så att $\ce{4e- + O2 -> 2H2O}$
