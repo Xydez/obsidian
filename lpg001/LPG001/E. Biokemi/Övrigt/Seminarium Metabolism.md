@@ -29,16 +29,26 @@
 		- De är reaktiva eftersom de är starkt reducerat syre; syre är ett bra oxidationsmedel
 		- Obs! Syre har ett oxidationstal på -1 i peroxider
 	- Kroppen försvarar sig från ROS med enzymer och vitaminer
-		- Superoxid = Superoxiddismutas: $\ce{2O2- + 2H+ <=>[superoxiddismutas] O2 + H2O2}$
+		- Superoxid = **Superoxiddismutas**: $\ce{2O2- + 2H+ <=>[superoxiddismutas] O2 + H2O2}$
 			- Finns en mitokondrie-variant (med mangan $\ce{Mn}$) och en cytoplasma-variant (med koppar/zink)
 			- Finns två former, $\ce{M_\text{ox}}$ och $\ce{M_\text{red}}$
 			- Delreaktion 1 - oxiderar en superoxidjon och blir reducerar
 				- $\ce{M_\text{ox} + O2- -> M_\text{red} + O2}$
 			- Delreaktion 2 - oxiderar en superoxidjon för att bilda väteperoxid
 				- $\ce{M_\text{red} + O2- + 2H+ -> M_\text{ox} + H2O2}$
-		- Väteperoxid = Katalas: $\ce{2H2O2 <=>[katalas] O2 + 2H2O}$
+		- Väteperoxid = **Katalas**: $\ce{2H2O2 <=>[katalas] O2 + 2H2O}$
 		- Antioxidant-vitaminerna: vitamin E (lipofil = skyddar membran) och vitamin C
 	- Se Berg, Stryer et al., Biochemistry 10e; s560-561
+	- Även **NADPH** används i **Glutation-systemet** (OBS använder också superoxiddismutas).
+
+Asså i steg 2 kan du antingen ta katalas eller glutation-peroxidas (asså peroxidasen tillför två elektroner).
+
+Så
+1. $\ce{\text{glutation}_\text{ox}}$ (G-S-S-G, ihopsatta) reduceras av glutationreduktas till $\ce{\text{glutation}_\text{red}}$ (2G-SH) med hjälp av $\ce{NADPH}$
+2. $\ce{\text{glutation}_\text{red}}$ (2G-SH) oxideras av glutationperoxidas till $\ce{\text{glutation}_\text{ox}}$ varvid $\ce{H2O2}$ reduceras till $\ce{2H2O}$ (G-S-S-H)
+
+![[Glutation 2.png]]
+![[Glutationsystemet.png]]
 
 5. **2,4-dinitrofenol är en frikopplare som har använts som bantningspreparat. Redogör för hur 2,4-dinitrofenol verkar och hur det påverkar metabolismen samt vad intag av 2,4-dinitrofenol kan få för konsekvenser.**
 	- Frikopplare kortsluter protongradienten varvid värme frigörs; detta förklarar varför det är ett effektivt bantningspreparat - protongradienten förbrukas som värme => ökar hastigheten för metabolismen
