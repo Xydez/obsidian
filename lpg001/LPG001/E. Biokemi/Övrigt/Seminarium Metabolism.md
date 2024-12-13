@@ -9,9 +9,10 @@
 	- Kreatinfosfat?
 	**Sprint**
 	- Anaerob - pyruvat bildar laktat
-	- Laktat går via blodet till levern där det genomgår glykoneogenes (laktatdehydrogenas)
+	- Laktat går via blodet till levern där det genomgår glykoneogenes (laktatdehydrogenas) (coricykeln)
 	**Maraton**
 	- Aerob - pyruvat bildar acetyl-CoA
+	- Glykogen
 
 2. **De första timmarna av fasta används framför allt två aminosyror för att generera glukos. Redogör för vilka de är och hur glukos kan bildas från dem.**
 	- Alanin och glutamin; dessa två transporterar båda kväve till levern
@@ -23,7 +24,7 @@
 3. **Redogör för vad som händer med kroppens metabolism under nattens fasta respektive svält under en period av en månad.**
 	- Under kortare perioder (24-48 timmar) av fasta minskar så småningom blodsockret varvid glukagon insöndras, vilket sätter igång glykogenfosforylas att utföra glykogenolys.
 	- Under längre perioder av fasta tar glykogenförråden så småningom slut varvid  glykolysen slutar vara primär källa för acetyl-CoA. Istället används lipolysen och β-oxidation. Fett kan inte korsa blod-hjärnbarriären varför ketonkroppar tillverkas via ketogenesen i levern och används som huvudsaklig energibärare (istället för glukos).
-	- Aminosyrametabolismen kan äv. kicka igång 
+	- Aminosyrametabolismen kommer också kicka igång och bryta ned kroppsegna proteiner för att upprätthålla blodsockret?
 
 4. **När syre reduceras i slutet av elektrontransportkedjan bildas en mindre mängd reaktiva syreföreningar som sidoprodukter. Redogör för vilka de reaktiva syreföreningarna är, vad som gör dem reaktiva och vad cellen har för enzymatiskt försvar mot dem.**
 	- I komplex IV oxiderar CytC-oxidas CytC och reducerar syre genom att hålla det mellan en järnjon och en kopparjon, så att $\ce{4e- + O2 -> 2H2O}$
