@@ -36,3 +36,13 @@ PDH har feedforwardaktivering, *inte* feedforwardinhibering!!!
 
 Se frågor på Menti:
 https://www.mentimeter.com/app/presentation/aluseyuwakab5z3yxhai3tpoarj2xxmr/view?question=hkcoxujhk8yq
+
+
+---
+
+Bindningsstyrka beror på *avstånd*.
+Enkelbindning 1,54 Å
+Resonansstabiliserad bindning: 1,4 Å
+Dubbelbindning: 1,34 Å
+
+Sura/basiska aminosyror kommer aldrig vara zwitterjoner - såklart, de har ju ojämnt antal laddningar, så de kan aldrig "bli neutrala".
