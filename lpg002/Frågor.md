@@ -15,7 +15,7 @@ Positiva allostera regulatorer av GABA A.
 
 Benzodiazepiner och etanol gör att GABA A öppnar sig mer i närvaro av 2 GABA än i deras frånvaro, alltså sker en större kloridström.
 
-**Desensificering av ligandstyrda jonkanaler**
+**Desensitisering av ligandstyrda jonkanaler**
 Gäller alla ligandstyrda jonkanaler.
 
 Kanalen funktionellt stänger sig (går in i inaktiverat läge) vid för lång närvaro av liganden.
