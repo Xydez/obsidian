@@ -47,7 +47,7 @@ Renin omvandlar angiotensinogen till angiotensin I, som sedan av ACE omvandlas t
 - ATII stimulerar hypotalamus att producera ADH 
 	- ADH stimulerar vattenreabsorption genom att uppreglera AQP2 i principalcellen
 - ATII stimulerar binjuren att producera aldosteron
-	- Aldosteron stimulerar principalcellen att reabsorbera natrium och sekretera kalium
+	- Aldosteron stimulerar principalcellen att reabsorbera natrium och secernera kalium
 - ATII stimulerar vasokonstriktion i den efferenta arteriolen, alltså ökar GFR
 
 Vid högt blodtryck frisätts däremot ANP av hjärtat som hämmar effekten av ATII.
