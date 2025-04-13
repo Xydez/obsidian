@@ -7,7 +7,7 @@
 ## Njurens autoreglering (Ninja Nerd)
 ### Inre reglering
 #### Myogen mekanism
-Ett ökat blodtryck ger ett myogent svar i afferenta arteriolen som konstrikterar, alltså behålls GFR konstant.
+Ett ökat blodtryck ger ett myogent svar i afferenta arteriolen som konstringerar, alltså behålls GFR konstant.
 #### Tubuloglomerulär feedback
 Obs! Macula densa-celler sitter i distala tubuli, alltså före samlingsröret.
 
