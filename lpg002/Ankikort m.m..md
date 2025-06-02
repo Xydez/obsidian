@@ -51,3 +51,7 @@ Renin omvandlar angiotensinogen till angiotensin I, som sedan av ACE omvandlas t
 - ATII stimulerar vasokonstriktion i den efferenta arteriolen, alltså ökar GFR
 
 Vid högt blodtryck frisätts däremot ANP av hjärtat som hämmar effekten av ATII.
+
+---
+
+Muskeltyp (tonisk, fasisk) > Motorenhetstyp (S, FR, FF) > Fibertyp (I, IIA, IIAX, IIX)
