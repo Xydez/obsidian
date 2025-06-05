@@ -136,6 +136,8 @@ Alla axonen färdas via n. opticus till chiasma opticum där de omarrangeras uti
 Därefter via tractus opticus till primära synkortex (V1) i occipitalloben.
 
 Indelad i hyperkolumner med 18 orienteringskolumner (orientering av enkla celler) och 2 ögondominanskolumner.
+
+Enkla celler - linje. Komplexa celler - linje i rörelse.
 ### Motorik - flexorreflexen och sträckreflexen x3 (todo)
 ...
 ## Block 3 Högre funktioner
@@ -221,6 +223,7 @@ Vid mycket metaboliter kommer vi få en vasodilatation som släpper in mer blod.
 Följdfråga 1: Alltså vid ödem kommer mycket vita blodkroppar flöda dit. Dessutom kommer vi få ett kraftigare lymfdränage som för antigen till lymfknutor.
 
 Följdfråga 2: Lungorna eftersom de inte har några prekapillära resistanskärl. Vi har ett kraftigt lymfdränage för att motverka detta.
+- Lågt hydrostatiskt tryck
 
 
 Varför får vi inte alltid ödem när systemiskt blodtryck ökar? Jo, på grund av det myogena svaret, som försöker hålla väggspänningen konstant (T=Pr) i *arteriolerna*. Det vill säga om blodtrycket (P) ökar, så kommer radien (r) att minska. Alltså leds det ökade blodflödet bara till vävnader som behöver det.
@@ -320,6 +323,7 @@ Hjärtfel:
 - Tredje gradens AV-bock (total dissociation): Sporadiska P-vågor men inga QRS
 - Förmaksflimmer: inga urskiljbara P-vågor, QRS då och då
 - Kammarflimmer: sporadisk aktivitet
+- Grenblock: Leds via kardiomyocyterna istället, två R-vågor
 
 Klaffarna:
 - AV-klaffarna är öppna, stängs vid isovolumetrisk kontraktion, öppnar igen vid snabb kammarfyllnad
@@ -350,7 +354,7 @@ Ju mer venös återfyllnad desto mer överlappar sarkomererna på ett sätt som 
 Följdfrågor:
 - Vad händer vid hyper-/hypotoni?
 
-Baroreceptorer typ II -> NTS -> parasympaticus, hämmar systemisk vasokonstriktion; alltså vätska kan väl dels flöda ut lite mer i vävnader, dels får bara mer plats i blodomloppet.
+Baroreceptorer -> NTS -> parasympaticus, hämmar systemisk vasokonstriktion; alltså vätska kan väl dels flöda ut lite mer i vävnader, dels får bara mer plats i blodomloppet.
 
 Vid hypertoni har glattmuskulaturen omarrangerat sig så att de ger ett för starkt sympaticussvar, därav hypertoni.
 
